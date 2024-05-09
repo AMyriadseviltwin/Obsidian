@@ -20,9 +20,9 @@ Perception, intuition, streetsmarts, piloting spacecraft, resisting psychologica
 
 
 
-# Extended Abilities
+# (OPTIONAL) Extended Abilities
 This is an experimental system meant to add depth to abilities by adding at least 5 **specializations**
-to every ability. These specializations work much in the same way as proficiencies do in 5e, where player characters can choose to specialize in certain things.
+to every ability. These specializations work much in the same way as proficiencies do in 5e, where player characters can choose to specialize in certain things. As it stands, this is still WIP but might be used if it gets fully fleshed out.
 
 ### BODY (BDY)
 

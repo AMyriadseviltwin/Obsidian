@@ -3,5 +3,6 @@
   "useTab": true,
   "showLineNumber": false,
   "showIndentGuide": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "alwaysUpdateLinks": true
 }

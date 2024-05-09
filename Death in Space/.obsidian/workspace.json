@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3969958b7d2e7a51",
+        "id": "077327da0838c9bb",
         "type": "tabs",
         "children": [
           {
-            "id": "53e2120ee88074ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Corporations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d0b08dda33355f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tenebris.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4df7270ad61b00e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tenebris.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "164922cddb4102fe",
+            "id": "88441fc737d141fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,31 +20,31 @@
             }
           },
           {
-            "id": "b907190c21bfcf32",
+            "id": "dba87a96d8bad9f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation.md",
+                "file": "Glossary.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ce65a17eadb83663",
+            "id": "916b8939c9325ef9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Origin.md",
+                "file": "Landing Page.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Origin.md",
+                "file": "Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Origin.md",
+                "file": "Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Origin.md"
+                "file": "Glossary.md"
               }
             }
           }
@@ -204,25 +168,32 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "ce65a17eadb83663",
+  "active": "dba87a96d8bad9f6",
   "lastOpenFiles": [
-    "Tenebris.md",
-    "Abilities.md",
-    "Character Creation.md",
     "Character Details.md",
-    "Origin.md",
-    "Images/Pasted image 20240507085458.png",
+    "Glossary.md",
+    "Abilities.md",
     "Factions/Corporations.md",
+    "Landing Page.md",
+    "Origin.md",
+    "Tenebris.md",
+    "Images/Factions/nanotrasen.png.0.pdnSave",
+    "Images/tenebris_system.png",
+    "Character Creation.md",
+    "Images/Background Art/bg_astronautvoid.png",
+    "Images/Background Art",
+    "D1.png",
+    "Landing.md",
     "Images/Factions/asp_foundation.png",
     "Images/Factions/carthage_industries.png",
     "Images/Factions/haimatsu_technologies.png",
     "Images/Factions/hephaestus_industries.png",
     "Images/Factions/ambercove.png",
     "Images/Factions/stalverket.png",
-    "Images/Factions/nanotrasen.png",
-    "Images/Factions/azimuth.png"
+    "Images/Factions/nanotrasen.png"
   ]
 }

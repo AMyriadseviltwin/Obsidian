@@ -1,4 +1,4 @@
-![[Pasted image 20240507085458.png]]
+![[tenebris_system.png]]
 
 
 ## Tenebris
