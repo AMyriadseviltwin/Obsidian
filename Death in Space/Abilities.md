@@ -1,7 +1,6 @@
-In Death in Space there are four abilities: body (BDY), dexterity (DEX), savvy (SVY), and tech (TEC).
-Whenever a player character tries to do something where the outcome is uncertain, you roll a d20 and add the relevant ability score.
+In Death in Space there are four abilities: **BODY (BDY)**, **DEXTERITY (DEX)**, **SAVVY (SVY)**, and **TECH (TEC)**. When player characters attempt to do something that needs a dice roll, roll a d20 and add your relevant ability score to the roll.
 
-To roll for a new character's ability scores, roll 2d4, one at a time. The ability value is the first roll minus the second. Then rinse and repeat until you have a result for all four abilities.
+To roll for a new character's ability scores, roll 2d4, one at a time. The result is the first roll minus the second. Then rinse and repeat until you have a result for all four abilities.
 Example 1:
 	First roll = **4**
 	Second roll = **2**

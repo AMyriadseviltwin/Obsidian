@@ -13,6 +13,22 @@ Back-mounted drone bot
 Constrictor harness (tight crawl vest)
 Ram shackles (charge smash)
 Battle walker (long legs)
+Anti-drop implant
+Health HUD optics
+Meson HUD optics
+Thermal optics
+Breathing tube implant
+Nutrient pump
+Reviver implant
+Integrated toolset?
+Thruster implant
+Jumpboots
+Magboots
+Stationary subdermal camo
+Storage implant
+Adrenaline implant
+
+
 
 
 

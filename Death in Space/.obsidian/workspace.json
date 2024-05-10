@@ -11,9 +11,11 @@
             "id": "6762c14443f76624",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Close Art/cyber_optics.png"
+                "file": "Abilities.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -23,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary.md",
+                "file": "Cybernetics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary.md",
+                "file": "Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary.md",
+                "file": "Abilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary.md"
+                "file": "Abilities.md"
               }
             }
           }
@@ -158,13 +159,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9145d0c6bea44cef",
+  "active": "6762c14443f76624",
   "lastOpenFiles": [
     "Cybernetics.md",
+    "Glossary.md",
     "Landing Page.md",
+    "Origin.md",
+    "Pasted image 20240510140140.png",
+    "Untitled.md",
+    "Tenebris.md",
+    "Abilities.md",
     "Images/Close Art/cyber_optics.png",
     "Images/Factions/haimatsu_technologies.png",
-    "Untitled.md",
     "Images/Close Art",
     "Images/Background Art/bg_astronautvoid.png",
     "Images/tenebris_system.png",
@@ -172,10 +178,6 @@
     "Images/void1.png",
     "Images/void-sign.png",
     "Factions/Corporations.md",
-    "Tenebris.md",
-    "Pasted image 20240510140140.png",
-    "Glossary.md",
-    "Origin.md",
     "Images/void-sign.png.crdownload",
     "Images/void1.png.crdownload",
     "Images/omicron.png.0.pdnSave",
@@ -185,7 +187,6 @@
     "Images/Factions/hephaestus_industries.png",
     "Images/Factions/hephaestus_industries.png.0.pdnSave",
     "Character Details.md",
-    "Abilities.md",
     "Images/Factions/nanotrasen.png.0.pdnSave",
     "Character Creation.md",
     "Images/Background Art",
