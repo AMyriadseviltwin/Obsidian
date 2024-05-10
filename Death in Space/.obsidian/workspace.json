@@ -11,23 +11,9 @@
             "id": "6762c14443f76624",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Factions/Corporations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be0817fcae347f9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybernetics.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Close Art/cyber_optics.png"
               }
             }
           },
@@ -37,14 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Glossary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Landing Page.md"
+                "file": "Glossary.md"
               }
             }
           }
@@ -175,33 +161,35 @@
   "active": "9145d0c6bea44cef",
   "lastOpenFiles": [
     "Cybernetics.md",
-    "Factions/Corporations.md",
     "Landing Page.md",
-    "Images/void-sign.png",
-    "Images/void-sign.png.crdownload",
+    "Images/Close Art/cyber_optics.png",
+    "Images/Factions/haimatsu_technologies.png",
+    "Untitled.md",
+    "Images/Close Art",
+    "Images/Background Art/bg_astronautvoid.png",
+    "Images/tenebris_system.png",
+    "Images/omicron.png",
     "Images/void1.png",
+    "Images/void-sign.png",
+    "Factions/Corporations.md",
+    "Tenebris.md",
+    "Pasted image 20240510140140.png",
+    "Glossary.md",
+    "Origin.md",
+    "Images/void-sign.png.crdownload",
     "Images/void1.png.crdownload",
     "Images/omicron.png.0.pdnSave",
-    "Images/omicron.png",
     "Images/omicron.png.crdownload",
     "Images/haimatsu.png.0.pdnSave",
-    "Images/haimatsu.png",
     "Images/haimatsu.png.crdownload",
-    "Glossary.md",
-    "Pasted image 20240510140140.png",
-    "Origin.md",
     "Images/Factions/hephaestus_industries.png",
     "Images/Factions/hephaestus_industries.png.0.pdnSave",
     "Character Details.md",
-    "Tenebris.md",
     "Abilities.md",
     "Images/Factions/nanotrasen.png.0.pdnSave",
-    "Images/tenebris_system.png",
     "Character Creation.md",
-    "Images/Background Art/bg_astronautvoid.png",
     "Images/Background Art",
     "D1.png",
-    "Landing.md",
-    "Images/Factions/asp_foundation.png"
+    "Landing.md"
   ]
 }

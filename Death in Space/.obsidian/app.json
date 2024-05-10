@@ -6,5 +6,7 @@
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "smartIndentList": true
+  "smartIndentList": true,
+  "propertiesInDocument": "visible",
+  "promptDelete": false
 }

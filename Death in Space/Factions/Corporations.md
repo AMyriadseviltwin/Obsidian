@@ -52,7 +52,7 @@ Tools/Ships/Cyberware/Machinery
 
 ## HAIMATSU TECHNOLOGIES
 
-| ![[haimatsu.png]]         |
+| ![[haimatsu_technologies.png]]         |
 | ------------------------- |
 | **Haimatsu Technologies** |
 Cyberware/Tools/Medical tech
