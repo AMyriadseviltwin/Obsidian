@@ -1,10 +1,25 @@
-Hehehe landing. Get it?
+#### //////////////////////////////////////////////////////////////
+####   Welcome ==-USER-== to the awesome SRD made to guide you to your
+##                   *DEATH IN SPACE*
 
-#### Anyways WELCOME to the awesome SRD made to guide you to your *DEATH IN SPACE*
 ![[bg_astronautvoid.png]]
+####                        ENJOY YOUR STAY :)
+#### //////////////////////////////////////////////////////////////
+
+### This here is the home page.
+### **You can return to it any time by pressing `Ctrl + H`**
 
 
-### This here is the home page. **You can return to it any time by pressing `Ctrl + H`**
+
+Character creation
+Player resources
+
+Factions
+
+Map
+
+
+
 
 
 ### Want to make a new character? Do this:

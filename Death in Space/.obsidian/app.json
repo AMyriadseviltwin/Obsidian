@@ -5,5 +5,6 @@
   "showIndentGuide": true,
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "smartIndentList": true
 }

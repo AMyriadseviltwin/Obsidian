@@ -9,15 +9,15 @@ Choose your allies, and enemies, wisely.
 
 ## AMBERCOVE
 
-| ![[ambercove.png]] |
-| ------------------ |
-| **Ambercove S&R**  |
-Search and rescue, emergency evacuations, distress signal dispatch
+| ![[ambercove.png]]                                                           |
+| ---------------------------------------------------------------------------- |
+| **Ambercove S&R**                                                            |
+| - Search and rescue<br>- Emergency evacuations<br>- Distress signal dispatch |
 
 
 
 
-	Search and rescue group comprised of ex-navvies. Dispatches "whales" to most distress calls in Tenebris, and they do their job professionally well. Incur a heavy fee depending on how difficult the save was. If client can't pay, their account is put on a debt system. Crews also hunt down those who don't pay up after enough time
+Search and rescue group comprised of ex-navvies. Dispatches "whales" to most distress calls in Tenebris, and they do their job professionally well. Incur a heavy fee depending on how difficult the save was. If client can't pay, their account is put on a debt system. Crews also hunt down those who don't pay up after enough time
 
 
 
@@ -52,9 +52,9 @@ Tools/Ships/Cyberware/Machinery
 
 ## HAIMATSU TECHNOLOGIES
 
-| ![[haimatsu_technologies.png]] |
-| ------------------------------ |
-| **Haimatsu Technologies**      |
+| ![[haimatsu.png]]         |
+| ------------------------- |
+| **Haimatsu Technologies** |
 Cyberware/Tools/Medical tech
 
 
@@ -66,12 +66,18 @@ Cyberware/Tools/Medical tech
 | **Hephaestus Shipworks**       |
 Salvaging and scrapping, Heavy ships/Tools/Vehicles/Machinery
 
+![[hephaestus_shipworks.png]]
+
+![[omicron.Png]]
+
+
+
 
 ## KONBINA
 
-| ![[konbina.png]] |
-| ---------------- |
-| **Konbina**      |
+| ![[konbina.png]]        |
+| ----------------------- |
+| **Konbina Corporation** |
 Affordable mass produced food, agriculture and food engineering, biomatter reactors and fuel
 
 Research heavy agricultural giant with a big focus on gene modding and bioengineering. Hired to provide food to most during the war, but retreated internally to focus on research once supply lines were decimated.

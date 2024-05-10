@@ -1,5 +1,8 @@
 {
-  "accentColor": "",
-  "cssTheme": "",
-  "interfaceFontFamily": ""
+  "accentColor": "#ffffff",
+  "cssTheme": "WY Console",
+  "interfaceFontFamily": "",
+  "theme": "system",
+  "baseFontSizeAction": false,
+  "baseFontSize": 15
 }
