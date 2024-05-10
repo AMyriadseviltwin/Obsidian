@@ -8,68 +8,125 @@ Choose your allies, and enemies, wisely.
 
 
 ## AMBERCOVE
-![[ambercove.png]]
-	Search and rescue group comprised of ex-navvies. Dispatches "whales" to most distress calls in Tenebris, and they do their job professionally well. Incur a heavy fee depending on how difficulty the save was. If client can't pay, their account is put on a debt system. Crews also hunt down those who don't pay up after enough time
+
+| ![[ambercove.png]] |
+| ------------------ |
+| **Ambercove S&R**  |
+Search and rescue, emergency evacuations, distress signal dispatch
+
+
+
+
+	Search and rescue group comprised of ex-navvies. Dispatches "whales" to most distress calls in Tenebris, and they do their job professionally well. Incur a heavy fee depending on how difficult the save was. If client can't pay, their account is put on a debt system. Crews also hunt down those who don't pay up after enough time
 
 
 
 ## ASP FOUNDATION
-![[asp_foundation.png]]
+
+| ![[asp_foundation.png]] |
+| ----------------------- |
+| **The Asp Foundation**  |
+Mapping, navigation data systems, astronomy research
+
+
 	Former non-profit specializing in star mapping, astronomy, and data for navigation systems. 
 
 
 ## AZIMUTH
-![[azimuth.png]]
+
+| ![[azimuth.png]] |
+| ---------------- |
+| **azimuth**      |
+AR/VR/Non-phys technology, computers, optic cyberware
+
 	AR/VR tech company operating entirely within their own non-phys networks.
 
 
 ## CARTHAGE INDUSTRIES
-![[carthage_industries.png]]
 
+| ![[carthage_industries.png]] |
+| ---------------------------- |
+| **Carthage Industries**      |
+Tools/Ships/Cyberware/Machinery
 
 
 ## HAIMATSU TECHNOLOGIES
-![[haimatsu_technologies.png]]
+
+| ![[haimatsu_technologies.png]] |
+| ------------------------------ |
+| **Haimatsu Technologies**      |
+Cyberware/Tools/Medical tech
 
 
 
-## HEPHAESTUS INDUSTRIES
-![[hephaestus_industries.png]]
+## HEPHAESTUS SHIPWORKS
 
+| ![[hephaestus_industries.png]] |
+| ------------------------------ |
+| **Hephaestus Shipworks**       |
+Salvaging and scrapping, Heavy ships/Tools/Vehicles/Machinery
 
 
 ## KONBINA
-![[konbina.png]]
-	Research heavy agricultural giant with a big focus on gene modding and bioengineering. Hired to provide food to most during the war, but retreated internally to focus on research once supply lines were decimated.
 
+| ![[konbina.png]] |
+| ---------------- |
+| **Konbina**      |
+Affordable mass produced food, agriculture and food engineering, biomatter reactors and fuel
+
+Research heavy agricultural giant with a big focus on gene modding and bioengineering. Hired to provide food to most during the war, but retreated internally to focus on research once supply lines were decimated.
 
 ## LICOME & MERCURY
-![[licome_mercury.png]]
+
+| ![[licome_mercury.png]]   |
+| ------------------------- |
+| **Licome & Mercury Ltd.** |
+Weapons manufacturing and research, spacecraft manufacturing, military research
+
 	Industrial manufacturing superpower behind most ship and weapon designs in Tenebris. Incredibly profitable during the war, but retreated internally when production couldn't be continued.
 
 
 ## NANOTRASEN
-![[nanotrasen.png]]
+
+| ![[nanotrasen.png]] |
+| ------------------- |
+| **NanoTrasen**      |
+Research, luxury and high-end technology, gem-powered energy weapons and shields
+
 	Cutting-edge research company that became prominent during the war after securing and studying a large portion of the fractal gems in Tenebris. Invented energy/laser weaponry and shields, and in the end, won the war as a result. Poured the most resources into the war than any other group, and consequentially lost the most. The organization is still recovering today, if not still sending seekers to reclaim the missing gem tech they left behind - highly sought after treasures for anyone who might stumble across it.
 
 
 ## STÅLVERKET
-![[stalverket.png]]
+
+| ![[stalverket.png]] |
+| ------------------- |
+| **Stålverket AS**   |
+Planetary and asteroid mining, ore refining, mining technology
+
 	Interstellar mining corporation with a firm grip on its active operations. Used to be the largest company in Tenebris, the oppressor of many colonies and the common enemy of several unions and one rebellion - even dominated the gem war for the longest time until NanoTrasen rose to power. Now desperately clings to the settlements it has left, with a leadership trying to their former glory after contact was lost with their headquarters in one of the systems neighbouring Tenebris.
 
 
 ## TRANSIT ALLIANCE
-![[transit_alliance.png]]
-	
+
+| ![[transit_alliance.png]] |
+| ------------------------- |
+| **Transit Alliance**      |
+Unionizing, protection services
 
 
 ## VODYKOV
-![[vodykov.png]]
 
+| ![[vodykov.png]] |
+| ---------------- |
+| **Vodykov**      |
+Contracts and networking, protection services, mercenaries
 
 
 ## X
-![[x.png]]
 
+| ![[x.png]] |
+| ---------- |
+| **X**      |
+Marauding and scavenging, smuggling drugs and illegal tech, contracts
 
 

@@ -3,6 +3,7 @@
   "useTab": true,
   "showLineNumber": false,
   "showIndentGuide": true,
-  "strictLineBreaks": false,
-  "alwaysUpdateLinks": true
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true
 }
