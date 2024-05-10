@@ -20,7 +20,55 @@
             }
           },
           {
-            "id": "9145d0c6bea44cef",
+            "id": "89683a41c701c85d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcc97549681ef6fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shopping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d9a7fdf4b0590e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Corporations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "833083e6ddc8d08c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Landing Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad7b56d7d35d6245",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abilities.md",
+                "file": "Cybernetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abilities.md",
+                "file": "Cybernetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abilities.md"
+                "file": "Cybernetics.md"
               }
             }
           }
@@ -159,16 +208,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6762c14443f76624",
+  "active": "ad7b56d7d35d6245",
   "lastOpenFiles": [
+    "Factions/Cults.md",
+    "Factions/Corporations.md",
     "Cybernetics.md",
+    "Abilities.md",
     "Glossary.md",
+    "Shopping.md",
     "Landing Page.md",
     "Origin.md",
+    "Character Details.md",
+    "AMBERCOVE.md",
     "Pasted image 20240510140140.png",
+    "Images/Factions/golem.png",
+    "Images/Factions/golem.png.crdownload",
+    "Pasted image 20240510190918.png",
     "Untitled.md",
     "Tenebris.md",
-    "Abilities.md",
     "Images/Close Art/cyber_optics.png",
     "Images/Factions/haimatsu_technologies.png",
     "Images/Close Art",
@@ -177,20 +234,15 @@
     "Images/omicron.png",
     "Images/void1.png",
     "Images/void-sign.png",
-    "Factions/Corporations.md",
     "Images/void-sign.png.crdownload",
     "Images/void1.png.crdownload",
     "Images/omicron.png.0.pdnSave",
     "Images/omicron.png.crdownload",
     "Images/haimatsu.png.0.pdnSave",
     "Images/haimatsu.png.crdownload",
-    "Images/Factions/hephaestus_industries.png",
     "Images/Factions/hephaestus_industries.png.0.pdnSave",
-    "Character Details.md",
     "Images/Factions/nanotrasen.png.0.pdnSave",
     "Character Creation.md",
-    "Images/Background Art",
-    "D1.png",
     "Landing.md"
   ]
 }

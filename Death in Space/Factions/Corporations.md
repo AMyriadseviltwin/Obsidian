@@ -50,11 +50,21 @@ AR/VR/Non-phys technology, computers, optic cyberware
 Tools/Ships/Cyberware/Machinery
 
 
+
+## GOLEM 
+
+| ![[golem.png]]          |
+| ----------------------- |
+| **Carthage Industries** |
+Tools/Ships/Cyberware/Machinery
+
+
+
 ## HAIMATSU TECHNOLOGIES
 
-| ![[haimatsu_technologies.png]]         |
-| ------------------------- |
-| **Haimatsu Technologies** |
+| ![[haimatsu_technologies.png]] |
+| ------------------------------ |
+| **Haimatsu Technologies**      |
 Cyberware/Tools/Medical tech
 
 
