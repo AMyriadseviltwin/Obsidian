@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "077327da0838c9bb",
+        "id": "04e2be7c1e6fde29",
         "type": "tabs",
         "children": [
           {
-            "id": "88441fc737d141fe",
+            "id": "0ff33a1815a829d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Details.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dba87a96d8bad9f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "916b8939c9325ef9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Landing Page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7917636e6cb73ca6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Corporations.md",
+                "file": "Abilities.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Corporations.md",
+                "file": "Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Corporations.md",
+                "file": "Abilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Corporations.md"
+                "file": "Abilities.md"
               }
             }
           }
@@ -184,15 +147,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7917636e6cb73ca6",
+  "active": "0ff33a1815a829d4",
   "lastOpenFiles": [
-    "Landing Page.md",
-    "Glossary.md",
-    "Character Details.md",
-    "Abilities.md",
     "Factions/Corporations.md",
+    "Character Details.md",
+    "Glossary.md",
     "Origin.md",
     "Tenebris.md",
+    "Landing Page.md",
+    "Abilities.md",
     "Images/Factions/nanotrasen.png.0.pdnSave",
     "Images/tenebris_system.png",
     "Character Creation.md",

@@ -1,6 +1,6 @@
 {
   "tabSize": 4,
-  "useTab": true,
+  "useTab": false,
   "showLineNumber": false,
   "showIndentGuide": true,
   "strictLineBreaks": true,

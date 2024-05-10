@@ -1,8 +1,8 @@
 In the world of Death in Space, there are no governments like those in the present. The democracies, theocracies, and autocracies of old have been phased out long ago through war and time and economic collapse.
 
-In Space, corporations sell product to consumers for profit. With this profit, they invest in their enterprise, their territory, and by extension, their clients, customers, and employees. Thus, corporations have provided protection and utilities for those living within its borders. This was the way society in Space worked up until the end of the war.
+In Space, corporations sell product to consumers for profit. With this profit, they invest in their enterprise, their territory, and by extension, their clients, customers, and employees. Thus, corporations have provided protection and infrastructure for those living within its spheres of influence. This was the way society in Space worked up until the end of the war.
 
-Now, civilized space is in shambles, a direct consequence of the war. Corporations now retreat to gather strength, their forces decimated and the markets in a freefall. As a consequence, local governments, militias, cults, and crime groups have risen up to reclaim territory for their own, or replace their absent far-off rulers in a desperate attempt to maintain order.
+Now, civilized space is in shambles, a direct consequence of the war. Corporations retreat to their home systems to gather strength, their forces decimated and the markets in a freefall. Others stay in Tenebris in a brazen attempt to salvage the remains of their corporate empires. Because of this, local governments, militias, cults, and crime groups have risen up to reclaim territory for their own, or replace their absent far-off rulers in a desperate attempt to maintain order.
 
 Choose your allies, and enemies, wisely.
 
@@ -81,7 +81,7 @@ Research heavy agricultural giant with a big focus on gene modding and bioengine
 | ![[licome_mercury.png]]   |
 | ------------------------- |
 | **Licome & Mercury Ltd.** |
-Weapons manufacturing and research, spacecraft manufacturing, military research
+Weapons manufacturing and research, spacecraft manufacturing, defense systems
 
 	Industrial manufacturing superpower behind most ship and weapon designs in Tenebris. Incredibly profitable during the war, but retreated internally when production couldn't be continued.
 
@@ -101,7 +101,7 @@ Research, luxury and high-end technology, gem-powered energy weapons and shields
 | ![[stalverket.png]] |
 | ------------------- |
 | **Stålverket AS**   |
-Planetary and asteroid mining, ore refining, mining technology
+Planetary and asteroid mining, ore processing, mining technology
 
 	Interstellar mining corporation with a firm grip on its active operations. Used to be the largest company in Tenebris, the oppressor of many colonies and the common enemy of several unions and one rebellion - even dominated the gem war for the longest time until NanoTrasen rose to power. Now desperately clings to the settlements it has left, with a leadership trying to their former glory after contact was lost with their headquarters in one of the systems neighbouring Tenebris.
 
@@ -111,7 +111,7 @@ Planetary and asteroid mining, ore refining, mining technology
 | ![[transit_alliance.png]] |
 | ------------------------- |
 | **Transit Alliance**      |
-Unionizing, protection services
+Unionizing, trade and shipping, protection services
 
 
 ## VODYKOV
