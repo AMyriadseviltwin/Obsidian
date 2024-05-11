@@ -8,5 +8,6 @@
   "readableLineLength": true,
   "smartIndentList": true,
   "propertiesInDocument": "visible",
-  "promptDelete": false
+  "promptDelete": false,
+  "focusNewTab": true
 }

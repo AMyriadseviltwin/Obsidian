@@ -1,6 +1,6 @@
 ---
 title: Cybernetics
-editor-width: 30
+editor-width: 55
 ---
 
 | IMPR<br>OVE/<br>DEN/<br>HANC<br>EDU/<br>PGRA<br>DED/<br>ENRI<br>CHED<br>AUG/<br>MENT<br>EDRE<br>PAI/<br>REDC<br>ORRE<br>CTED | ![[cyber_optics.png]] | HIGH<br>ERPO<br>OWER<br>FAS/<br>TERB<br>ETT/<br>ERS/<br>TRON<br>GER/<br>HARD<br>ERS/<br>MART<br>ERT/<br>OUGH<br>ERPU<br>RER/ |
@@ -8,7 +8,7 @@ editor-width: 30
 
 ### WELCOME
 
-![[Pasted image 20240511133202.png]]
+![[vitruvian.png]]
 
 
 Head
@@ -41,14 +41,15 @@ Slot
 
 ## EYES
 
-| **CYBERWARE**           | **EFFECT**                                                                                                                                 | **MANUFACTURER** | **PRICE** |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | --------- |
-| OptiFines™              | Enhances vision. Bonus to SVY (Awareness) for perception-related checks.                                                                   | azimuth          |           |
-| Enhanced Reality Optics | Allows user to enter non-phys servers without needing a headset. Cable connects to a port a the front or back of the user's head.          | azimuth          |           |
-| Health HUD Optics       | Used by doctors and surgeons. Displays exact health and heart rate of visible humans.                                                      | Haimatsu         |           |
-| Meson HUD Optics        | Used by breachmen and shipbreakers. Toggle to see only structures (walls and floors) in a radius around user, even through solid surfaces. | Carthage/Golem   |           |
-| Thermal Optics          | A rare, expensive piece of military tech. Toggle to enable thermal vision, also lets user see 5m through solid surfaces.                   | NanoTrasen       |           |
-|                         |                                                                                                                                            |                  |           |
+| **CYBERWARE**           | DESCRIPTION | **EFFECT**                                                                                                                                 | **MANUFACTURER** | **PRICE** |
+| ----------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | --------- |
+| OptiFines™              |             | Enhances vision. Bonus to SVY (Awareness) for perception-related checks.                                                                   | azimuth          |           |
+| Enhanced Reality Optics |             | Allows user to enter non-phys servers without needing a headset. Cable connects to a port a the front or back of the user's head.          | azimuth          |           |
+| Health HUD Optics       |             | Used by doctors and surgeons. Displays exact health and heart rate of visible humans.                                                      | Haimatsu         |           |
+| Meson HUD Optics        |             | Used by breachmen and shipbreakers. Toggle to see only structures (walls and floors) in a radius around user, even through solid surfaces. | Carthage/Golem   |           |
+| Thermal Optics          |             | A rare, expensive piece of military tech. Toggle to enable thermal vision, also lets user see 5m through solid surfaces.                   | NanoTrasen       |           |
+|                         |             |                                                                                                                                            |                  |           |
+|                         |             |                                                                                                                                            |                  |           |
 
 
 ## CHEST
@@ -59,7 +60,6 @@ Slot
 | AID/Reviver Implant     |            | Haimatsu         |           |
 | Adrenal/Stimpak Implant |            | Haimatsu         |           |
 | Constrictor Harness     |            |                  |           |
-|                         |            |                  |           |
 |                         |            |                  |           |
 
 
@@ -82,6 +82,7 @@ Slot
 | Knucklebuster/Armshotgun |            |                  |           |
 | Armcannon                |            |                  |           |
 | Integrated Toolset       |            |                  |           |
+| Extendo-Arms             |            |                  |           |
 |                          |            |                  |           |
 
 

@@ -3,6 +3,6 @@
   "cssTheme": "WY Console",
   "interfaceFontFamily": "",
   "theme": "system",
-  "baseFontSizeAction": false,
-  "baseFontSize": 15
+  "baseFontSizeAction": true,
+  "baseFontSize": 14
 }
