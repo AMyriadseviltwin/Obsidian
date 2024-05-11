@@ -51,12 +51,12 @@ Tools/Ships/Cyberware/Machinery
 
 
 
-## GOLEM 
+## GOLEM
 
-| ![[golem.png]]          |
-| ----------------------- |
-| **Carthage Industries** |
-Tools/Ships/Cyberware/Machinery
+| ![[golem.png]]       |
+| -------------------- |
+| **Golem Automatics** |
+Tools, machines and robots, industrial machinery, some ships, cyberware
 
 
 
@@ -65,20 +65,16 @@ Tools/Ships/Cyberware/Machinery
 | ![[haimatsu_technologies.png]] |
 | ------------------------------ |
 | **Haimatsu Technologies**      |
-Cyberware/Tools/Medical tech
+Cyberware, medical tech, tools
 
 
 
 ## HEPHAESTUS SHIPWORKS
 
-| ![[hephaestus_industries.png]] |
-| ------------------------------ |
-| **Hephaestus Shipworks**       |
+| ![[hephaestus_shipworks.png]] |
+| ----------------------------- |
+| **Hephaestus Shipworks**      |
 Salvaging and scrapping, Heavy ships/Tools/Vehicles/Machinery
-
-![[hephaestus_shipworks.png]]
-
-![[omicron.Png]]
 
 
 
@@ -119,7 +115,7 @@ Research, luxury and high-end technology, gem-powered energy weapons and shields
 | **Stålverket AS**   |
 Planetary and asteroid mining, ore processing, mining technology
 
-	Interstellar mining corporation with a firm grip on its active operations. Used to be the largest company in Tenebris, the oppressor of many colonies and the common enemy of several unions and one rebellion - even dominated the gem war for the longest time until NanoTrasen rose to power. Now desperately clings to the settlements it has left, with a leadership trying to their former glory after contact was lost with their headquarters in one of the systems neighbouring Tenebris.
+Interstellar mining corporation with a firm grip on its active operations. Used to be the largest company in Tenebris, the oppressor of many colonies and the common enemy of several unions and one rebellion - even dominated the gem war for the longest time until NanoTrasen rose to power. Now desperately clings to the settlements it has left, with a leadership trying to their former glory after contact was lost with their headquarters in one of the systems neighbouring Tenebris.
 
 
 ## TRANSIT ALLIANCE

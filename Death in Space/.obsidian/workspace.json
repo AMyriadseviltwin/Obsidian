@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybernetics.md",
+                "file": "Shopping.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybernetics.md",
+                "file": "Shopping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybernetics.md",
+                "file": "Shopping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybernetics.md"
+                "file": "Shopping.md"
               }
             }
           }
@@ -210,17 +210,22 @@
   },
   "active": "ad7b56d7d35d6245",
   "lastOpenFiles": [
-    "Factions/Cults.md",
-    "Factions/Corporations.md",
-    "Cybernetics.md",
-    "Abilities.md",
-    "Glossary.md",
-    "Shopping.md",
-    "Landing Page.md",
-    "Origin.md",
     "Character Details.md",
+    "Abilities.md",
+    "Images/Factions/hephaestus_industries.png",
     "AMBERCOVE.md",
     "Pasted image 20240510140140.png",
+    "Images/Factions/hephaestus_shipworks.png",
+    "Images/Factions/hephaestus_shipworks2.png",
+    "Cybernetics.md",
+    "Factions/Corporations.md",
+    "Landing Page.md",
+    "Glossary.md",
+    "Shopping.md",
+    "Images/Factions/golem.png.0.pdnSave",
+    "Images/Factions/hephaestus_shipworks2.png.0.pdnSave",
+    "Factions/Cults.md",
+    "Origin.md",
     "Images/Factions/golem.png",
     "Images/Factions/golem.png.crdownload",
     "Pasted image 20240510190918.png",
@@ -231,17 +236,12 @@
     "Images/Close Art",
     "Images/Background Art/bg_astronautvoid.png",
     "Images/tenebris_system.png",
-    "Images/omicron.png",
-    "Images/void1.png",
-    "Images/void-sign.png",
     "Images/void-sign.png.crdownload",
     "Images/void1.png.crdownload",
     "Images/omicron.png.0.pdnSave",
     "Images/omicron.png.crdownload",
     "Images/haimatsu.png.0.pdnSave",
     "Images/haimatsu.png.crdownload",
-    "Images/Factions/hephaestus_industries.png.0.pdnSave",
-    "Images/Factions/nanotrasen.png.0.pdnSave",
     "Character Creation.md",
     "Landing.md"
   ]
