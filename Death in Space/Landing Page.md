@@ -6,6 +6,7 @@
 ####                        ENJOY YOUR STAY :)
 #### //////////////////////////////////////////////////////////////
 
+
 ### This here is the home page.
 ### **You can return to it any time by pressing `Ctrl + H`**
 
@@ -24,6 +25,8 @@ Map
 
 ### Want to make a new character? Do this:
 
-| 1. Roll for your [[Abilities]]<br>2. Choose your [[Origin]]<br>3. Give yourself [[Character Details]]<br>4. Determine your [[Character Details#Past Allegiance]\|Past Allegiance]]<br>5. Roll for your Hit points and defense rating<br>6. Choose your Starting gear |
+| X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X                                                                                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Roll for your [[Abilities]]<br>2. Choose your [[Origin]]<br>3. Give yourself [[Character Details]]<br>4. Determine your [[Character Details#Past Allegiance]\|Past Allegiance]]<br>5. Roll for your Hit points and defense rating<br>6. Choose your Starting gear |
+| X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X                                                                                                                                                                                                                      |
 

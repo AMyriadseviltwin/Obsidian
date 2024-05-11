@@ -1,10 +1,22 @@
+---
+title: Cybernetics
+editor-width: 30
+---
+
 | IMPR<br>OVE/<br>DEN/<br>HANC<br>EDU/<br>PGRA<br>DED/<br>ENRI<br>CHED<br>AUG/<br>MENT<br>EDRE<br>PAI/<br>REDC<br>ORRE<br>CTED | ![[cyber_optics.png]] | HIGH<br>ERPO<br>OWER<br>FAS/<br>TERB<br>ETT/<br>ERS/<br>TRON<br>GER/<br>HARD<br>ERS/<br>MART<br>ERT/<br>OUGH<br>ERPU<br>RER/ |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 
 ### WELCOME
 
+![[Pasted image 20240511133202.png]]
 
 
+Head
+Eyes
+Back
+Chest
+Arms
+Legs
 
 
 
@@ -18,12 +30,12 @@ Slot
 
 ## HEAD
 
-| **CYBERWARE**              | **EFFECT**                                                                                                                                                                                                                                     | **MANUFACTURER** | **PRICE** |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------- |
-| Anti-Drop Implant          | Originally intended for surgeons, became popularized in many other areas. Toggle to gain an absolute grip on whatever you're holding. Once toggled, you can't drop the item or have it separated from you as long as your hand stays attached. | Haimatsu         |           |
-| Intradermal Breathing Tube | A thin, sterile tube connected to your trachea (above lungs). Lets you hook up and breathe sources of oxygen without a breath mask.                                                                                                            | Haimatsu         |           |
-| CNS Booster                | Developed during the war and issued to decorated pilots. Stimulates your cerebral nervous system, giving a temporary boost to SVY (Piloting) checks.                                                                                           | NanoTrasen       |           |
-|                            |                                                                                                                                                                                                                                                |                  |           |
+| **CYBERWARE**              | **EFFECT**                                                                                                                                                                                                                                     | **MANUFACTURER** | **PRICE** | SLOT                      |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------- | ------------------------- |
+| Anti-Drop Implant          | Originally intended for surgeons, became popularized in many other areas. Toggle to gain an absolute grip on whatever you're holding. Once toggled, you can't drop the item or have it separated from you as long as your hand stays attached. | Haimatsu         |           | HEAD, attach to brainstem |
+| Intradermal Breathing Tube | A thin, sterile tube connected to your trachea (above lungs). Lets you hook up and breathe sources of oxygen without a breath mask.                                                                                                            | Haimatsu         |           |                           |
+| CNS Booster                | Developed during the war and issued to decorated pilots. Stimulates your cerebral nervous system, giving a temporary boost to SVY (Piloting) checks.                                                                                           | NanoTrasen       |           |                           |
+|                            |                                                                                                                                                                                                                                                |                  |           |                           |
 
 
 
