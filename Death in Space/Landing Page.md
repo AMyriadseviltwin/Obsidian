@@ -6,7 +6,7 @@
 ####                        ENJOY YOUR STAY :)
 #### //////////////////////////////////////////////////////////////////
 
-==NOTE== Formatting may be better in editing mode.
+==NOTE:== Formatting may be better in editing mode.
 
 #### This here is the home page.
 #### **You can return to it any time by pressing `Ctrl + H`**

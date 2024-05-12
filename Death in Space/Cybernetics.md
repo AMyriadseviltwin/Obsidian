@@ -8,7 +8,6 @@ editor-width: 55
 
 ### WELCOME
 
-![[vitruvian.png]]
 
 
 Head
