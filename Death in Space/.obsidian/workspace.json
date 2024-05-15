@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "f805f0ce0e0fc0ae",
+        "id": "c039e4f6f37c5915",
         "type": "tabs",
         "children": [
           {
-            "id": "0deee7d37e6a3850",
+            "id": "8a8874b215ae9850",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons.md",
+                "file": "Glossary.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc31883a5513645b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybernetics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebb4148eae53e666",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons.md",
+                "file": "Cybernetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons.md",
+                "file": "Cybernetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons.md"
+                "file": "Cybernetics.md"
               }
             }
           }
@@ -147,17 +168,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0deee7d37e6a3850",
+  "active": "cc31883a5513645b",
   "lastOpenFiles": [
+    "Condition & Parts.md",
+    "Abilities.md",
+    "Corporations.md",
+    "Glossary.md",
     "Landing Page.md",
     "Shopping.md",
+    "Character Details.md",
+    "Cybernetics.md",
+    "Origin.md",
     "Tenebris.md",
+    "GM Materials/Session Notes/Combat Test No. 2.md",
+    "GM Materials/Session Notes/Combat Test No. 1.md",
+    "GM Materials/Session Notes",
+    "GM Materials",
     "Weapons.md",
     "Images/Gun Disks/kugelblitz_elite.png",
-    "Corporations.md",
-    "Cybernetics.md",
-    "Condition & Parts.md",
-    "Origin.md",
     "Character Sheets/Character Sheet.md",
     "Images/tenebris_system.png",
     "Images/Close Art/vitruvian.png",
@@ -171,9 +199,6 @@
     "Images/Factions/carthage_industries.png",
     "Images/Factions/golem.png",
     "Images/Gun Disks",
-    "Abilities.md",
-    "Glossary.md",
-    "Character Details.md",
     "Images/Factions/omicron.png.0.pdnSave",
     "Images/Factions/omicron.png.crdownload",
     "Untitled 1.md",
@@ -182,8 +207,6 @@
     "Images/Factions/hephaestus_shipworks2.png.0.pdnSave",
     "Images/Factions/golem.png.crdownload",
     "Images/Close Art",
-    "Images/void-sign.png.crdownload",
-    "Images/void1.png.crdownload",
     "Character Creation.md",
     "Landing.md"
   ]

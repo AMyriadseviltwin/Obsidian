@@ -12,6 +12,8 @@ Example 2:
 	Result = **-3**
 
 ### BODY (BDY)
+
+
 Melee attacks, healing hit points, encumbrance, lifting dead friends, surviving without oxygen, forcing open airlocks, withstanding g-forces, resisting cold and sickness.
 
 ### DEXTERITY (DEX)
@@ -50,7 +52,7 @@ Your gut feeling, your fight-or-flight response, and instinct.
 - **Composure**
 Your ability to keep steady, maintain balance, 
 
-- **Maneuvering**
+- **rr**
 Your ability to move physically, climb, and move in zero-g.
 
 - **Sleight of Hand**
