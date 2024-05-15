@@ -25,7 +25,7 @@ The uses value denotes how many actions the weapon can be used without reloading
 
 
 # Weapons Extended
-## ==Experimental stuffs, feel free to ignore this section.==
+## ==Experimental stuffs, ignore this section.==
 
 ## Values
 Important to understanding what a gun can do.
@@ -58,7 +58,7 @@ How many times you can refill your uses.
 | ![[c_charged.png]]        | **C-CHARGED**        | +Crit chance, ignores cap<br>-Accuracy                                                                              |     |     |
 | ![[cursed.png]]           | **CURSED**           | +Damage<br>+Heat vent<br>+10% chance to fire bullet with +damage, but hurts user<br>-Firerate<br>-Accuracy<br>-Ammo |     |     |
 | ![[divine.png]]           | **DIVINE**           | +Damage<br>+Firerate<br>+Reload speed<br>+Accuracy<br>+Cooling<br>+Mag size<br>--Ammo                               |     |     |
-| [[heavy.png]]             | **HEAVY**            | +Accuracy<br>+Mag size<br>-Movement speed while using                                                               |     |     |
+| ![[heavy.png]]            | **HEAVY**            | +Accuracy<br>+Mag size<br>-Movement speed while using                                                               |     |     |
 | ![[hyper_burst.png]]      | **HYPER BURST**      | ++Firerate<br>+Damage<br>-Reload speed                                                                              |     |     |
 | ![[kugelblitz_elite.png]] | **KUGELBLITZ-ELITE** | +Accuracy on first shot<br>+Headshot damage on first shot<br>--Accuracy while moving                                |     |     |
 | ![[lightweight.png]]      | **LIGHTWEIGHT**      | +Movement while using<br>+Cooling                                                                                   |     |     |
