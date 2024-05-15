@@ -1,5 +1,6 @@
 Combat test no. 2 is a follow-up to the first test, depending on its outcome.
 
+
 > DID THE PLAYERS MAKE IT OUT ALIVE IN THEIR SHIP?
 
 This test then puts the players on a different crew, contracted to hunt down a mining ship before it gets back to the Iron Ring from Rimtursar. They are informed their target is being ferried by an escort, and that caution is advised.
