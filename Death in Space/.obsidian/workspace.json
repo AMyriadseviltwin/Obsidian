@@ -8,7 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a8874b215ae9850",
+            "id": "ebb4148eae53e666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Condition & Parts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5a82e74f34097ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat/Ground Combat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7669c3c018940295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Corporations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57cc3d24da671197",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,26 +53,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "cc31883a5513645b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybernetics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebb4148eae53e666",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -106,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybernetics.md",
+                "file": "Combat/Ground Combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybernetics.md",
+                "file": "Combat/Ground Combat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybernetics.md"
+                "file": "Combat/Ground Combat.md"
               }
             }
           }
@@ -168,16 +184,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cc31883a5513645b",
+  "active": "f5a82e74f34097ee",
   "lastOpenFiles": [
     "Condition & Parts.md",
-    "Abilities.md",
-    "Corporations.md",
     "Glossary.md",
+    "Combat/Ground Combat.md",
+    "Corporations.md",
+    "Combat",
+    "Cybernetics.md",
+    "Abilities.md",
     "Landing Page.md",
     "Shopping.md",
     "Character Details.md",
-    "Cybernetics.md",
     "Origin.md",
     "Tenebris.md",
     "GM Materials/Session Notes/Combat Test No. 2.md",
@@ -206,7 +224,6 @@
     "Images/Factions/golem.png.0.pdnSave",
     "Images/Factions/hephaestus_shipworks2.png.0.pdnSave",
     "Images/Factions/golem.png.crdownload",
-    "Images/Close Art",
     "Character Creation.md",
     "Landing.md"
   ]
