@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c039e4f6f37c5915",
+        "id": "a731a0b438314ce9",
         "type": "tabs",
         "children": [
           {
-            "id": "ebb4148eae53e666",
+            "id": "2b0f56c377d8a419",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Condition & Parts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5a82e74f34097ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat/Ground Combat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7669c3c018940295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57cc3d24da671197",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary.md",
+                "file": "Landing Page.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combat/Ground Combat.md",
+                "file": "Landing Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combat/Ground Combat.md",
+                "file": "Landing Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combat/Ground Combat.md"
+                "file": "Landing Page.md"
               }
             }
           }
@@ -184,25 +147,30 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f5a82e74f34097ee",
+  "active": "2b0f56c377d8a419",
   "lastOpenFiles": [
-    "Condition & Parts.md",
     "Glossary.md",
-    "Combat/Ground Combat.md",
     "Corporations.md",
-    "Combat",
-    "Cybernetics.md",
-    "Abilities.md",
-    "Landing Page.md",
-    "Shopping.md",
     "Character Details.md",
-    "Origin.md",
-    "Tenebris.md",
-    "GM Materials/Session Notes/Combat Test No. 2.md",
-    "GM Materials/Session Notes/Combat Test No. 1.md",
-    "GM Materials/Session Notes",
-    "GM Materials",
+    "GM Materials/Session Ideas/Combat Test No. 1.md",
+    "Combat/Ground Combat.md",
+    "Combat",
+    "Landing Page.md",
     "Weapons.md",
+    "GM Materials/Experimental/Weapons+.md",
+    "GM Materials/Experimental/Abilties+.md",
+    "GM Materials/Experimental/Specific Parts.md",
+    "Abilities.md",
+    "Condition & Parts.md",
+    "GM Materials/Experimental",
+    "GM Materials/Session Ideas/Combat Test No. 2.md",
+    "GM Materials/Session Ideas",
+    "GM Materials",
+    "Experimental Parts.md",
+    "Origin.md",
+    "Cybernetics.md",
+    "Shopping.md",
+    "Tenebris.md",
     "Images/Gun Disks/kugelblitz_elite.png",
     "Character Sheets/Character Sheet.md",
     "Images/tenebris_system.png",
@@ -223,7 +191,6 @@
     "AMBERCOVE.md",
     "Images/Factions/golem.png.0.pdnSave",
     "Images/Factions/hephaestus_shipworks2.png.0.pdnSave",
-    "Images/Factions/golem.png.crdownload",
     "Character Creation.md",
     "Landing.md"
   ]
