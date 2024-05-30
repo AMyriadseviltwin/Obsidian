@@ -30,13 +30,13 @@ Slot
 
 ## HEAD
 
-| **CYBERWARE**              | **DESCRIPTION** | **EFFECT**                                                                                                                                                                                                                                     | **LICENSE** | **PRICE** |
-| -------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- |
-| Anti-Drop Implant          |                 | Originally intended for surgeons, became popularized in many other areas. Toggle to gain an absolute grip on whatever you're holding. Once toggled, you can't drop the item or have it separated from you as long as your hand stays attached. | Haimatsu    |           |
-| Intradermal Breathing Tube |                 | A thin, sterile tube connected to your trachea (above lungs). Lets you hook up and breathe sources of oxygen without a breath mask.                                                                                                            | Haimatsu    |           |
-| CNS Booster                |                 | Developed during the war and issued to decorated pilots. Stimulates your cerebral nervous system, giving a temporary boost to SVY (Piloting) checks.                                                                                           | NanoTrasen  |           |
-|                            |                 |                                                                                                                                                                                                                                                |             |           |
-|                            |                 |                                                                                                                                                                                                                                                |             |           |
+| **CYBERWARE**              | **DESCRIPTION**                                                                                                                                                                                                                                  | **LICENSE** | **PRICE** |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --------- |
+| Anti-Drop Implant          | ==Originally designed for surgeons. Attaches to base of the motor cortex.== Toggle to gain an absolute grip on whatever you're holding. While toggled, you can't drop the item or have it pried from your hands as long as your arm is attached. | Haimatsu    |           |
+| Intradermal Breathing Tube | ==A thin, sterile tube linked to the trachea, runs along beneath your skin.== Lets you hook up and breathe from gas tanks without a breath mask.                                                                                                 | Haimatsu    |           |
+| CNS Booster                | ==Developed during the war and issued to decorated pilots. Attaches to base of the premotor cortex.== Stimulates your cerebral nervous system, giving a sudden boost to SVY (Piloting) checks. Also jolts your body out of short-lasting stuns.  | NanoTrasen  |           |
+|                            |                                                                                                                                                                                                                                                  |             |           |
+|                            |                                                                                                                                                                                                                                                  |             |           |
 
 
 
@@ -53,15 +53,15 @@ Slot
 |                         |                 |                                                                                                                                            |                |           |
 
 
-## CHEST
+## Torso
 
-| **CYBERWARE**           | **EFFECT** | **LICENSE** | **PRICE** |
-| ----------------------- | ---------- | ----------- | --------- |
-| Nutrient Pump           |            | Haimatsu    |           |
-| AID/Reviver Implant     |            | Haimatsu    |           |
-| Adrenal/Stimpak Implant |            | Haimatsu    |           |
-| Constrictor Harness     |            |             |           |
-|                         |            |             |           |
+| **CYBERWARE**            | **EFFECT** | **LICENSE** | **PRICE** |
+| ------------------------ | ---------- | ----------- | --------- |
+| Nutrient Pump            |            | Haimatsu    |           |
+| A.I.D./Reviver Implant   |            | Haimatsu    |           |
+| Adrenal/Stimpak Implant  |            | Haimatsu    |           |
+| Constrictor Harness      |            |             |           |
+| Blood Oxygenator Plating |            |             |           |
 
 
 ## BACK

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a731a0b438314ce9",
+        "id": "25f6e0b05a8c00f9",
         "type": "tabs",
         "children": [
           {
-            "id": "2b0f56c377d8a419",
+            "id": "945bd3eb6e7830c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Cybernetics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Cybernetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Cybernetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Landing Page.md"
+                "file": "Cybernetics.md"
               }
             }
           }
@@ -147,15 +147,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2b0f56c377d8a419",
+  "active": "945bd3eb6e7830c9",
   "lastOpenFiles": [
+    "Landing Page.md",
     "Glossary.md",
     "Corporations.md",
     "Character Details.md",
     "GM Materials/Session Ideas/Combat Test No. 1.md",
     "Combat/Ground Combat.md",
     "Combat",
-    "Landing Page.md",
     "Weapons.md",
     "GM Materials/Experimental/Weapons+.md",
     "GM Materials/Experimental/Abilties+.md",
