@@ -11,6 +11,7 @@ Much like other games, combat in Space is structured into rounds, where everyone
 
 > Each person involved has time for **one and a half actions**, and up to 15 meters of movement.
 > The one who initiates the conflict begins the first round.
+
 > When someone ends their turn they choose who goes next, be it ally or enemy. This process continues until everyone has acted once in the round, then the last person to act in the round chooses who starts the next one. They can choose themselves.
 
 > Attacks are resolved by rolling a d20, and adding your BDY or TEC to the roll if it's a melee or ranged attack, respectively. If it's equal to or greater than the DR of the thing you're trying to hurt, the attack hits and you can proceed to roll for damage.
