@@ -1,5 +1,5 @@
 #### //////////////////////////////////////////////////////////////////
-####    Welcome ==-USER-== to the awesome SRD made to guide you to your
+####    Welcome ==USER== to the awesome SRD made to guide you to your
 ##                      *DEATH IN SPACE*
 
 ![[bg_astronautvoid.png]]
