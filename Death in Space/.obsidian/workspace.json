@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Life and Death.md",
+                "file": "Home Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Life and Death.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/Life and Death.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/Life and Death.md"
+                "file": "Home Page.md"
               }
             }
           }
@@ -150,25 +150,27 @@
   },
   "active": "4a65eb938cdaf239",
   "lastOpenFiles": [
-    "Mechanics/Weapons.md",
+    "Images/Factions/ambercove.png",
+    "Images/Factions/transit_alliance.png",
     "Home Page.md",
-    "Pasted image 20240613185338.png",
-    "Mechanics/Abilities.md",
+    "Mechanics/Weapons.md",
     "Mechanics/Cheat Sheet.png",
-    "Mechanics/Condition & Parts.md",
-    "Mechanics/Cybernetics.md",
     "Mechanics/Life and Death.md",
+    "Images/Close Art/vitruvian.png",
     "Images/Close Art/heart_failure.png",
     "Images/Close Art/astronaut_shatter.png",
-    "Images/Close Art/vitruvian.png",
     "Images/Close Art/cyber_optics.png",
-    "Images/Background Art/bg_astronautvoid.png",
-    "Images/Background Art/bg_crew.png",
-    "Images/Background Art/icon_void.png",
-    "Images/Background Art/bg_offline.png",
+    "Images/Runes/rune_tenebris.png",
+    "Images/Runes/grav_rune_i.png",
+    "Images/Runes",
+    "Images/travel_info.png",
+    "Images/tenebris_official.png",
+    "Mechanics/Cybernetics.md",
+    "Mechanics/Condition & Parts.md",
+    "Mechanics/Combat.md",
+    "Mechanics/Abilities.md",
     "Character Sheets/Data Sheet Template.md",
     "Character Creation/Creating a Character.md",
-    "Mechanics/Combat.md",
     "World Info/The Tenebris System.md",
     "World Info/Glossary.md",
     "Shopping/Item Pricing.md",
@@ -195,7 +197,6 @@
     "Combat",
     "GM Materials/Experimental/Weapons+.md",
     "GM Materials/Experimental/Abilties+.md",
-    "GM Materials/Experimental",
-    "GM Materials/Session Ideas"
+    "GM Materials/Experimental"
   ]
 }
