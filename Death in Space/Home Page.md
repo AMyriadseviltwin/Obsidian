@@ -22,16 +22,16 @@
 > Character Sheets - [[Data Sheet Template|Click here to view the data sheet template!]] Just copy and paste the template to a new file in the folder and make as many characters as you like :)
 
 
-> Images - The repository for all images contained in this SRD, basically background stuff. Feel free to ignore it or browse it to your heart's content.
+> Images - The repository for all images contained in this SRD, basically background stuff. Feel free to ignore it or browse to your heart's content.
 
 
 > Mechanics - The meat and potatoes of the SRD. From abilities/stats, combat rules, condition and repair mechanics - everything you need to know to play Death in Space.
 
 
-> Shopping - 
+> Shopping - Nearby marketplace? Passing by a trade port? Here you'll find the standard pricing for most goods, materials, contracts, and cyberware.
 
 
-> World Info - 
+> World Info - LORE. Here you can read about common knowledge people in the world of Space may know. Things like 
 
 
 

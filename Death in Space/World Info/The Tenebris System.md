@@ -1,4 +1,16 @@
-![[tenebris_system.png]]
+--- 
+
+![[Pasted image 20240613015456.png]]
+
+--- 
+
+# Welcome to Tenebris 59.85882
+
+
+
+
+
+
 
 
 ## Tenebris

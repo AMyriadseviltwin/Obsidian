@@ -23,11 +23,9 @@
             "id": "d9055039c61cecd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Home Page.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20240613015456.png"
               }
             }
           },
@@ -38,6 +36,30 @@
               "type": "markdown",
               "state": {
                 "file": "Mechanics/Combat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b87fe9f37c101816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Info/The Tenebris System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98bef65d678a838b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Info/The Tenebris System.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "World Info/The Tenebris System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "World Info/The Tenebris System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "World Info/The Tenebris System.md"
               }
             }
           }
@@ -184,28 +206,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9055039c61cecd6",
+  "active": "98bef65d678a838b",
   "lastOpenFiles": [
-    "Character Sheets/Data Sheet Template.md",
+    "Pasted image 20240613020539.png",
+    "Pasted image 20240613020531.png",
+    "World Info/Glossary.md",
     "Home Page.md",
+    "Images/tenebris_system.png",
+    "Images/Pasted image 20240613015456.png",
+    "Pasted image 20240613015638.png",
+    "World Info/The Tenebris System.md",
+    "Mechanics/Combat.md",
+    "Pasted image 20240613015240.png",
+    "Shopping/Pricing.md",
+    "Character Sheets/Data Sheet Template.md",
     "Character Creation/Character Details.md",
     "Character Creation/Origins.md",
     "Mechanics/Weapons.md",
-    "Mechanics/Combat.md",
     "Mechanics/Cybernetics.md",
     "Mechanics/Condition & Parts.md",
-    "Shopping/Pricing.md",
     "Character Creation",
     "Images/Close Art/vitruvian.png",
     "Images/Close Art/cyber_optics.png",
     "Images/Factions/licome_mercury.png",
     "Images/Factions/konbina.png",
     "Images/Factions/haimatsu_technologies.png",
-    "Images/Factions/azimuth.png",
-    "Images/Factions/asp_foundation.png",
-    "Images/Factions/carthage_industries.png",
-    "World Info/Glossary.md",
-    "World Info/Tenebris.md",
     "Shopping",
     "World Info/Corporations.md",
     "World Info",
@@ -213,8 +238,6 @@
     "Mechanics.md",
     "Mechanics",
     "GM Materials/Session Ideas/Combat Test No. 1.md",
-    "Images/tenebris_system.png",
-    "Images/Disks/x_burst.png",
     "Images/Disks",
     "Images/Close Art",
     "Combat",
