@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/CHARACTER DETAILS.md",
+                "file": "HOME PAGE.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/CHARACTER DETAILS.md",
+                "file": "HOME PAGE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/CHARACTER DETAILS.md",
+                "file": "HOME PAGE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/CHARACTER DETAILS.md"
+                "file": "HOME PAGE.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "d53c15399db38127",
   "lastOpenFiles": [
+    "Character Creation/CHARACTER DETAILS.md",
     "Character Creation/CREATING A CHARACTER.md",
     "Character Creation/ORIGINS.md",
     "Character Sheets/DATA SHEET TEMPLATE.md",
@@ -181,7 +182,6 @@
     "Images/travel_info.png",
     "Images/Close Art/heart_failure.png",
     "Images/Close Art/cyber_optics.png",
-    "Character Creation/CHARACTER DETAILS.md",
     "Shopping/ITEM PRICING.md",
     "World Info/THE TENEBRIS SYSTEM.md",
     "World Info/GLOSSARY.md",
