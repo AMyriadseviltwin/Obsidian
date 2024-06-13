@@ -22,7 +22,7 @@
 | Orbital parachute (insert condition here)                          |     3     |      300 |
 | Spray paint can (any color)                                        |     1     |        2 |
 | Extreme weather tent (fits 5 people, compatible with portable LSS) |     2     |      120 |
-| Portable [[Glossary#LSS\|LSS]]                                     |     3     |       90 |
+| Portable [[GLOSSARY#LSS|LSS]]                                     |     3     |       90 |
 | Thermal blankets                                                   |     1     |       10 |
 | Full toolbox                                                       |     1     |       50 |
 | Trap and hunting kit                                               |     2     |       50 |

@@ -1,3 +1,4 @@
+
 Use this button to start, then copy + paste in the template! (Delete this section after use)
 ![[Character Sheets/New Character]]
 

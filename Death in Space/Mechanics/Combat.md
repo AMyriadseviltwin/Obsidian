@@ -1,3 +1,10 @@
+
+---
+
+![[scav_rifleman.png]]
+
+---
+
 # Turns and Actions
 
 Much like other games, combat in Space is structured into rounds, where everyone involved in the fight takes 1 turn every round. Each round represents about 10 seconds of in-game time, meaning 1 minute = 10 rounds. On your turn, you have time to perform one and a half actions, and move up to 15 meters (3 tiles).

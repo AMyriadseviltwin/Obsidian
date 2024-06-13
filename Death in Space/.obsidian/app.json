@@ -9,5 +9,6 @@
   "smartIndentList": true,
   "propertiesInDocument": "visible",
   "promptDelete": false,
-  "focusNewTab": true
+  "focusNewTab": true,
+  "showRibbon": true
 }

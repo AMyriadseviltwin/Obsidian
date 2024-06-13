@@ -11,9 +11,19 @@
             "id": "4a65eb938cdaf239",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240613195705.png"
+              }
+            }
+          },
+          {
+            "id": "d53c15399db38127",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "Character Sheets/DATA SHEET TEMPLATE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Pasted image 20240613195705.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Pasted image 20240613195705.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Pasted image 20240613195705.png"
               }
             }
           }
@@ -150,33 +160,32 @@
   },
   "active": "4a65eb938cdaf239",
   "lastOpenFiles": [
+    "Mechanics/ABILITIES.md",
+    "Pasted image 20240613195705.png",
+    "Mechanics/COMBAT.md",
+    "Images/Close Art/scav_rifleman.png",
+    "HOME PAGE.md",
+    "Character Creation/ORIGINS.md",
+    "Character Creation/CREATING A CHARACTER.md",
+    "Character Creation/CHARACTER DETAILS.md",
+    "Character Sheets/DATA SHEET TEMPLATE.md",
+    "Shopping/ITEM PRICING.md",
+    "World Info/THE TENEBRIS SYSTEM.md",
+    "World Info/GLOSSARY.md",
+    "World Info/CORPORATIONS.md",
+    "Mechanics/WEAPONS.md",
+    "Mechanics/LIFE AND DEATH.md",
+    "Mechanics/CYBERNETICS.md",
+    "Mechanics/CONDITION AND PARTS.md",
+    "Mechanics/CHEAT SHEET.png",
+    "Images/Close Art/heart_failure.png",
     "Images/Factions/ambercove.png",
     "Images/Factions/transit_alliance.png",
-    "Home Page.md",
-    "Mechanics/Weapons.md",
-    "Mechanics/Cheat Sheet.png",
-    "Mechanics/Life and Death.md",
     "Images/Close Art/vitruvian.png",
-    "Images/Close Art/heart_failure.png",
     "Images/Close Art/astronaut_shatter.png",
     "Images/Close Art/cyber_optics.png",
     "Images/Runes/rune_tenebris.png",
-    "Images/Runes/grav_rune_i.png",
     "Images/Runes",
-    "Images/travel_info.png",
-    "Images/tenebris_official.png",
-    "Mechanics/Cybernetics.md",
-    "Mechanics/Condition & Parts.md",
-    "Mechanics/Combat.md",
-    "Mechanics/Abilities.md",
-    "Character Sheets/Data Sheet Template.md",
-    "Character Creation/Creating a Character.md",
-    "World Info/The Tenebris System.md",
-    "World Info/Glossary.md",
-    "Shopping/Item Pricing.md",
-    "World Info/Corporations.md",
-    "Character Creation/Origins.md",
-    "Character Creation/Character Details.md",
     "Untitled.canvas",
     "Untitled.md",
     "Character Sheets/Name.md",

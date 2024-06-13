@@ -21,7 +21,7 @@ Short for navigators. Hardened explorers who journey out to chart the furthest r
 
 
 #### Shipbreaker
-Nickname for those who break apart ships for parts and salvage, known for its decent mortality rate due to hazards involved. Most shipbreakers in Tenebris either work or have worked for [[Corporations#HEPHAESTUS SHIPWORKS|Hephaestus Shipworks]].
+Nickname for those who break apart ships for parts and salvage, known for its decent mortality rate due to hazards involved. Most shipbreakers in Tenebris either work or have worked for [[CORPORATIONS#HEPHAESTUS SHIPWORKS|Hephaestus Shipworks]].
 
 #### SVY
 Savvy. Ability that represents your mental capacity: logic, recalling info, talking with people, perception, and piloting vehicles.
@@ -33,5 +33,5 @@ Tech. Ability that represents your technical skill for things like aiming techni
 The Tenebris star, a red giant, and its star system. The brutal and war-torn epicenter of the Gem War, and the first system you, the players, will live and die in.
 
 #### Whale
-Code name for emergency response teams working under [[Corporations#AMBERCOVE|Ambercove]]. Mostly comprised of hard-boiled, highly skilled ex-navvies known for getting the job done.
+Code name for emergency response teams working under [[CORPORATIONS#AMBERCOVE|Ambercove]]. Mostly comprised of hard-boiled, highly skilled ex-navvies known for getting the job done.
 
