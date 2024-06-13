@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Home Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c70084eed24dacfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Character Sheets/Data Sheet Template.md",
                 "mode": "source",
                 "source": false
@@ -26,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "World Info/Glossary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15c93db76b6b913f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/Origins.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Info/Glossary.md",
+                "file": "Character Sheets/Data Sheet Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Info/Glossary.md",
+                "file": "Character Sheets/Data Sheet Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Info/Glossary.md"
+                "file": "Character Sheets/Data Sheet Template.md"
               }
             }
           }
@@ -160,31 +184,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7ac06837df6a87a",
+  "active": "c70084eed24dacfe",
   "lastOpenFiles": [
-    "World Info/The Tenebris System.md",
+    "Character Sheets/Name.md",
+    "Character Sheets/Data Sheet Template.md",
+    "Character Sheets/t.md",
+    "Untitled.md",
+    "Home Page.md",
+    "Templates/Temp 1.md",
+    "Templates",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Pasted image 20240613034754.png",
+    "Character Creation/Origins.md",
+    "Character Creation/Creating a Character.md",
     "World Info/Glossary.md",
+    "World Info/The Tenebris System.md",
     "World Info/Corporations.md",
     "Shopping/Pricing.md",
-    "Home Page.md",
     "Mechanics/Cybernetics.md",
-    "Character Creation/Creating a Character.md",
-    "Character Creation/Origins.md",
     "Images/travel_info.png",
     "Images/tenebris_big.png",
     "Character Creation/Character Details.md",
-    "Character Sheets/Data Sheet Template.md",
     "Images/Background Art/icon_void.png",
     "Images/grav_rune_i.png",
     "Images/Background Art/bg_crew.png",
     "Images/Background Art/DIScover_crop.png",
-    "Character Sheets/New Character.md",
     "Images/Background Art/bg_astronautvoid.png",
     "Character Sheets/Data Sheet Template 1.md",
     "New Character.md",
     "Images/tenebris_official.png",
     "Pasted image 20240613023103.png",
-    "Images/Close Art/vitruvian.png",
     "Mechanics/Combat.md",
     "Mechanics/Weapons.md",
     "Mechanics/Condition & Parts.md",
@@ -203,9 +233,6 @@
     "GM Materials/Experimental/Specific Parts.md",
     "GM Materials/Experimental",
     "GM Materials/Session Ideas/Combat Test No. 2.md",
-    "GM Materials/Session Ideas",
-    "GM Materials",
-    "Experimental Parts.md",
-    "Factions/Cults.md"
+    "GM Materials/Session Ideas"
   ]
 }

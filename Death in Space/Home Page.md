@@ -14,6 +14,7 @@
 
 ##### This is the home page. You can return to it any time with `Ctrl + H`.
 `
+
 ##### Everything you need can be found in their relevant folders:
 
 > **Character Creation** - [[Creating a Character|Follow this guide to make a new character!]] Contains everything you need to know about player characters, attributes and origins, rolling stats, and so on.
@@ -36,12 +37,6 @@
 
 
 
-### Want to make a new character? Do this:
-
-| X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X                                                                                                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1. Roll for your [[Abilities]]<br>2. Choose your [[Origins]]<br>3. Give yourself [[Character Details]]<br>4. Determine your [[Character Details#Past Allegiance]\|Past Allegiance]]<br>5. Roll for your Hit points and defense rating<br>6. Choose your Starting gear |
-| X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X                                                                                                                                                                                                                       |
 
 
 
