@@ -1,6 +1,7 @@
- **NOTE:** Formatting may be better in editing mode.
+
+ **NOTE:** Formatting may be better in editing mode on some pages.
 #### //////////////////////////////////////////////////////////////////
-### Welcome ==-USER-== to the awesome SRD made to guide you to your
+### Welcome ==- USER -== to the awesome SRD made to guide you to your
 #                   *DEATH IN SPACE*
 
 ![[bg_astronautvoid.png]]
@@ -14,7 +15,6 @@
 
 ##### This is the home page. You can return to it any time with `Ctrl + H`.
 `
-
 ##### Everything you need can be found in the relevant folders:
 
 > **Character Creation** - [[Creating a Character|Follow this page to make a new character!]] Contains everything you need to know about player characters, attributes and origins, rolling stats, and so on.
@@ -32,6 +32,6 @@
 > **Shopping** - Nearby marketplace? Passing by a trade port? Here you'll find the standard pricing for most goods, materials, contracts, and cyberware.
 
 
-> **World Info** - LORE. Here you can read about common knowledge people in the world of Space may know. Information on things [[Corporations|factions]], [[The Tenebris System|star systems]], and [[Glossary|terminology]] may be found here.
+> **World Info** - LORE. Here you can read about common knowledge people in the world of Space may know. Information on [[Corporations|factions]], [[The Tenebris System|star systems]], and [[Glossary|terminology]] may be found here.
 
 

@@ -50,7 +50,9 @@ How many damage dice the gun has. Three tiers **(1dx, 2dx, 3dx)** for **single/b
 
 ### Ammunition
 How many times you can refill your uses.
+
 ## GUN MODS GUN MODS GUN MODS GUN MODS
+Who knows what these do...
 
 | MODIFICATION DISK         | NAME                 | EFFECTS                                                                                                             |     |     |
 | ------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------- | --- | --- |

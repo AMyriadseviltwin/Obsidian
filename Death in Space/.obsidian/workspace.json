@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Condition & Parts.md",
+                "file": "Home Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Condition & Parts.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/Condition & Parts.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/Condition & Parts.md"
+                "file": "Home Page.md"
               }
             }
           }
@@ -150,18 +150,23 @@
   },
   "active": "4a65eb938cdaf239",
   "lastOpenFiles": [
+    "Mechanics/Combat.md",
+    "Mechanics/Condition & Parts.md",
+    "Mechanics/Cybernetics.md",
+    "World Info/The Tenebris System.md",
+    "World Info/Glossary.md",
     "Mechanics/Abilities.md",
-    "Character Sheets/Data Sheet Template.md",
-    "Home Page.md",
-    "Character Creation/Creating a Character.md",
-    "Shopping/Item Pricing.md",
+    "Mechanics/Cheat Sheet.png",
     "Mechanics/Weapons.md",
+    "Shopping/Item Pricing.md",
+    "Home Page.md",
+    "World Info/Corporations.md",
+    "Character Sheets/Data Sheet Template.md",
+    "Character Creation/Origins.md",
+    "Character Creation/Creating a Character.md",
+    "Character Creation/Character Details.md",
     "Untitled.canvas",
     "Untitled.md",
-    "Character Creation/Origins.md",
-    "Character Creation/Character Details.md",
-    "Mechanics/Cheat Sheet.png",
-    "Mechanics/Condition & Parts.md",
     "Pasted image 20240613035842.png",
     "Pasted image 20240613040426.png",
     "Pasted image 20240613040524.png",
@@ -176,13 +181,8 @@
     "Templates",
     "Untitled 1.canvas",
     "Pasted image 20240613034754.png",
-    "World Info/Glossary.md",
-    "World Info/The Tenebris System.md",
-    "World Info/Corporations.md",
-    "Mechanics/Cybernetics.md",
     "Character Sheets/Data Sheet Template 1.md",
     "New Character.md",
-    "Mechanics/Combat.md",
     "Character Creation",
     "Shopping",
     "World Info",
