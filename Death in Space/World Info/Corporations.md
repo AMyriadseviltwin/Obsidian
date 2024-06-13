@@ -113,7 +113,7 @@ Research heavy agricultural giant with a big focus on gene modding and bioengine
 | **NanoTrasen**                                                               |
 | - Experimental research<br>- High-end technology<br>- Energy weapons/shields |
 
-Cutting-edge research company that became prominent during the war after securing and studying a large portion of the fractal gems in Tenebris. Invented energy/laser weaponry and shields, and in the end, won the war as a result. Poured the most resources into the war than any other group, and consequentially lost the most. The organization is still recovering today, if not still sending seekers to reclaim the missing gem tech they left behind - highly sought after treasures for anyone who might stumble across it.
+Cutting-edge research company that became prominent during the war after securing and studying a large portion of the fractal gems in Tenebris. Invented first effective energy/laser weaponry and shields, and in the end, won the war as a result. Poured the most resources into the war than any other group, and consequentially lost the most. The organization is still recovering today, if not still sending seekers to reclaim the missing gem tech they left behind - highly sought after treasures for anyone who might stumble across it.
 
 
 ## STÅLVERKET

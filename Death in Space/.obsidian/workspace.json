@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "World Info/Corporations.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "World Info/Corporations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "World Info/Corporations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "World Info/Corporations.md"
               }
             }
           }
@@ -162,20 +162,20 @@
   },
   "active": "f7ac06837df6a87a",
   "lastOpenFiles": [
-    "Character Sheets/Data Sheet Template.md",
     "Home Page.md",
     "Character Creation/Creating a Character.md",
+    "Character Creation/Character Details.md",
+    "World Info/Corporations.md",
+    "Shopping/Pricing.md",
+    "World Info/The Tenebris System.md",
+    "Character Sheets/Data Sheet Template.md",
     "Images/Background Art/icon_void.png",
     "Images/grav_rune_i.png",
     "Images/Background Art/bg_crew.png",
     "Images/Background Art/DIScover_crop.png",
     "Character Creation/Origins.md",
-    "Character Creation/Character Details.md",
     "World Info/Glossary.md",
-    "World Info/Corporations.md",
-    "World Info/The Tenebris System.md",
     "Character Sheets/New Character.md",
-    "Shopping/Pricing.md",
     "Images/Background Art/bg_astronautvoid.png",
     "Character Sheets/Data Sheet Template 1.md",
     "New Character.md",
