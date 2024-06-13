@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "Mechanics/Life and Death.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Mechanics/Life and Death.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Mechanics/Life and Death.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Mechanics/Life and Death.md"
               }
             }
           }
@@ -150,37 +150,38 @@
   },
   "active": "4a65eb938cdaf239",
   "lastOpenFiles": [
-    "Mechanics/Combat.md",
-    "Mechanics/Condition & Parts.md",
-    "Mechanics/Cybernetics.md",
-    "World Info/The Tenebris System.md",
-    "World Info/Glossary.md",
+    "Mechanics/Weapons.md",
+    "Home Page.md",
+    "Pasted image 20240613185338.png",
     "Mechanics/Abilities.md",
     "Mechanics/Cheat Sheet.png",
-    "Mechanics/Weapons.md",
-    "Shopping/Item Pricing.md",
-    "Home Page.md",
-    "World Info/Corporations.md",
+    "Mechanics/Condition & Parts.md",
+    "Mechanics/Cybernetics.md",
+    "Mechanics/Life and Death.md",
+    "Images/Close Art/heart_failure.png",
+    "Images/Close Art/astronaut_shatter.png",
+    "Images/Close Art/vitruvian.png",
+    "Images/Close Art/cyber_optics.png",
+    "Images/Background Art/bg_astronautvoid.png",
+    "Images/Background Art/bg_crew.png",
+    "Images/Background Art/icon_void.png",
+    "Images/Background Art/bg_offline.png",
     "Character Sheets/Data Sheet Template.md",
-    "Character Creation/Origins.md",
     "Character Creation/Creating a Character.md",
+    "Mechanics/Combat.md",
+    "World Info/The Tenebris System.md",
+    "World Info/Glossary.md",
+    "Shopping/Item Pricing.md",
+    "World Info/Corporations.md",
+    "Character Creation/Origins.md",
     "Character Creation/Character Details.md",
     "Untitled.canvas",
     "Untitled.md",
-    "Pasted image 20240613035842.png",
-    "Pasted image 20240613040426.png",
-    "Pasted image 20240613040524.png",
-    "Pasted image 20240613040452.png",
-    "Images/Background Art/bg_crew.png",
-    "Images/Background Art/icon_void.png",
-    "Images/Background Art/bg_astronautvoid.png",
-    "Pasted image 20240613035936.png",
     "Character Sheets/Name.md",
     "Character Sheets/t.md",
     "Templates/Temp 1.md",
     "Templates",
     "Untitled 1.canvas",
-    "Pasted image 20240613034754.png",
     "Character Sheets/Data Sheet Template 1.md",
     "New Character.md",
     "Character Creation",
@@ -194,7 +195,6 @@
     "Combat",
     "GM Materials/Experimental/Weapons+.md",
     "GM Materials/Experimental/Abilties+.md",
-    "GM Materials/Experimental/Specific Parts.md",
     "GM Materials/Experimental",
     "GM Materials/Session Ideas"
   ]

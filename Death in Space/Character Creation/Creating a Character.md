@@ -10,15 +10,16 @@
 Will you live to rise in this great void, or screaming, bear alone a grave *DEATH IN SPACE?*
 
 
+## Making a character step-by-step
+### I - Abilities
 
-## I - Abilities
 
-## II - Origins
+### II - Origins
 
-## III - Details
+### III - Details
 
-## IV - Life & Defense
+### IV - Life & Defense
 
-## V - Starting gear
+### V - Starting gear
 
 
