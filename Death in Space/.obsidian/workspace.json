@@ -11,9 +11,11 @@
             "id": "4a65eb938cdaf239",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240613195705.png"
+                "file": "HOME PAGE.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -23,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Sheets/DATA SHEET TEMPLATE.md",
+                "file": "Character Creation/CHARACTER DETAILS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240613195705.png",
+                "file": "Character Creation/CHARACTER DETAILS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240613195705.png",
+                "file": "Character Creation/CHARACTER DETAILS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240613195705.png"
+                "file": "Character Creation/CHARACTER DETAILS.md"
               }
             }
           }
@@ -158,33 +161,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a65eb938cdaf239",
+  "active": "d53c15399db38127",
   "lastOpenFiles": [
-    "Mechanics/ABILITIES.md",
-    "Pasted image 20240613195705.png",
-    "Mechanics/COMBAT.md",
-    "Images/Close Art/scav_rifleman.png",
-    "HOME PAGE.md",
-    "Character Creation/ORIGINS.md",
     "Character Creation/CREATING A CHARACTER.md",
-    "Character Creation/CHARACTER DETAILS.md",
+    "Character Creation/ORIGINS.md",
     "Character Sheets/DATA SHEET TEMPLATE.md",
+    "Mechanics/ABILITIES.md",
+    "Mechanics/COMBAT.md",
+    "Mechanics/CONDITION AND PARTS.md",
+    "Mechanics/CYBERNETICS.md",
+    "HOME PAGE.md",
+    "Images/Close Art/velocity_cursed.png",
+    "Images/Background Art/bg_offline.png",
+    "Images/Background Art/bg_crew.png",
+    "Images/Background Art/bg_astronautvoid.png",
+    "Images/Close Art/scav_rifleman.png",
+    "Images/Close Art/vitruvian.png",
+    "Images/tenebris_official.png",
+    "Images/travel_info.png",
+    "Images/Close Art/heart_failure.png",
+    "Images/Close Art/cyber_optics.png",
+    "Character Creation/CHARACTER DETAILS.md",
     "Shopping/ITEM PRICING.md",
     "World Info/THE TENEBRIS SYSTEM.md",
     "World Info/GLOSSARY.md",
     "World Info/CORPORATIONS.md",
     "Mechanics/WEAPONS.md",
     "Mechanics/LIFE AND DEATH.md",
-    "Mechanics/CYBERNETICS.md",
-    "Mechanics/CONDITION AND PARTS.md",
-    "Mechanics/CHEAT SHEET.png",
-    "Images/Close Art/heart_failure.png",
-    "Images/Factions/ambercove.png",
-    "Images/Factions/transit_alliance.png",
-    "Images/Close Art/vitruvian.png",
-    "Images/Close Art/astronaut_shatter.png",
-    "Images/Close Art/cyber_optics.png",
-    "Images/Runes/rune_tenebris.png",
     "Images/Runes",
     "Untitled.canvas",
     "Untitled.md",

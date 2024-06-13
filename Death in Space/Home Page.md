@@ -33,5 +33,3 @@
 
 
 > **World Info** - LORE. Here you can read about common knowledge people in the world of Space may know. Information on [[CORPORATIONS|factions]], [[THE TENEBRIS SYSTEM|star systems]], and [[GLOSSARY|terminology]] may be found here.
-
-
