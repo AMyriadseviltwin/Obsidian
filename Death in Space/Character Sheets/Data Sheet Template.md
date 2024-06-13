@@ -1,4 +1,4 @@
-Use this button to start, then copy + paste the template! (Delete this section after use)
+Use this button to start, then copy + paste in the template! (Delete this section after use)
 ![[Character Sheets/New Character]]
 
 # PERSONAL DATA SHEET V1.6

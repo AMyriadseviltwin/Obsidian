@@ -1,18 +1,24 @@
+
 --- 
 
 ![[bg_crew.png]]
 
 --- 
 
+**THE SANDS OF TIME** swirl in anticipation. Years ago - perhaps decades, perhaps, centuries - your character came into being from the great nothing. The world is vast, society splintered by their own ambitions across a cold and distant sea of nothing. Now, just as this world shaped you throughout your years of life, you've now been charged with the power to shape it as well.
+
+Will you live to rise in this great void, or screaming, bear alone a grave *DEATH IN SPACE?*
 
 
 
+## I - Abilities
+
+## II - Origins
+
+## III - Details
+
+## IV - Life & Defense
+
+## V - Starting gear
 
 
-
-### Want to make a new character? Do this:
-
-| X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X                                                                                                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1. Roll for your [[Abilities]]<br>2. Choose your [[Origins]]<br>3. Give yourself [[Character Details]]<br>4. Determine your [[Character Details#Past Allegiance]\|Past Allegiance]]<br>5. Roll for your Hit points and defense rating<br>6. Choose your Starting gear |
-| X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X                                                                                                                                                                                                                       |

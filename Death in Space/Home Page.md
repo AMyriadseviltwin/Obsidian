@@ -17,13 +17,13 @@
 
 ##### Everything you need can be found in the relevant folders:
 
-> **Character Creation** - [[Creating a Character|Follow this guide to make a new character!]] Contains everything you need to know about player characters, attributes and origins, rolling stats, and so on.
+> **Character Creation** - [[Creating a Character|Follow this page to make a new character!]] Contains everything you need to know about player characters, attributes and origins, rolling stats, and so on.
 
 
 > **Character Sheets** - [[Data Sheet Template|Click here to view the data sheet template!]] Just copy and paste the template to a new file in the folder and make as many characters as you like :)
 
 
-> **Images** - The repository for all images contained in this SRD, basically background stuff. Feel free to ignore it or browse to your heart's content.
+> **Images** - The repository for all images contained in this SRD, basically background stuff. Feel free to ignore or browse to your heart's content.
 
 
 > **Mechanics** - The meat and potatoes of the SRD. From weapons and combat rules to condition and repair mechanics - this everything you need to know to play Death in Space.
