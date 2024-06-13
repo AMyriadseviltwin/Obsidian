@@ -16,22 +16,22 @@
 `
 ##### Everything you need can be found in their relevant folders:
 
-> Character Creation - [[Creating a Character|Follow this guide to make a new character!]] Contains everything you need to know about player characters, attributes and origins, rolling stats, and so on.
+> **Character Creation** - [[Creating a Character|Follow this guide to make a new character!]] Contains everything you need to know about player characters, attributes and origins, rolling stats, and so on.
 
 
-> Character Sheets - [[Data Sheet Template|Click here to view the data sheet template!]] Just copy and paste the template to a new file in the folder and make as many characters as you like :)
+> **Character Sheets** - [[Data Sheet Template|Click here to view the data sheet template!]] Just copy and paste the template to a new file in the folder and make as many characters as you like :)
 
 
-> Images - The repository for all images contained in this SRD, basically background stuff. Feel free to ignore it or browse to your heart's content.
+> **Images** - The repository for all images contained in this SRD, basically background stuff. Feel free to ignore it or browse to your heart's content.
 
 
-> Mechanics - The meat and potatoes of the SRD. From abilities/stats, combat rules, condition and repair mechanics - everything you need to know to play Death in Space.
+> **Mechanics** - The meat and potatoes of the SRD. From abilities/stats, combat rules, condition and repair mechanics - everything you need to know to play Death in Space.
 
 
-> Shopping - Nearby marketplace? Passing by a trade port? Here you'll find the standard pricing for most goods, materials, contracts, and cyberware.
+> **Shopping** - Nearby marketplace? Passing by a trade port? Here you'll find the standard pricing for most goods, materials, contracts, and cyberware.
 
 
-> World Info - LORE. Here you can read about common knowledge people in the world of Space may know. Information on things [[Corporations|factions]], [[The Tenebris System|star systems]], and [[Glossary|terminology]] may be found here.
+> **World Info** - LORE. Here you can read about common knowledge people in the world of Space may know. Information on things [[Corporations|factions]], [[The Tenebris System|star systems]], and [[Glossary|terminology]] may be found here.
 
 
 
@@ -43,4 +43,5 @@
 | 1. Roll for your [[Abilities]]<br>2. Choose your [[Origins]]<br>3. Give yourself [[Character Details]]<br>4. Determine your [[Character Details#Past Allegiance]\|Past Allegiance]]<br>5. Roll for your Hit points and defense rating<br>6. Choose your Starting gear |
 | X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X                                                                                                                                                                                                                       |
 
-![[DIScover_crop.png]]
+
+
