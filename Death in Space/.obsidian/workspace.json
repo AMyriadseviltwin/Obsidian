@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42e92be76e87bb19",
+        "id": "a56da2641d278f85",
         "type": "tabs",
         "children": [
           {
-            "id": "a3e5ac02f2f48498",
+            "id": "a561074552413b0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c70084eed24dacfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Sheets/Data Sheet Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7ac06837df6a87a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Info/Glossary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15c93db76b6b913f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/Origins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Sheets/Data Sheet Template.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Sheets/Data Sheet Template.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Sheets/Data Sheet Template.md"
+                "file": "Home Page.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,40 +148,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c70084eed24dacfe",
+  "active": "ae041b4f10ce3b26",
   "lastOpenFiles": [
-    "Character Sheets/Name.md",
-    "Character Sheets/Data Sheet Template.md",
-    "Character Sheets/t.md",
-    "Untitled.md",
+    "Mechanics/Weapons.md",
     "Home Page.md",
-    "Templates/Temp 1.md",
-    "Templates",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Pasted image 20240613034754.png",
+    "Untitled.md",
+    "Character Sheets/Data Sheet Template.md",
     "Character Creation/Origins.md",
     "Character Creation/Creating a Character.md",
+    "Character Creation/Character Details.md",
+    "Mechanics/Cheat Sheet.png",
+    "Mechanics/Condition & Parts.md",
+    "Pasted image 20240613035842.png",
+    "Pasted image 20240613040426.png",
+    "Pasted image 20240613040524.png",
+    "Pasted image 20240613040452.png",
+    "Images/Background Art/bg_crew.png",
+    "Images/Background Art/icon_void.png",
+    "Images/Background Art/bg_astronautvoid.png",
+    "Pasted image 20240613035936.png",
+    "Character Sheets/Name.md",
+    "Character Sheets/t.md",
+    "Templates/Temp 1.md",
+    "Templates",
+    "Untitled 1.canvas",
+    "Pasted image 20240613034754.png",
     "World Info/Glossary.md",
     "World Info/The Tenebris System.md",
     "World Info/Corporations.md",
     "Shopping/Pricing.md",
     "Mechanics/Cybernetics.md",
-    "Images/travel_info.png",
-    "Images/tenebris_big.png",
-    "Character Creation/Character Details.md",
-    "Images/Background Art/icon_void.png",
-    "Images/grav_rune_i.png",
-    "Images/Background Art/bg_crew.png",
-    "Images/Background Art/DIScover_crop.png",
-    "Images/Background Art/bg_astronautvoid.png",
     "Character Sheets/Data Sheet Template 1.md",
     "New Character.md",
-    "Images/tenebris_official.png",
-    "Pasted image 20240613023103.png",
     "Mechanics/Combat.md",
-    "Mechanics/Weapons.md",
-    "Mechanics/Condition & Parts.md",
     "Character Creation",
     "Shopping",
     "World Info",
@@ -232,7 +196,6 @@
     "GM Materials/Experimental/Abilties+.md",
     "GM Materials/Experimental/Specific Parts.md",
     "GM Materials/Experimental",
-    "GM Materials/Session Ideas/Combat Test No. 2.md",
     "GM Materials/Session Ideas"
   ]
 }
