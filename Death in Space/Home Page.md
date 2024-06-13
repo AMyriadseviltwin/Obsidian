@@ -31,7 +31,7 @@
 > Shopping - Nearby marketplace? Passing by a trade port? Here you'll find the standard pricing for most goods, materials, contracts, and cyberware.
 
 
-> World Info - LORE. Here you can read about common knowledge people in the world of Space may know. Things like 
+> World Info - LORE. Here you can read about common knowledge people in the world of Space may know. Information on things [[Corporations|factions]], [[The Tenebris System|star systems]], and [[Glossary|terminology]] may be found here.
 
 
 
@@ -43,3 +43,4 @@
 | 1. Roll for your [[Abilities]]<br>2. Choose your [[Origins]]<br>3. Give yourself [[Character Details]]<br>4. Determine your [[Character Details#Past Allegiance]\|Past Allegiance]]<br>5. Roll for your Hit points and defense rating<br>6. Choose your Starting gear |
 | X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X                                                                                                                                                                                                                       |
 
+![[DIScover_crop.png]]

@@ -1,14 +1,11 @@
 --- 
 
-![[Pasted image 20240613015456.png]]
+![[tenebris_official.png]]
+![[travel_info.png]]
 
 --- 
 
 # Welcome to Tenebris 59.85882
-
-
-
-
 
 
 
