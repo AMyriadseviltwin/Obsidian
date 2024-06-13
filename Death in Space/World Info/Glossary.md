@@ -23,6 +23,9 @@ Savvy. Ability that represents your mental capacity: logic, recalling info, talk
 #### TEC
 Tech. Ability that represents your technical skill for things like aiming technique, electrical/mechanical knowledge, ability to repair, construct and deconstruct.
 
+#### Tenebris
+The Tenebris star, a red giant, and its star system. The brutal and war-torn epicenter of the Gem War, and the first system you, the players, will live and die in.
+
 #### Whale
-Codename for emergency response teams working under [[Corporations#AMBERCOVE|Ambercove]]. Mostly comprised of hard-boiled, highly skilled ex-navvies.
+Codename for emergency response teams working under [[Corporations#AMBERCOVE|Ambercove]]. Mostly comprised of hard-boiled, highly skilled ex-navvies known for getting the job done.
 
