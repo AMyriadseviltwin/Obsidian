@@ -21,3 +21,28 @@ Use this button to start, then copy + paste in the template! (Delete this sectio
 |   TECH    |   #    |
 
 
+
+
+
+	Section I - Info
+
+NAME
+ORIGIN
+Origin benefit
+
+
+
+	Section II - Stats
+
+STR
+DEX
+SVY
+TEC
+
+
+	Section III - Belongings
+
+Items-Condition
+
+
+
