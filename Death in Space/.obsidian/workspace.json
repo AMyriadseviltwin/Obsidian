@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "50080e6a0d19cde8",
+        "id": "ed950d3b816ec96b",
         "type": "tabs",
         "children": [
           {
-            "id": "c341985e17249708",
+            "id": "da1c5c0a3ec6a3d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Sheets/DATA SHEET TEMPLATE.md",
+                "file": "Character Creation/ORIGINS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acef4e974f789476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/ORIGINS 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Sheets/DATA SHEET TEMPLATE.md",
+                "file": "Character Creation/ORIGINS 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Sheets/DATA SHEET TEMPLATE.md",
+                "file": "Character Creation/ORIGINS 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Sheets/DATA SHEET TEMPLATE.md"
+                "file": "Character Creation/ORIGINS 2.md"
               }
             }
           }
@@ -148,17 +161,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c341985e17249708",
+  "active": "acef4e974f789476",
   "lastOpenFiles": [
+    "World Info/GLOSSARY.md",
+    "Character Creation/ORIGINS.md",
+    "World Info/THE TENEBRIS SYSTEM.md",
+    "Character Creation/ORIGINS 2.md",
+    "Character Sheets/DATA SHEET TEMPLATE.md",
+    "Mechanics/LIFE AND DEATH.md",
+    "Mechanics/CYBERNETICS.md",
+    "Character Creation/CREATING A CHARACTER.md",
     "HOME PAGE.md",
     "Character Creation/CHARACTER DETAILS.md",
-    "Character Creation/CREATING A CHARACTER.md",
-    "Character Creation/ORIGINS.md",
-    "Character Sheets/DATA SHEET TEMPLATE.md",
     "Mechanics/ABILITIES.md",
     "Mechanics/COMBAT.md",
     "Mechanics/CONDITION AND PARTS.md",
-    "Mechanics/CYBERNETICS.md",
     "Images/Close Art/velocity_cursed.png",
     "Images/Background Art/bg_offline.png",
     "Images/Background Art/bg_crew.png",
@@ -170,14 +187,10 @@
     "Images/Close Art/heart_failure.png",
     "Images/Close Art/cyber_optics.png",
     "Shopping/ITEM PRICING.md",
-    "World Info/THE TENEBRIS SYSTEM.md",
-    "World Info/GLOSSARY.md",
     "World Info/CORPORATIONS.md",
     "Mechanics/WEAPONS.md",
-    "Mechanics/LIFE AND DEATH.md",
     "Images/Runes",
     "Untitled.canvas",
-    "Untitled.md",
     "Character Sheets/Name.md",
     "Character Sheets/t.md",
     "Templates/Temp 1.md",

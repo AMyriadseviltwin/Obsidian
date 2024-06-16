@@ -1,6 +1,7 @@
 An origin can be anything from a bioengineered species to someone with opinions and a mohawk. Starting from our* description, decide on how you want to interpret yours and how you fit into the setting. Be creative!
 
 Choose your origin or roll a d6 to choose on randomly. Then pick one of the two benefits.
+
 ㅤ* The brief initial description in *italic* text is straight from the book. Everything after that is what I have written for the campaign, and to offer a bit more depth to these origins. Still, make your character based on these origins however you like :)
 
 ### 1. CARBON
@@ -25,6 +26,9 @@ You can use your body to power one small electrical device, such as a hand-held 
 
 ### 3. PUNK
 > *Rebellious and non-conformist with a long history. They have seen civilizations collapse, and others turn against each other.*
+
+
+
 
 **STUBBORN**
 You never give up. Reroll any dice roll once per session.
