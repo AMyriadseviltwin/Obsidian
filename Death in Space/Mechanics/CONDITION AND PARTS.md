@@ -14,7 +14,7 @@
 
 
 ##### BREAKING OBJECTS
-> At zero condition, an object is **broken** and cannot be used until repaired*.
+> At zero condition, an object is **broken** and cannot be used until repaired.
 
 > If a **station or spacecraft becomes broken**, either by  being reduced to zero condition or zero frame integrity, emergency power is enough to run life suppor, but not much more. All non-essential systems, such as the engine and modules, stop working.
 
