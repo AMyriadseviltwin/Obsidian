@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9e30147e43c91bdc",
+        "id": "93e0b3b4b9433452",
         "type": "tabs",
         "children": [
           {
-            "id": "3c8591c2ca085e72",
+            "id": "6bd2c272c495b65e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/CHARACTER DETAILS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f0264565559ba5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/CREATING A CHARACTER.md",
+                "file": "Character Creation/ORIGINS 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/CREATING A CHARACTER.md",
+                "file": "Character Creation/ORIGINS 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/CREATING A CHARACTER.md",
+                "file": "Character Creation/ORIGINS 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/CREATING A CHARACTER.md"
+                "file": "Character Creation/ORIGINS 2.md"
               }
             }
           }
@@ -161,10 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f0264565559ba5c",
+  "active": "6bd2c272c495b65e",
   "lastOpenFiles": [
-    "Character Creation/CHARACTER DETAILS.md",
+    "HOME PAGE.md",
     "Character Creation/CREATING A CHARACTER.md",
+    "Character Creation/CHARACTER DETAILS.md",
     "Character Creation/ORIGINS.md",
     "Mechanics/CYBERNETICS.md",
     "Mechanics/CONDITION AND PARTS.md",
@@ -177,7 +165,6 @@
     "World Info/GLOSSARY.md",
     "Images/travel_info.png",
     "World Info/CORPORATIONS.md",
-    "HOME PAGE.md",
     "Character Sheets/DATA SHEET TEMPLATE.md",
     "Mechanics/LIFE AND DEATH.md",
     "Images/Close Art/velocity_cursed.png",

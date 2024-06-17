@@ -40,4 +40,35 @@ Choose your origin or roll a d6 to choose on randomly. Then pick one of the two 
 
 
 ### 6. APOSTLE
-> 
+
+
+
+
+
+
+
+
+Carbon
+- Artificial humans made from altered templates
+- Grown in chamber-like exo-wombs offworld
+- Bioengineered for living and working in space
+- Lifespan kept short to prevent overcrowding
+- No children. DNA too unstable.
+
+
+Chrome
+- Old AI, with free will and sentience (ability to alter its own code), placed in cybernetic bodies.
+- Manufactured with an organic brain-like CPU and distributed nervous system that requires oxygen.
+	(Made to let the AI think in a way machines never could, but limit them with the burden of being partially organic)
+- Few of them around. Not many were made, and they're rarely produced.
+- 
+
+
+Punk
+- Term for regular humans born and highly involved during the war, coined from old world texts.
+- Most opposed the war, or fought with their life during it. All are stubborn survivors either way.
+- Commonly found everywhere.
+
+
+Solpod
+- 
