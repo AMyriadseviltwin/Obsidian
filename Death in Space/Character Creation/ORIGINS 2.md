@@ -7,12 +7,19 @@ Choose your origin or roll a d6 to choose on randomly. Then pick one of the two 
 > Marvels of genetic engineering. Carbon-based replicas, or carbons, were made to be expendable. Designed for hazardous environments, 
 
 
-> The advent of genetic engineering in a long-forgotten age brought a new race of humans into being. Carbon-based replicants, as the men and women of science called them, are artificial humans grown in chamber-like "exo-wombs". 
+> The advent of genetic engineering in a long-forgotten age brought a new race of humans into being. 
+> 
+ 
+ Carbon-based replicants, as the men and women of science called them, are artificial humans grown in chamber-like "exo-wombs". 
 
+
+
+> The advent of genetic engineering in a long-forgotten age brought 
 
 
 ### 2. CHROME
-> 
+>  
+
 
 
 

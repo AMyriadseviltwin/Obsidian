@@ -3,6 +3,7 @@
 
 ![[bg_crew.png]]
 
+
 --- 
 
 **THE SANDS OF TIME** swirl in anticipation. Years ago - perhaps decades, perhaps, centuries - from nothing, you came into being. The world is vast, society splintered by their own ambitions across a cold and distant sea of nothing. Now, just as this world shaped you throughout your years of life, you've now been charged with the power to shape it as well.

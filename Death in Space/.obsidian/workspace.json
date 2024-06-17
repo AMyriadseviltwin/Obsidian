@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/ORIGINS 2.md",
+                "file": "Character Creation/CHARACTER DETAILS.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/ORIGINS 2.md",
+                "file": "Character Creation/CREATING A CHARACTER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/ORIGINS 2.md",
+                "file": "Character Creation/CREATING A CHARACTER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/ORIGINS 2.md"
+                "file": "Character Creation/CREATING A CHARACTER.md"
               }
             }
           }
@@ -160,13 +161,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c8591c2ca085e72",
+  "active": "3f0264565559ba5c",
   "lastOpenFiles": [
-    "Character Creation/CREATING A CHARACTER.md",
-    "Character Creation/ORIGINS 2.md",
-    "Character Creation/ORIGINS.md",
     "Character Creation/CHARACTER DETAILS.md",
+    "Character Creation/CREATING A CHARACTER.md",
+    "Character Creation/ORIGINS.md",
+    "Mechanics/CYBERNETICS.md",
     "Mechanics/CONDITION AND PARTS.md",
+    "Mechanics/CHEAT SHEET.png",
+    "Character Creation/ORIGINS 2.md",
     "Mechanics/COMBAT.md",
     "Mechanics/ABILITIES.md",
     "World Info/THE TENEBRIS SYSTEM.md",
@@ -177,7 +180,6 @@
     "HOME PAGE.md",
     "Character Sheets/DATA SHEET TEMPLATE.md",
     "Mechanics/LIFE AND DEATH.md",
-    "Mechanics/CYBERNETICS.md",
     "Images/Close Art/velocity_cursed.png",
     "Images/Background Art/bg_offline.png",
     "Images/Background Art/bg_crew.png",
@@ -185,7 +187,6 @@
     "Images/Close Art/scav_rifleman.png",
     "Images/Close Art/vitruvian.png",
     "Images/Close Art/heart_failure.png",
-    "Images/Close Art/cyber_optics.png",
     "Shopping/ITEM PRICING.md",
     "Mechanics/WEAPONS.md",
     "Images/Runes",
