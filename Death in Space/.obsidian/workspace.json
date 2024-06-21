@@ -4,11 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d59dc4dbc351f034",
+        "id": "4199b25d75500f4b",
         "type": "tabs",
         "children": [
           {
-            "id": "c972e916bdf3cfce",
+            "id": "256edb56f07ab4c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/CREATING A CHARACTER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81b82dbfd9954078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/LIFE AND DEATH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75f6a08093112565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/ORIGINS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2e0d8e9397f400b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,25 +185,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c972e916bdf3cfce",
+  "active": "f2e0d8e9397f400b",
   "lastOpenFiles": [
-    "HOME PAGE.md",
+    "Character Creation/ORIGINS.md",
+    "Character Creation/CREATING A CHARACTER.md",
     "Mechanics/LIFE AND DEATH.md",
     "Character Creation/ORIGINS 2.md",
-    "Character Creation/CREATING A CHARACTER.md",
+    "World Info/Corporations.md",
     "Character Creation/CHARACTER DETAILS.md",
-    "Character Creation/ORIGINS.md",
-    "Mechanics/CYBERNETICS.md",
-    "Mechanics/CONDITION AND PARTS.md",
+    "HOME PAGE.md",
     "Mechanics/CHEAT SHEET.png",
-    "Mechanics/COMBAT.md",
-    "Mechanics/ABILITIES.md",
-    "World Info/THE TENEBRIS SYSTEM.md",
-    "Images/tenebris_official.png",
-    "World Info/GLOSSARY.md",
-    "Images/travel_info.png",
-    "World Info/CORPORATIONS.md",
     "Character Sheets/DATA SHEET TEMPLATE.md",
+    "Mechanics/ABILITIES.md",
+    "Mechanics/COMBAT.md",
+    "Mechanics/CONDITION AND PARTS.md",
+    "Mechanics/CYBERNETICS.md",
+    "Mechanics/WEAPONS.md",
+    "World Info/CORPORATIONS.md",
+    "World Info/GLOSSARY.md",
+    "World Info/THE TENEBRIS SYSTEM.md",
+    "Images/travel_info.png",
+    "Images/tenebris_official.png",
     "Images/Close Art/velocity_cursed.png",
     "Images/Background Art/bg_offline.png",
     "Images/Background Art/bg_crew.png",
@@ -175,7 +214,6 @@
     "Images/Close Art/vitruvian.png",
     "Images/Close Art/heart_failure.png",
     "Shopping/ITEM PRICING.md",
-    "Mechanics/WEAPONS.md",
     "Images/Runes",
     "Untitled.canvas",
     "Character Sheets/Name.md",
