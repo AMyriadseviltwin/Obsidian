@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "6dfcb6fca75de543",
+            "id": "46677c1b79d9c066",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "a6eee01a849ba682",
+            "id": "655c307b6fdeeb3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,13 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6dfcb6fca75de543",
+  "active": "46677c1b79d9c066",
   "lastOpenFiles": [
-    "Mechanics/ABILITIES.md",
-    "Mechanics/COMBAT.md",
     "Mechanics/CONDITION AND PARTS.md",
     "Mechanics/CYBERNETICS.md",
     "Mechanics/LIFE AND DEATH.md",
+    "Mechanics/CHEAT SHEET.png",
+    "Mechanics/ABILITIES.md",
+    "Mechanics/COMBAT.md",
     "Images/Disks/c_charged.png",
     "Images/Disks/cursed.png",
     "Images/Disks/divine.png",
@@ -189,7 +190,6 @@
     "Images/Disks/lightweight.png",
     "Images/Disks/milspec.png",
     "Images/Disks/modular.png",
-    "Images/Disks/overclocked.png",
     "HOME PAGE.md",
     "Character Creation/ORIGINS 2.md",
     "Character Creation/ORIGINS.md",
