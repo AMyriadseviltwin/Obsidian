@@ -4,17 +4,13 @@ Choose your origin or roll a d6 to choose on randomly. Then pick one of the two 
 ㅤ* The brief initial description in *italic* text is straight from the book. Everything after that is what I have written for the campaign, and to offer a bit more depth to these origins. Still, make your character based on these origins however you like :)
 
 ### 1. CARBON
-> Marvels of genetic engineering. Carbon-based replicas, or carbons, were made to be expendable. Designed for hazardous environments, 
-
-
-> The advent of genetic engineering in a long-forgotten age brought a new race of humans into being. 
 > 
- 
- Carbon-based replicants, as the men and women of science called them, are artificial humans grown in chamber-like "exo-wombs". 
 
 
 
-> The advent of genetic engineering in a long-forgotten age brought 
+
+
+
 
 
 ### 2. CHROME
