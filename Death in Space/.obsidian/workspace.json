@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4199b25d75500f4b",
+        "id": "7829deebddcdc881",
         "type": "tabs",
         "children": [
           {
-            "id": "256edb56f07ab4c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/CREATING A CHARACTER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81b82dbfd9954078",
+            "id": "d2d243bd71ac206c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,31 +20,31 @@
             }
           },
           {
-            "id": "75f6a08093112565",
+            "id": "6dfcb6fca75de543",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/ORIGINS.md",
+                "file": "Mechanics/CYBERNETICS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f2e0d8e9397f400b",
+            "id": "a6eee01a849ba682",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/ORIGINS 2.md",
+                "file": "Mechanics/CONDITION AND PARTS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/ORIGINS 2.md",
+                "file": "Mechanics/CYBERNETICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/ORIGINS 2.md",
+                "file": "Mechanics/CYBERNETICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/ORIGINS 2.md"
+                "file": "Mechanics/CYBERNETICS.md"
               }
             }
           }
@@ -185,34 +173,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2e0d8e9397f400b",
+  "active": "6dfcb6fca75de543",
   "lastOpenFiles": [
-    "Character Creation/ORIGINS.md",
-    "Character Creation/CREATING A CHARACTER.md",
-    "Mechanics/LIFE AND DEATH.md",
-    "Character Creation/ORIGINS 2.md",
-    "World Info/Corporations.md",
-    "Character Creation/CHARACTER DETAILS.md",
-    "HOME PAGE.md",
-    "Mechanics/CHEAT SHEET.png",
-    "Character Sheets/DATA SHEET TEMPLATE.md",
     "Mechanics/ABILITIES.md",
     "Mechanics/COMBAT.md",
     "Mechanics/CONDITION AND PARTS.md",
     "Mechanics/CYBERNETICS.md",
+    "Mechanics/LIFE AND DEATH.md",
+    "Images/Disks/c_charged.png",
+    "Images/Disks/cursed.png",
+    "Images/Disks/divine.png",
+    "Images/Disks/heavy.png",
+    "Images/Disks/hyper_burst.png",
+    "Images/Disks/kugelblitz_elite.png",
+    "Images/Disks/lightweight.png",
+    "Images/Disks/milspec.png",
+    "Images/Disks/modular.png",
+    "Images/Disks/overclocked.png",
+    "HOME PAGE.md",
+    "Character Creation/ORIGINS 2.md",
+    "Character Creation/ORIGINS.md",
+    "Character Creation/CREATING A CHARACTER.md",
+    "World Info/Corporations.md",
+    "Character Creation/CHARACTER DETAILS.md",
+    "Character Sheets/DATA SHEET TEMPLATE.md",
     "Mechanics/WEAPONS.md",
     "World Info/CORPORATIONS.md",
     "World Info/GLOSSARY.md",
     "World Info/THE TENEBRIS SYSTEM.md",
-    "Images/travel_info.png",
-    "Images/tenebris_official.png",
-    "Images/Close Art/velocity_cursed.png",
-    "Images/Background Art/bg_offline.png",
-    "Images/Background Art/bg_crew.png",
-    "Images/Background Art/bg_astronautvoid.png",
-    "Images/Close Art/scav_rifleman.png",
-    "Images/Close Art/vitruvian.png",
-    "Images/Close Art/heart_failure.png",
     "Shopping/ITEM PRICING.md",
     "Images/Runes",
     "Untitled.canvas",
@@ -233,7 +221,6 @@
     "Images/Close Art",
     "Combat",
     "GM Materials/Experimental/Weapons+.md",
-    "GM Materials/Experimental/Abilties+.md",
     "GM Materials/Experimental"
   ]
 }
