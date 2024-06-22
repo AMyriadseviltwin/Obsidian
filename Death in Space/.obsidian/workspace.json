@@ -4,117 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7829deebddcdc881",
+        "id": "04be923bba40bcbf",
         "type": "tabs",
         "children": [
           {
-            "id": "d2d243bd71ac206c",
+            "id": "d0cfe0c8c96c0cc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/LIFE AND DEATH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e07072a19fb4e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Info/GLOSSARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "989f8e9fdf50b35a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/ORIGINS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e32ac86221000ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/ORIGINS 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ee666e1ce713936",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Mechanics/CHEAT SHEET.png"
-              }
-            }
-          },
-          {
-            "id": "2b8ad2981f0166ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/CREATING A CHARACTER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12f761f66498bacf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/CHARACTER DETAILS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2958ed192337869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/ABILITIES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "655c307b6fdeeb3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/CONDITION AND PARTS.md",
+                "file": "HOME PAGE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/CHEAT SHEET.png",
+                "file": "HOME PAGE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/CHEAT SHEET.png",
+                "file": "HOME PAGE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/CHEAT SHEET.png"
+                "file": "HOME PAGE.md"
               }
             }
           }
@@ -243,37 +148,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ee666e1ce713936",
+  "active": "d0cfe0c8c96c0cc4",
   "lastOpenFiles": [
-    "Character Creation/ORIGINS 2.md",
-    "Character Creation/ORIGINS.md",
-    "Character Creation/CREATING A CHARACTER.md",
-    "Details.md",
-    "Character Creation/CHARACTER DETAILS.md",
-    "World Info/GLOSSARY.md",
-    "Mechanics/ABILITIES.md",
+    "Shopping/ITEM PRICING.md",
+    "HOME PAGE.md",
+    "Mechanics/CHEAT SHEET.png",
+    "Mechanics/COMBAT.md",
     "Mechanics/CONDITION AND PARTS.md",
     "Mechanics/CYBERNETICS.md",
     "Mechanics/LIFE AND DEATH.md",
+    "World Info/CORPORATIONS.md",
+    "World Info/GLOSSARY.md",
+    "World Info/THE TENEBRIS SYSTEM.md",
+    "Character Creation/CREATING A CHARACTER.md",
     "Character Sheets/DATA SHEET TEMPLATE.md",
+    "Mechanics/ABILITIES.md",
+    "Character Creation/CHARACTER DETAILS.md",
+    "Character Creation/ORIGINS 2.md",
+    "Character Creation/ORIGINS.md",
+    "Details.md",
     "Character Sheets/New Character.md",
     "Images/travel_info.png",
     "Images/tenebris_official.png",
-    "Mechanics/CHEAT SHEET.png",
     "Mechanics/WEAPONS.md",
     "Images/Close Art/velocity_cursed.png",
     "Images/Close Art/scav_rifleman.png",
     "Images/Close Art/heart_failure.png",
     "Images/Close Art/cyber_optics.png",
     "Images/Close Art/astronaut_shatter.png",
-    "Mechanics/COMBAT.md",
     "Images/Disks/c_charged.png",
     "Images/Disks/cursed.png",
-    "HOME PAGE.md",
-    "World Info/Corporations.md",
-    "World Info/CORPORATIONS.md",
-    "World Info/THE TENEBRIS SYSTEM.md",
-    "Shopping/ITEM PRICING.md",
     "Images/Runes",
     "Untitled.canvas",
     "Character Sheets/Name.md",
@@ -288,7 +192,6 @@
     "World Info",
     "Mechanics.md",
     "Mechanics",
-    "GM Materials/Session Ideas/Combat Test No. 1.md",
     "Images/Disks",
     "Images/Close Art",
     "Combat",

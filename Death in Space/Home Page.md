@@ -1,7 +1,7 @@
 
  **NOTE:** Formatting may be better in editing mode on some pages.
 #### //////////////////////////////////////////////////////////////////
-### Welcome ==-USER-== to the awesome SRD made to guide you to your
+###     Welcome ==-USER-== to the SRD made to guide you to your
 #                   *DEATH IN SPACE*
 
 ![[bg_astronautvoid.png]]
@@ -33,3 +33,4 @@
 
 
 > **World Info** - LORE. Here you can read about common knowledge people in the world of Space may know. Information on [[CORPORATIONS|factions]], [[THE TENEBRIS SYSTEM|star systems]], and [[GLOSSARY|terminology]] may be found here.
+

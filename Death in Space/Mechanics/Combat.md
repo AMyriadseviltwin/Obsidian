@@ -23,4 +23,5 @@ Much like other games, combat in Space is structured into rounds, where everyone
 
 > Attacks are resolved by rolling a d20, and adding your BDY or TEC to the roll if it's a melee or ranged attack, respectively. If it's equal to or greater than the DR of the thing you're trying to hurt, the attack hits and you can proceed to roll for damage.
 
-> 
+
+
