@@ -14,7 +14,7 @@
 # HOW TO USE
 
 ##### This is the home page. You can return to it any time with `Ctrl + H`.
-`
+
 ##### Everything you need can be found in the relevant folders:
 
 > **Character Creation** - [[CREATING A CHARACTER|Follow this page to make a new character!]] Contains everything you need to know about player characters, attributes and origins, rolling stats, and so on.
