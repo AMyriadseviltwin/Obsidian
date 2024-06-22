@@ -4,8 +4,7 @@ Choose your origin or roll a d6 to choose on randomly. Then pick one of the two 
 ㅤ* The brief initial description in *italic* text is straight from the book. Everything after that is what I have written for the campaign, and to offer a bit more depth to these origins. Still, make your character based on these origins however you like :)
 
 ### 1. CARBON
-> No humans prefer life in space more than the carbon. First created in a long forgotten age, the men and women of science...
-
+> Grown in space-based exo-wombs, the carbon were naturally designed to live in space. Carbon-based replicants were a marvel of gene science, first achieved in a long-forgotten age, and since then 
 
 
 

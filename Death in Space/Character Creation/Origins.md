@@ -18,7 +18,7 @@ Use half oxygen compared to everyone else (one step for every two normal steps).
 Repair twice as fast.
 
 
-### 2. CHROME
+# 2. CHROME
 > *Ancient AI placed in a body vessel of organic material. Part machine, but with an organic CPU and a distributed neural system that requires oxygen.*
 
 **NATIVE MACHINE**
@@ -28,7 +28,7 @@ You can converse with computers as if they were real people. Plug in and find a 
 You can use your body to power one small electrical device, such as a hand-held item.
 
 
-### 3. PUNK
+# 3. PUNK
 > *Rebellious and non-conformist with a long history. They have seen civilizations collapse, and others turn against each other.*
 
 
@@ -41,7 +41,7 @@ You never give up. Reroll any dice roll once per session.
 You know everything about plants and what to use them for. You start with a pocket greenhouse and some random seeds.
 
 
-### 4. SOLPOD
+# 4. SOLPOD
 > *Hibernating for decades, they only stay awake for short periods. They dedicate their lives to the scientific study of slow, cosmic phenomena.*
 
 **LONG-LIVED**
@@ -51,7 +51,7 @@ You have an old and useful contact in every port.
 You have a portable hibernation pod. It can regenerate lost limbs, prevents aging and halts the need to eat. Powered by starlight.
 
 
-### 5. VELOCITY CURSED
+# 5. VELOCITY CURSED
 > *Ill-fated ones that have started to lose their connection to reality. They shift and flicker in and out of spacetime with glitching faces.*
 
 
@@ -63,7 +63,7 @@ You have already been here. Once per session, ask the GM for directions. Expect 
 You start with a portable non-phys server, housing a virtual reality where you store memories to connect the past and future of your life. Up to ten users can connect simultaneously.
 
 
-### 6. APOSTLE
+# 6. APOSTLE
 > *Robed nihility shamans, hidden behind masks, speaking through synthetic voice scramblers. They have seen visions of the edge of the universe.*
 
 
