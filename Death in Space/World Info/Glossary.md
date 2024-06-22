@@ -29,12 +29,16 @@ Defense rating. The same as AC/armor class in D&D.
 Also called credits. Most commonly used currency.
 
 ---
+#### HP
+Health points. 
+
+---
 #### Keelhauling
 A popular torture or execution method used by the most brutal crews, or on the worst of criminals. Involves tying a person to a heavy tow-cable, looped through the ship, and pushing them out an airlock without protection. The person would then be dragged through space at a high speed from bow to stern, forced to feel the oxygen in their body expand and escape, their blood in their veins and the spit on their tongue bubble and boil in the vacuum, until they reach the airlock at the other side of the ship. [Inspired by a practice of old world sailors.](https://en.wikipedia.org/wiki/Keelhauling)
 
 ---
 #### LSS
-Life Support System. Large, convoluted bundles of machinery that supply air, regulate temperature, and slowly attempt to scrub harmful gases in the area. Every functioning ship should have one installed and connected to its atmospheric systems. Sometimes comes in bulky and less effective portable versions.
+Life Support System. Large, convoluted bundles of machinery that supply air, regulate temperature, and slowly attempt to scrub harmful gases from the area. Every functioning ship should have one installed and connected to its atmospheric systems. Sometimes comes in bulky and less effective portable versions.
 
 ---
 #### Navvy/Navvies
@@ -67,3 +71,4 @@ Code name for emergency response teams working under [[CORPORATIONS#AMBERCOVE|Am
 ---
 
 ---
+

@@ -10,11 +10,11 @@
 # Life
 
 ### Health Points and Defense Rating
-All creatures have **health point (HP)** and **defense rating (DR)** values.
+All living things have **health point (HP)** and **defense rating (DR)** values.
 
-> HP signifies how many hits a thing can take before breaking or dying.
+> HP signifies how much damage a thing can take before breaking or dying.
 
-> DR signifies how good a thing can prevent hits, whether by dodging the attack or being too durable to be affected.
+> DR signifies how good a thing can prevent hits, whether by dodging the attack or by being too durable to be affected.
 
 New characters start with **1d8 maximum HP**. When you rest, you recover **1d8 + BDY**.
 All characters have **12 + DEX DR** by default, without armor.
