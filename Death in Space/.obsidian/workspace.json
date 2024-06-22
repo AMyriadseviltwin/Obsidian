@@ -20,12 +20,60 @@
             }
           },
           {
-            "id": "46677c1b79d9c066",
+            "id": "9e07072a19fb4e96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/CYBERNETICS.md",
+                "file": "World Info/GLOSSARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "989f8e9fdf50b35a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/ORIGINS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b8ad2981f0166ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/CREATING A CHARACTER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12f761f66498bacf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/CHARACTER DETAILS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2958ed192337869",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/ABILITIES.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/CYBERNETICS.md",
+                "file": "Character Creation/CREATING A CHARACTER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/CYBERNETICS.md",
+                "file": "Character Creation/CREATING A CHARACTER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/CYBERNETICS.md"
+                "file": "Character Creation/CREATING A CHARACTER.md"
               }
             }
           }
@@ -173,33 +221,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46677c1b79d9c066",
+  "active": "2b8ad2981f0166ec",
   "lastOpenFiles": [
+    "Details.md",
+    "Character Creation/CREATING A CHARACTER.md",
+    "Character Creation/CHARACTER DETAILS.md",
+    "World Info/GLOSSARY.md",
+    "Character Creation/ORIGINS.md",
+    "Mechanics/ABILITIES.md",
     "Mechanics/CONDITION AND PARTS.md",
     "Mechanics/CYBERNETICS.md",
     "Mechanics/LIFE AND DEATH.md",
+    "Character Sheets/DATA SHEET TEMPLATE.md",
+    "Character Sheets/New Character.md",
+    "Images/travel_info.png",
+    "Images/tenebris_official.png",
     "Mechanics/CHEAT SHEET.png",
-    "Mechanics/ABILITIES.md",
+    "Mechanics/WEAPONS.md",
+    "Images/Close Art/velocity_cursed.png",
+    "Images/Close Art/scav_rifleman.png",
+    "Images/Close Art/heart_failure.png",
+    "Images/Close Art/cyber_optics.png",
+    "Images/Close Art/astronaut_shatter.png",
     "Mechanics/COMBAT.md",
     "Images/Disks/c_charged.png",
     "Images/Disks/cursed.png",
-    "Images/Disks/divine.png",
-    "Images/Disks/heavy.png",
-    "Images/Disks/hyper_burst.png",
-    "Images/Disks/kugelblitz_elite.png",
-    "Images/Disks/lightweight.png",
-    "Images/Disks/milspec.png",
-    "Images/Disks/modular.png",
     "HOME PAGE.md",
     "Character Creation/ORIGINS 2.md",
-    "Character Creation/ORIGINS.md",
-    "Character Creation/CREATING A CHARACTER.md",
     "World Info/Corporations.md",
-    "Character Creation/CHARACTER DETAILS.md",
-    "Character Sheets/DATA SHEET TEMPLATE.md",
-    "Mechanics/WEAPONS.md",
     "World Info/CORPORATIONS.md",
-    "World Info/GLOSSARY.md",
     "World Info/THE TENEBRIS SYSTEM.md",
     "Shopping/ITEM PRICING.md",
     "Images/Runes",
@@ -220,7 +270,6 @@
     "Images/Disks",
     "Images/Close Art",
     "Combat",
-    "GM Materials/Experimental/Weapons+.md",
     "GM Materials/Experimental"
   ]
 }

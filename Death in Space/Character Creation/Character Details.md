@@ -1,3 +1,5 @@
+
+# Who are you?
 Consider your character, your creation, as an extension of you. They are yours to play and shape as you explore the harsh world of Space, just as their past shaped them.
 
 Take inspiration from the tables below to give your character a **background**, **trait**, **drive**, **looks**, and **past allegiance**. Decide for yourself what you want to include, or roll a d20 to choose something random. Then finally, give your character a **name**. It will not save them.
@@ -5,7 +7,8 @@ Take inspiration from the tables below to give your character a **background**, 
 Note: these suggestions are from the book and are definitely open to interpretation.
 
 
-## BACKGROUND
+
+# BACKGROUND
 | **D20** |                     |
 | ------- | ------------------- |
 | 1       | Shipbreaker         |
