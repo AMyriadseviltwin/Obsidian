@@ -138,6 +138,12 @@ This system provides a structured way to incorporate temperature into your game,
 
 
 
+Temperature (Hot +3, cold -3)
+Food (Full, starving)
+Water (Hydrated, dehydrated)
+Sleep (Well-rested, deprived)
+Oxygen ()
+
 
 
 # Death
