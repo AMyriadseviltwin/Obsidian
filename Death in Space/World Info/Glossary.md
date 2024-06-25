@@ -25,6 +25,10 @@ Body. Ability that involves the use of your physical strength and toughness.
 Defense rating. The same as AC/armor class in D&D.
 
 ---
+#### Equip/Equipped
+Refers to what items you're *currently holding in your hands* (a gun, a sandwich, a circuit board, etc.) or what you're *currently wearing on your body* (a jacket, a satchel, mag-boots, etc.).
+
+---
 #### Holos
 Also called credits. Most commonly used currency.
 

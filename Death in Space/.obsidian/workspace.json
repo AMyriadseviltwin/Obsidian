@@ -63,32 +63,22 @@
               "state": {
                 "file": "Mechanics/COMBAT/ACTIONS.canvas",
                 "viewState": {
-                  "x": -376.53480777052823,
-                  "y": -505.74177954657944,
-                  "zoom": 0
+                  "x": -587.2778817335359,
+                  "y": -149.4208506733569,
+                  "zoom": -0.5
                 }
               }
             }
           },
           {
-            "id": "a40776939350a678",
+            "id": "cd424f97cb4114a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/LIFE AND DEATH.md",
+                "file": "World Info/GLOSSARY.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2c69507b065ee112",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/action_point.png"
               }
             }
           }
@@ -224,8 +214,9 @@
   },
   "active": "d962962e1c8eb721",
   "lastOpenFiles": [
-    "Mechanics/LIFE AND DEATH.md",
+    "World Info/GLOSSARY.md",
     "Mechanics/COMBAT/ACTIONS.canvas",
+    "Mechanics/LIFE AND DEATH.md",
     "Character Sheets/DATA SHEET TEMPLATE.md",
     "Character Creation/ORIGINS 2.md",
     "Character Creation/ORIGINS.md",
@@ -236,7 +227,6 @@
     "Mechanics/CHEAT SHEET.png",
     "HOME PAGE.md",
     "World Info/THE TENEBRIS SYSTEM.md",
-    "World Info/GLOSSARY.md",
     "World Info/CORPORATIONS.md",
     "Mechanics/CONDITION AND PARTS.md",
     "Mechanics/CYBERNETICS.md",
