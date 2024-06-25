@@ -22,12 +22,14 @@ All characters have **12 + DEX DR** by default, without armor.
 ### Bodyparts
 Humans have **6** bodyparts: **two arms**, **two legs**, the **torso**, and **head**.
 
-**Limbs** (everything except the torso) each have their own **HP**, totalling the creature's **max HP**.
+**Limbs** (arms and legs) each have their own **HP**, totalling the creature's **max HP**.
 This means **each limb's max HP is 1/4th the creature's max HP, rounded down**.
 
   **Example:**
 - *Max HP:* 37
 - *Limb Max HP:* 37 / 4 = 9.25 ≈ 9
+
+D
 
 Limbs are also harder to hit **(+1 DR)** with ranged attacks, owing to the skill needed to hit a specific bodypart.
 
