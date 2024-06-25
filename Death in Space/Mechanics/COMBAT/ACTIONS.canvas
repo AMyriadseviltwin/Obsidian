@@ -28,7 +28,7 @@
 		{"id":"ddb5bddcd9873eff","type":"text","text":"Ranged attack?","x":-1127,"y":160,"width":197,"height":60},
 		{"id":"32c537b933cd1077","type":"text","text":"Roll **d20 + BDY** to hit your target.\n\nYour roll must be **equal to or greater** than your target's DR to hit.","x":-2020,"y":340,"width":440,"height":120},
 		{"id":"0df199a2c5bceb9d","type":"text","text":"Melee attack?","x":-1894,"y":165,"width":189,"height":50},
-		{"id":"9c63995811e54202","type":"text","text":" the weapon's damage dice and subtract it from the target's HP.\n\nIf the weapon has several damage dice, you can divvy each result among adjacent targets.\nBasically you can spray your weapons fire to someone standing next to your first target, and then someone else standing next to your second target, etc.\n\n\n\n**If it is a risky attack, add +1 damage dice.**","x":-2175,"y":920,"width":500,"height":300},
+		{"id":"9c63995811e54202","type":"text","text":"Roll the weapon's damage dice and subtract it from the target's HP.\n\n**If it is a risky attack, add +1 damage dice.**\n\nIf the weapon has several damage dice, you can divvy each damage die among adjacent targets.\nBasically you can spray your weapons fire to someone standing next to your first target, and then someone else standing next to your second target, etc.\n\n\n","x":-2175,"y":920,"width":715,"height":220},
 		{"id":"018868df620d84de","type":"text","text":"Yes","x":-1800,"y":705,"width":96,"height":50},
 		{"id":"cca98a35800a264f","type":"text","text":"Does it hit?","x":-1540,"y":580,"width":250,"height":60},
 		{"id":"adb832fdef7f50f3","type":"text","text":"Gain a void point.","x":-1270,"y":1140,"width":250,"height":60},
