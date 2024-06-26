@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c2d9f2be82ddce6e",
+        "id": "a97c22b5f1a67793",
         "type": "tabs",
         "children": [
           {
-            "id": "ac15caaff27cd4dc",
+            "id": "fc212fd9062536c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,84 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e0ce8d808262b48f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/ORIGINS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2562bc808380b1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/ORIGINS 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abd9665fb8e2dc01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Sheets/DATA SHEET TEMPLATE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d962962e1c8eb721",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mechanics/COMBAT/ACTIONS.canvas",
-                "viewState": {
-                  "x": 519.506315175536,
-                  "y": -167.71528890316566,
-                  "zoom": -0.5
-                }
-              }
-            }
-          },
-          {
-            "id": "000d421482c40305",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/LIFE AND DEATH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd424f97cb4114a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Info/GLOSSARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/COMBAT/ACTIONS.canvas",
+                "file": "HOME PAGE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/COMBAT/ACTIONS.canvas",
+                "file": "HOME PAGE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/COMBAT/ACTIONS.canvas"
+                "file": "HOME PAGE.md"
               }
             }
           }
@@ -224,14 +148,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d962962e1c8eb721",
+  "active": "fc212fd9062536c1",
   "lastOpenFiles": [
-    "Mechanics/LIFE AND DEATH.md",
-    "Mechanics/COMBAT/ACTIONS.canvas",
-    "World Info/GLOSSARY.md",
-    "Character Sheets/DATA SHEET TEMPLATE.md",
-    "Character Creation/ORIGINS 2.md",
     "Character Creation/ORIGINS.md",
+    "Character Creation/ORIGINS 2.md",
+    "Mechanics/COMBAT/ACTIONS.canvas",
+    "Character Sheets/DATA SHEET TEMPLATE.md",
+    "Mechanics/LIFE AND DEATH.md",
+    "World Info/GLOSSARY.md",
     "Pasted image 20240625125522.png",
     "Images/action_point.png",
     "Pasted image 20240625125424.png",
