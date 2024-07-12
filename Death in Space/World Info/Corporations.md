@@ -45,7 +45,7 @@ Search and rescue group comprised of ex-navvies. Dispatches "whales" to most dis
 
 	AR/VR tech company operating entirely within their own non-phys networks.
 
-
+ 
 ## CARTHAGE INDUSTRIES
 
 | ![[carthage_industries.png]] |
@@ -128,18 +128,18 @@ Interstellar mining corporation with a firm grip on its active operations. Used 
 
 ## TRANSIT ALLIANCE
 
-| ![[transit_alliance.png]]                                              |
-| ---------------------------------------------------------------------- |
-| **Transit Alliance**                                                   |
-| - Propaganda and unionizing<br>- Shipping and transport<br>- Contracts |
+| ![[transit_alliance.png]]                            |
+| ---------------------------------------------------- |
+| **Transit Alliance**                                 |
+| - Union propaganda<br>- Transport contracts<br>- Con |
 
 
 ## VODYKOV
 
-| ![[vodykov.png]]                                  |
-| ------------------------------------------------- |
-| **Vodykov**                                       |
-| - Contracts and networking<br>- Mercenaries<br>-  |
+| ![[vodykov.png]]                                 |
+| ------------------------------------------------ |
+| **Vodykov**                                      |
+| - Contracts and networking<br>- Mercenaries<br>- |
 Contracts and networking, protection services, mercenaries
 
 

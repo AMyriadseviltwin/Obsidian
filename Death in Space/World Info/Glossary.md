@@ -1,17 +1,21 @@
 
 #### Table of Contents
-- [[#BDY|BDY]]
-- [[#DR|DR]]
-- [[#Holos|Holos]]
-- [[#Keelhauling|Keelhauling]]
-- [[#LSS|LSS]]
-- [[#Navvy/Navvies|Navvy/Navvies]]
-- [[#Oxygen candle|Oxygen candle]]
-- [[#Shipbreaker|Shipbreaker]]
-- [[#SVY|SVY]]
-- [[#TEC|TEC]]
-- [[#Tenebris|Tenebris]]
-- [[#Whale|Whale]]
+- [[#BDY]]
+- [[#DR]]
+- [[#Equip/Equipped]]
+- [[#Hold/Holding]]
+- [[#Holos]]
+- [[#HP]]
+- [[#Keelhauling]]
+- [[#LSS]]
+- [[#Navvy/Navvies]]
+- [[#Oxygen candle]]
+- [[#Shipbreaker]]
+- [[#SVY]]
+- [[#TEC]]
+- [[#Tenebris]]
+- [[#Whale]]
+
 
 
 ---

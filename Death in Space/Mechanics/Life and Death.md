@@ -46,7 +46,7 @@ While your limbs may be harder to hit, losing one will heavily cripple you!
 
 # Survival
 
-Humans need 5 
+
 
 
 
