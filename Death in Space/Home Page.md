@@ -1,7 +1,7 @@
 
  **NOTE:** Formatting may be better in editing mode on some pages.
 #### //////////////////////////////////////////////////////////////////
-###     Welcome ==-USER-== to the SRD made to guide you to your
+###   Welcome ==-USER-== to the SRD made to guide you through your
 #                   *DEATH IN SPACE*
 
 ![[bg_astronautvoid.png]]

@@ -4,22 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "a97c22b5f1a67793",
+        "id": "6d213e01a19255fa",
         "type": "tabs",
         "children": [
           {
-            "id": "fc212fd9062536c1",
+            "id": "a7967dab8806d6e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME PAGE.md",
+                "file": "Home Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1326ea3973d6e3c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Cybernetics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "590d747ee0986fb7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mechanics/COMBAT/ACTIONS.canvas",
+                "viewState": {
+                  "x": -1055.5166358948688,
+                  "y": -91.39445851002304,
+                  "zoom": -0.7266719534035344
+                }
+              }
+            }
+          },
+          {
+            "id": "bf8a26f9b36341d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Life and Death.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fca6a75a3c6c5af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Info/Glossary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME PAGE.md",
+                "file": "World Info/Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME PAGE.md",
+                "file": "World Info/Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME PAGE.md"
+                "file": "World Info/Glossary.md"
               }
             }
           }
@@ -148,11 +200,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc212fd9062536c1",
+  "active": "1fca6a75a3c6c5af",
   "lastOpenFiles": [
+    "World Info/Glossary.md",
+    "Mechanics/Life and Death.md",
+    "Mechanics/COMBAT/ACTIONS.canvas",
+    "Mechanics/Cybernetics.md",
+    "Home Page.md",
     "Character Creation/ORIGINS.md",
     "Character Creation/ORIGINS 2.md",
-    "Mechanics/COMBAT/ACTIONS.canvas",
     "Character Sheets/DATA SHEET TEMPLATE.md",
     "Mechanics/LIFE AND DEATH.md",
     "World Info/GLOSSARY.md",
@@ -186,12 +242,9 @@
     "Templates/Temp 1.md",
     "Templates",
     "Untitled 1.canvas",
-    "Character Sheets/Data Sheet Template 1.md",
-    "New Character.md",
     "Character Creation",
     "Shopping",
     "World Info",
-    "Mechanics.md",
     "Mechanics",
     "Images/Disks",
     "Images/Close Art",

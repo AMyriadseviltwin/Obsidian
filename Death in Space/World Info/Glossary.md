@@ -26,15 +26,19 @@ Defense rating. The same as AC/armor class in D&D.
 
 ---
 #### Equip/Equipped
-Refers to what items you're *currently holding in your hands* (a gun, a sandwich, a circuit board, etc.) or what you're *currently wearing on your body* (a jacket, a satchel, mag-boots, etc.).
+Refers to what items you're *currently wearing on your body* (a jacket, a satchel, mag-boots, etc.)
+
+---
+#### Hold/Holding
+Refers to what items you're *currently holding in your hands* (a gun, a sandwich, a circuit board, etc.)
 
 ---
 #### Holos
-Also called credits. Most commonly used currency.
+Also called credits, eddies, etc. Most commonly used currency.
 
 ---
 #### HP
-Health points. 
+Health points. Signifies how much damage a thing can take before breaking or dying.
 
 ---
 #### Keelhauling
@@ -42,7 +46,7 @@ A popular torture or execution method used by the most brutal crews, or on the w
 
 ---
 #### LSS
-Life Support System. Large, convoluted bundles of machinery that supply air, regulate temperature, and slowly attempt to scrub harmful gases from the area. Every functioning ship should have one installed and connected to its atmospheric systems. Sometimes comes in bulky and less effective portable versions.
+Life Support System. Large, convoluted bundles of machinery that supply air, regulate temperature, and slowly attempt to scrub harmful gases from the area. Every functioning ship should have one installed and connected to its atmospheric pipenet. Sometimes comes in bulky and less effective portable versions.
 
 ---
 #### Navvy/Navvies
