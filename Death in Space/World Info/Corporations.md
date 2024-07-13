@@ -1,4 +1,3 @@
-# Corporations
 
 In the world of Death in Space, there are no governments like those in the present. The democracies, theocracies, and autocracies of old have been phased out long ago through war and time and economic collapse.
 

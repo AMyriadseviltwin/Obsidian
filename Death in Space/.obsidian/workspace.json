@@ -8,67 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88963cf3ffd7506d",
+            "id": "3778b78747f94560",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Info/Corporations.md",
+                "file": "Mechanics/ABILITIES.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "554bdd0993bd0c60",
+            "id": "7eb3e37fd8ba5898",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/ORIGINS 2.md",
+                "file": "Character Creation/CHARACTER DETAILS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0509d813caead0df",
+            "id": "ee283e769bd44c30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Origins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe973450f1a5e6ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/Abilities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93fe7005c020e368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/Weapons.md",
+                "file": "Character Sheets/DATA SHEET TEMPLATE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Abilities.md",
+                "file": "Character Sheets/DATA SHEET TEMPLATE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/Abilities.md",
+                "file": "Character Sheets/DATA SHEET TEMPLATE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/Abilities.md"
+                "file": "Character Sheets/DATA SHEET TEMPLATE.md"
               }
             }
           }
@@ -197,44 +173,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe973450f1a5e6ed",
+  "active": "ee283e769bd44c30",
   "lastOpenFiles": [
+    "Character Creation/CHARACTER DETAILS.md",
+    "Character Creation/CREATING A CHARACTER.md",
     "Character Creation/Origins.md",
     "Character Creation/ORIGINS 2.md",
-    "World Info/Corporations.md",
-    "World Info/The Tenebris System.md",
-    "Character Creation/Creating a Character.md",
-    "Mechanics/Weapons.md",
-    "Mechanics/Life and Death.md",
-    "Mechanics/Cybernetics.md",
-    "Mechanics/CONDITION AND PARTS.md",
-    "Home Page.md",
-    "Mechanics/Cheat Sheet.png",
+    "Character Sheets/DATA SHEET TEMPLATE.md",
+    "Mechanics/COMBAT/GROUND COMBAT.md",
     "Mechanics/COMBAT/ACTIONS.canvas",
+    "Mechanics/ABILITIES.md",
+    "Mechanics/COMBAT",
+    "Mechanics/Combat/GROUND COMBAT.md",
+    "Mechanics/WEAPONS.md",
+    "Mechanics/CHEATSHEET.png",
+    "Mechanics/Combat/ACTIONS.canvas",
+    "Mechanics/CONDITION AND PARTS.md",
+    "World Info/THE TENEBRIS SYSTEM.md",
+    "World Info/GLOSSARY.md",
+    "World Info/CORPORATIONS.md",
+    "Shopping/ITEM PRICING.md",
+    "Mechanics/LIFE AND DEATH.md",
+    "Mechanics/CYBERNETICS.md",
+    "Character Sheets/DATA SHEET TEMPLATE.md",
     "Images/tenebris_official.png",
     "Images/travel_info.png",
-    "World Info/Glossary.md",
-    "Character Creation/ORIGINS.md",
-    "Character Sheets/DATA SHEET TEMPLATE.md",
-    "Mechanics/LIFE AND DEATH.md",
-    "World Info/GLOSSARY.md",
     "Pasted image 20240625125522.png",
     "Images/action_point.png",
     "Pasted image 20240625125424.png",
     "Pasted image 20240625121248.png",
     "Mechanics/CHEAT SHEET.png",
-    "HOME PAGE.md",
-    "World Info/THE TENEBRIS SYSTEM.md",
-    "World Info/CORPORATIONS.md",
-    "Mechanics/CYBERNETICS.md",
-    "Mechanics/ABILITIES.md",
-    "Character Creation/CHARACTER DETAILS.md",
-    "Character Creation/CREATING A CHARACTER.md",
-    "Mechanics/COMBAT/GROUND COMBAT.md",
-    "Mechanics/COMBAT",
-    "Mechanics/WEAPONS.md",
-    "Shopping/ITEM PRICING.md",
-    "Details.md",
+    "Mechanics/Combat",
     "Images/Close Art/velocity_cursed.png",
     "Images/Close Art/scav_rifleman.png",
     "Images/Runes",
@@ -245,7 +214,6 @@
     "World Info",
     "Mechanics",
     "Images/Disks",
-    "Images/Close Art",
-    "Combat"
+    "Images/Close Art"
   ]
 }
