@@ -19,7 +19,7 @@ Repair twice as fast.
 
 
 # 2. CHROME
-> *Ancient AI placed in a body vessel of organic material. Part machine, but with an organic CPU and a distributed neural system that requires oxygen.*
+> *Ancient AI placed in a body vessel of organic material. Part machine, but with an organic CPU and a distributed nervous system that requires oxygen.*
 
 **NATIVE MACHINE**
 You can converse with computers as if they were real people. Plug in and find a friend :)
@@ -39,6 +39,9 @@ You never give up. Reroll any dice roll once per session.
 
 **GREEN THUMB**
 You know everything about plants and what to use them for. You start with a pocket greenhouse and some random seeds.
+
+**CUSTOM-BUILT**
+
 
 
 # 4. SOLPOD

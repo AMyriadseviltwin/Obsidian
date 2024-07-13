@@ -4,9 +4,12 @@ Choose your origin or roll a d6 to choose on randomly. Then pick one of the two 
 ㅤ* The brief initial description in *italic* text is straight from the book. Everything after that is what I have written for the campaign, and to offer a bit more depth to these origins. Still, make your character based on these origins however you like :)
 
 ### 1. CARBON
-> Grown in space-based exo-wombs, the carbon were naturally designed to live in space. Carbon-based replicants were a marvel of gene science, first achieved in a long-forgotten age, and since then 
+> One of the great triumphs of genetics, the first "carbon-based replicants" were created in an old, mostly forgotten age. Carbons are artificial, genetically modified humans, grown in space-based "exo-womb" chambers. 
 
 
+No childhood
+Born already knowing things
+Genes tailored for their job
 
 
 
@@ -18,6 +21,8 @@ Choose your origin or roll a d6 to choose on randomly. Then pick one of the two 
 >  
 
 
+Sentient AI, back from when true AI were still being made
+Limited by an organic body vessel like all other true AI
 
 
 
@@ -25,14 +30,25 @@ Choose your origin or roll a d6 to choose on randomly. Then pick one of the two 
 > Coined from old world sayings, punks are commonly known as children of war - stubborn survivors. 
 
 
+Term for those born during the war
+Survivors - some winners, all losers
+
+
 
 ### 4. SOLPOD
-> 
+> Nicknamed after the devices they carry with them through their voyages, solpods are often from an older time.
+
+
+Old, old humans who have lived through most of their history in cryostasis
 
 
 
 ### 5. VELOCITY CURSED
 > 
+
+
+Victims of deep space, bad trips, or otherwise strange incidents
+Reality Disassociation Syndrome, the diagnosis, is a widely known phenomenon
 
 
 

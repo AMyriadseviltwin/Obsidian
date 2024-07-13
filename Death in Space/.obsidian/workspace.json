@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7967dab8806d6e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "88963cf3ffd7506d",
             "type": "leaf",
             "state": {
@@ -32,43 +20,7 @@
             }
           },
           {
-            "id": "1326ea3973d6e3c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/Cybernetics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a09367272fe7c338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Info/The Tenebris System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49d7a10f3a1fce00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/Origins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0d94fc784302b75",
+            "id": "554bdd0993bd0c60",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,56 +32,43 @@
             }
           },
           {
-            "id": "590d747ee0986fb7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mechanics/COMBAT/ACTIONS.canvas",
-                "viewState": {
-                  "x": -1055.5166358948688,
-                  "y": -91.39445851002304,
-                  "zoom": -0.7266719534035344
-                }
-              }
-            }
-          },
-          {
-            "id": "7887c301588ded03",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Mechanics/Cheat Sheet.png"
-              }
-            }
-          },
-          {
-            "id": "bf8a26f9b36341d0",
+            "id": "0509d813caead0df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Life and Death.md",
+                "file": "Character Creation/Origins.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8ce52d083807d448",
+            "id": "fe973450f1a5e6ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/CONDITION AND PARTS.md",
+                "file": "Mechanics/Abilities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93fe7005c020e368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Weapons.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/CONDITION AND PARTS.md",
+                "file": "Mechanics/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/CONDITION AND PARTS.md",
+                "file": "Mechanics/Abilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/CONDITION AND PARTS.md"
+                "file": "Mechanics/Abilities.md"
               }
             }
           }
@@ -258,21 +197,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ce52d083807d448",
+  "active": "fe973450f1a5e6ed",
   "lastOpenFiles": [
-    "Mechanics/Cybernetics.md",
-    "Mechanics/Cheat Sheet.png",
-    "Mechanics/CONDITION AND PARTS.md",
-    "Character Creation/ORIGINS 2.md",
     "Character Creation/Origins.md",
-    "World Info/The Tenebris System.md",
-    "Mechanics/COMBAT/ACTIONS.canvas",
-    "Mechanics/Life and Death.md",
+    "Character Creation/ORIGINS 2.md",
     "World Info/Corporations.md",
+    "World Info/The Tenebris System.md",
+    "Character Creation/Creating a Character.md",
+    "Mechanics/Weapons.md",
+    "Mechanics/Life and Death.md",
+    "Mechanics/Cybernetics.md",
+    "Mechanics/CONDITION AND PARTS.md",
+    "Home Page.md",
+    "Mechanics/Cheat Sheet.png",
+    "Mechanics/COMBAT/ACTIONS.canvas",
     "Images/tenebris_official.png",
     "Images/travel_info.png",
     "World Info/Glossary.md",
-    "Home Page.md",
     "Character Creation/ORIGINS.md",
     "Character Sheets/DATA SHEET TEMPLATE.md",
     "Mechanics/LIFE AND DEATH.md",
@@ -294,7 +235,6 @@
     "Mechanics/WEAPONS.md",
     "Shopping/ITEM PRICING.md",
     "Details.md",
-    "Character Sheets/New Character.md",
     "Images/Close Art/velocity_cursed.png",
     "Images/Close Art/scav_rifleman.png",
     "Images/Runes",
