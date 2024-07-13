@@ -27,7 +27,7 @@ Follow steps 1-5 in order, either by reading from the previews here or clicking 
 ![[CHARACTER DETAILS#Who are you?]]
 
 
-## IV - Determine your your [[LIFE AND DEATH#Health Points and Defense Rating|MAX HP, DR, AND LIMB HP]]
+## IV - Determine your [[LIFE AND DEATH#Health Points and Defense Rating|MAX HP, DR, AND LIMB HP]]
 ![[LIFE AND DEATH#Health Points and Defense Rating]]
 ![[LIFE AND DEATH#Bodyparts]]
 

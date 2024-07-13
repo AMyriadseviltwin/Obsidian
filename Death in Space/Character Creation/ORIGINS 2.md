@@ -21,7 +21,7 @@ Genes tailored for their job
 >  
 
 
-Sentient AI, back from when true AI were still being made
+Sentient AI, back from when true AI were still made
 Limited by an organic body vessel like all other true AI
 
 
