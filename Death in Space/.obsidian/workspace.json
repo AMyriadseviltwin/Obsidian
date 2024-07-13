@@ -8,31 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3778b78747f94560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/ABILITIES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7eb3e37fd8ba5898",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/CHARACTER DETAILS.md",
+                "file": "Shopping/ITEM PRICING.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ee283e769bd44c30",
+            "id": "e341559d41e79e4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9417220268facef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/CREATING A CHARACTER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f73affbfe55a90f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/CYBERNETICS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f0c5c837d999463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Sheets/DATA SHEET TEMPLATE.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Sheets/DATA SHEET TEMPLATE.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Sheets/DATA SHEET TEMPLATE.md"
+                "file": "Home Page.md"
               }
             }
           }
@@ -173,29 +197,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee283e769bd44c30",
+  "active": "8f0c5c837d999463",
   "lastOpenFiles": [
     "Character Creation/CHARACTER DETAILS.md",
     "Character Creation/CREATING A CHARACTER.md",
-    "Character Creation/Origins.md",
     "Character Creation/ORIGINS 2.md",
     "Character Sheets/DATA SHEET TEMPLATE.md",
-    "Mechanics/COMBAT/GROUND COMBAT.md",
-    "Mechanics/COMBAT/ACTIONS.canvas",
     "Mechanics/ABILITIES.md",
-    "Mechanics/COMBAT",
-    "Mechanics/Combat/GROUND COMBAT.md",
     "Mechanics/WEAPONS.md",
+    "Mechanics/LIFE AND DEATH.md",
+    "Mechanics/CYBERNETICS.md",
+    "Shopping/ITEM PRICING.md",
+    "World Info/THE TENEBRIS SYSTEM.md",
+    "Home Page.md",
+    "Character Creation/Origins.md",
+    "Mechanics/Combat/GROUND COMBAT.md",
+    "Mechanics/Combat/ACTIONS.canvas",
+    "Mechanics/Combat",
+    "Mechanics/Combat/GROUND COMBAT.md",
     "Mechanics/CHEATSHEET.png",
     "Mechanics/Combat/ACTIONS.canvas",
     "Mechanics/CONDITION AND PARTS.md",
-    "World Info/THE TENEBRIS SYSTEM.md",
     "World Info/GLOSSARY.md",
     "World Info/CORPORATIONS.md",
-    "Shopping/ITEM PRICING.md",
-    "Mechanics/LIFE AND DEATH.md",
-    "Mechanics/CYBERNETICS.md",
-    "Character Sheets/DATA SHEET TEMPLATE.md",
     "Images/tenebris_official.png",
     "Images/travel_info.png",
     "Pasted image 20240625125522.png",
