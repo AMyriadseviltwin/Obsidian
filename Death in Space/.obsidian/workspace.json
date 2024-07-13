@@ -44,6 +44,42 @@
             }
           },
           {
+            "id": "a09367272fe7c338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Info/The Tenebris System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49d7a10f3a1fce00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/Origins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0d94fc784302b75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/ORIGINS 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "590d747ee0986fb7",
             "type": "leaf",
             "state": {
@@ -55,6 +91,16 @@
                   "y": -91.39445851002304,
                   "zoom": -0.7266719534035344
                 }
+              }
+            }
+          },
+          {
+            "id": "7887c301588ded03",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Mechanics/Cheat Sheet.png"
               }
             }
           },
@@ -83,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -214,19 +260,20 @@
   },
   "active": "8ce52d083807d448",
   "lastOpenFiles": [
-    "Mechanics/Life and Death.md",
     "Mechanics/Cybernetics.md",
-    "World Info/Corporations.md",
-    "Mechanics/CONDITION AND PARTS.md",
     "Mechanics/Cheat Sheet.png",
+    "Mechanics/CONDITION AND PARTS.md",
+    "Character Creation/ORIGINS 2.md",
+    "Character Creation/Origins.md",
     "World Info/The Tenebris System.md",
+    "Mechanics/COMBAT/ACTIONS.canvas",
+    "Mechanics/Life and Death.md",
+    "World Info/Corporations.md",
     "Images/tenebris_official.png",
     "Images/travel_info.png",
     "World Info/Glossary.md",
     "Home Page.md",
-    "Mechanics/COMBAT/ACTIONS.canvas",
     "Character Creation/ORIGINS.md",
-    "Character Creation/ORIGINS 2.md",
     "Character Sheets/DATA SHEET TEMPLATE.md",
     "Mechanics/LIFE AND DEATH.md",
     "World Info/GLOSSARY.md",
@@ -251,7 +298,6 @@
     "Images/Close Art/velocity_cursed.png",
     "Images/Close Art/scav_rifleman.png",
     "Images/Runes",
-    "Character Sheets/Name.md",
     "Templates",
     "Untitled 1.canvas",
     "Character Creation",
