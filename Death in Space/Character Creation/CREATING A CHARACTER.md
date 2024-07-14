@@ -1,7 +1,7 @@
 
 --- 
 
-![[bg_crew.png]]
+![[bg_voideye.png]]
 
 --- 
 
@@ -20,7 +20,7 @@ Follow steps 1-5 in order, either by reading from the previews here or clicking 
 
 
 ## II - Know your [[ORIGINS]]
-![[ORIGINS#From whence you came]]
+![[Legacy Origins#From whence you came]]
 
 
 ## III - Establish your [[CHARACTER DETAILS]]

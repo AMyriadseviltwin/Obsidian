@@ -1,21 +1,23 @@
 
+# Power in the New Age
+
 In the world of Death in Space, there are no governments like those in the present. The democracies, theocracies, and autocracies of old have been phased out long ago through war and time and economic collapse.
 
 In Space, corporations sell product to consumers for profit. With this profit, they invest in their enterprise, their territory, and by extension, their clients, customers, and employees. Thus, corporations have provided protection and infrastructure for those living within its spheres of influence. This was the way society in Space worked up until the end of the war.
 
-Now, civilized space is in shambles, a direct consequence of the war. Corporations retreat to their home systems to gather strength, their forces decimated and the markets in a freefall. Others stay in Tenebris in a brazen or desperate attempt to salvage the remains of their corporate empires. Because of this, local governments, militias, cults, and crime groups have risen up to reclaim territory for their own, or replace their absent far-off rulers in a desperate attempt to maintain order.
+Now, civilized space is in shambles, a direct consequence of the war. Corporations retreat to their home systems to gather strength, their forces decimated and the markets in a freefall. Others stay in Tenebris in a brazen or desperate attempt to salvage the remains of their corporate empires. Because of this, local governments, militias, cults, and crime groups have risen up to reclaim territory for their own, or replace their absent far-off rulers in a desperate bid to maintain order.
 
 Choose your allies, and enemies, wisely.
 
 ---
 
 
-## AMBERCOVE
+# AMBERCOVE S&R
 
-| ![[ambercove.png]]                                                           |
-| ---------------------------------------------------------------------------- |
-| **Ambercove S&R**                                                            |
-| - Search and rescue<br>- Emergency evacuations<br>- Distress signal dispatch |
+|     | ![[ambercove.png]]                                                           |     |
+| --- | ---------------------------------------------------------------------------- | --- |
+|     | **Ambercove S&R**                                                            |     |
+|     | - Search and rescue<br>- Emergency evacuations<br>- Distress signal dispatch |     |
 
 
 

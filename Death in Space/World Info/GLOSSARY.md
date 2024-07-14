@@ -3,7 +3,6 @@
 - [[#BDY]]
 - [[#DR]]
 - [[#Equip/Equipped]]
-- [[#Hold/Holding]]
 - [[#Holos]]
 - [[#HP]]
 - [[#Keelhauling]]
@@ -30,11 +29,7 @@ Defense rating. The same as AC/armor class in D&D.
 
 ---
 #### Equip/Equipped
-Refers to what items you're *currently wearing on your body* (a jacket, a satchel, mag-boots, etc.)
-
----
-#### Hold/Holding
-Refers to what items you're *currently holding in your hands* (a gun, a sandwich, a circuit board, etc.)
+Refers to the items you're currently *holding in your hands* (a gun, a sandwich, a circuit board, etc.) or *wearing on your body* (a jacket, a satchel, mag-boots, etc.)
 
 ---
 #### Holos

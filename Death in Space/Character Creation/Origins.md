@@ -1,15 +1,25 @@
 
-# From whence you came
-An origin can be anything from a bioengineered species to someone with opinions and a mohawk. Starting from our* description, decide on how you want to interpret yours and how you fit into the setting. Be creative!
+---
+
+![[bg_crew.png]]
+
+---
+
+Your origin is the base of your character. 
+
+
+It rept can be be anything from a bioengineered species to someone with opinions and a mohawk.
+
+
+Starting from our* description, decide on how you want to interpret yours and how you fit into the setting. Be creative!
 
 Choose your origin or roll a d6 to choose on randomly. Then pick one of the two benefits.
 
-ㅤ* The brief initial description in *italic* text is straight from the book. Everything after that is what I have written for the campaign, and to offer a bit more depth to these origins. Still, make your character based on these origins however you like :)
 
 
 
-# 1. CARBON
-> *Grown in space-based exo-wombs. Short life spans. They live their lives offworld and are untroubled by the darkness of space. More comfortable in an EVA suit than out of one.*
+# I - CARBON
+> One of the great triumphs of genetics, the first "carbon-based replicants" were created in an old, mostly forgotten age. Carbons are artificial, genetically modified humans, grown in space-based "exo-womb" chambers. Despite the origins of their DNA, not everyone considers carbons to still be human. They don't experience youth or childhood, since they step out of their exo-womb already matured. They have no ancestors, nor heirs, as their DNA can't support reproduction.
 
 **ENGINEERED LUNGS**
 Use half oxygen compared to everyone else (one step for every two normal steps).
@@ -18,61 +28,89 @@ Use half oxygen compared to everyone else (one step for every two normal steps).
 Repair twice as fast.
 
 
-# 2. CHROME
-> *Ancient AI placed in a body vessel of organic material. Part machine, but with an organic CPU and a distributed nervous system that requires oxygen.*
-
-**NATIVE MACHINE**
-You can converse with computers as if they were real people. Plug in and find a friend :)
-
-**BODY BATTERY**
-You can use your body to power one small electrical device, such as a hand-held item.
-
-
-# 3. PUNK
-> *Rebellious and non-conformist with a long history. They have seen civilizations collapse, and others turn against each other.*
 
 
 
 
-**STUBBORN**
-You never give up. Reroll any dice roll once per session.
 
-**GREEN THUMB**
-You know everything about plants and what to use them for. You start with a pocket greenhouse and some random seeds.
 
-**CUSTOM-BUILT**
+No childhood
+Born already knowing things
+Genes tailored for their job
 
 
 
-# 4. SOLPOD
-> *Hibernating for decades, they only stay awake for short periods. They dedicate their lives to the scientific study of slow, cosmic phenomena.*
-
-**LONG-LIVED**
-You have an old and useful contact in every port.
-
-**OLD TECH**
-You have a portable hibernation pod. It can regenerate lost limbs, prevents aging and halts the need to eat. Powered by starlight.
-
-
-# 5. VELOCITY CURSED
-> *Ill-fated ones that have started to lose their connection to reality. They shift and flicker in and out of spacetime with glitching faces.*
 
 
 
-**FUTURE MEMORY**
-You have already been here. Once per session, ask the GM for directions. Expect the answer to be as clear as your memories.
 
-**POCKET WORLD**
-You start with a portable non-phys server, housing a virtual reality where you store memories to connect the past and future of your life. Up to ten users can connect simultaneously.
+# II - CHROME
+>  
 
 
-# 6. APOSTLE
-> *Robed nihility shamans, hidden behind masks, speaking through synthetic voice scramblers. They have seen visions of the edge of the universe.*
+Sentient AI, back from when true AI were still made
+Limited by an organic body vessel like all other true AI
 
 
 
-**VOICE OF THE VOID**
-You can make nearby electronics emit static and crackling whispers. These voices may disorient, distract, or provide some otherwise useful effect. Be creative or confer with the GM to determine its effect.
+# III - PUNK
+> Coined from old world sayings, punks are  as children of war - stubborn survivors. 
 
-**MASKED**
-You have a mask that you can reshape during rest into the resemblance of another face or mask. At a distance, it fools most.
+
+Term for those born during the war
+Survivors - some winners, all losers
+
+
+
+# IV - SOLPOD
+> Nicknamed after the devices they carry with them through their voyages, solpods are often from an older time.
+
+
+Old, old humans who have lived through most of their history in cryostasis
+
+
+
+# V - VELOCITY CURSED
+> 
+
+
+Victims of deep space, bad trips, or otherwise strange incidents
+Reality Disassociation Syndrome, the diagnosis, is a widely known phenomenon
+
+
+
+# VI - APOSTLE
+
+
+
+Religious devotees of the void
+
+
+
+
+
+
+Carbon
+- Artificial humans made from altered templates
+- Grown in chamber-like exo-wombs offworld
+- Bioengineered for living and working in space
+- Lifespan kept short to prevent overcrowding
+- No children. DNA too unstable.
+
+
+Chrome
+- Old AI, with free will and sentience (ability to alter its own code), placed in cybernetic bodies.
+- Manufactured with an organic brain-like CPU and distributed nervous system that requires oxygen.
+	(Made to let the AI think in a way machines never could, but limit them with the burden of being partially organic)
+- Few of them around. Not many were made, and they're rarely produced.
+- 
+
+
+Punk
+- Term for regular humans born and highly involved during the war, coined from old world texts.
+- Most opposed the war, or fought with their life during it. All are stubborn survivors either way.
+- Commonly found everywhere.
+
+
+Solpod
+- 

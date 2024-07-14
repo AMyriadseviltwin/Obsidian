@@ -16,6 +16,32 @@ Example 2:
 	Result = **-3**
 
 
+
+In Death in Space there are four groups of abilities: **BODY (BDY)**, **DEXTERITY (DEX)**, **SAVVY (SVY)**, and **TECH (TEC)**. 
+
+
+
+
+
+
+Piloting
+Memory
+Awareness
+Charisma
+
+
+
+Deception Empathy
+Persuasion Empathy
+Intimidation 
+Performance Empathy
+
+
+
+
+
+
+
 # The Abilities
 ### BODY (BDY)
 

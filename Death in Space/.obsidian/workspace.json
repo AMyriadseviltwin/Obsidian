@@ -8,19 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e341559d41e79e4f",
+            "id": "6549cd685e8908c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Sheets/DATA SHEET TEMPLATE.md",
+                "file": "Character Creation/ORIGINS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f73affbfe55a90f8",
+            "id": "be7b1bafdbc9a58a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/Legacy Origins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9723d909e342942c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +44,31 @@
             }
           },
           {
-            "id": "46210462b026cb31",
+            "id": "53656621e09d5971",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/ORIGINS 2.md",
+                "file": "Mechanics/CYBERNETICS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "357b5dd6b90b5156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/ABILITIES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/ORIGINS 2.md",
+                "file": "Mechanics/ABILITIES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/ORIGINS 2.md",
+                "file": "Mechanics/ABILITIES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/ORIGINS 2.md"
+                "file": "Mechanics/ABILITIES.md"
               }
             }
           }
@@ -173,39 +197,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46210462b026cb31",
+  "active": "357b5dd6b90b5156",
   "lastOpenFiles": [
-    "Character Creation/CREATING A CHARACTER.md",
-    "Character Creation/ORIGINS 2.md",
-    "Home Page.md",
-    "Mechanics/ABILITIES.md",
     "Mechanics/CYBERNETICS.md",
-    "Character Creation/CHARACTER DETAILS.md",
+    "Home Page.md",
+    "Character Creation/Legacy Origins.md",
+    "Character Creation/ORIGINS.md",
     "Character Sheets/DATA SHEET TEMPLATE.md",
-    "Mechanics/WEAPONS.md",
-    "Mechanics/LIFE AND DEATH.md",
-    "Shopping/ITEM PRICING.md",
-    "World Info/THE TENEBRIS SYSTEM.md",
-    "Character Creation/Origins.md",
-    "Mechanics/Combat/GROUND COMBAT.md",
-    "Mechanics/Combat/ACTIONS.canvas",
-    "Mechanics/Combat",
-    "Mechanics/Combat/GROUND COMBAT.md",
-    "Mechanics/CHEATSHEET.png",
-    "Mechanics/Combat/ACTIONS.canvas",
-    "Mechanics/CONDITION AND PARTS.md",
-    "World Info/GLOSSARY.md",
+    "Character Creation/CREATING A CHARACTER.md",
+    "Character Creation/CHARACTER DETAILS.md",
     "World Info/CORPORATIONS.md",
-    "Images/tenebris_official.png",
     "Images/travel_info.png",
-    "Pasted image 20240625125522.png",
+    "Images/tenebris_official.png",
     "Images/action_point.png",
-    "Pasted image 20240625125424.png",
-    "Pasted image 20240625121248.png",
-    "Mechanics/CHEAT SHEET.png",
-    "Mechanics/Combat",
-    "Images/Close Art/velocity_cursed.png",
+    "Images/Background Art/bg_crew.png",
+    "World Info/GLOSSARY.md",
+    "World Info/THE TENEBRIS SYSTEM.md",
+    "Images/Background Art/bg_voideye.png",
+    "Images/Close Art/astronaut_shatter.png",
+    "Images/Close Art/cyber_optics.png",
+    "Images/Close Art/heart_failure.png",
     "Images/Close Art/scav_rifleman.png",
+    "Images/Close Art/velocity_cursed.png",
+    "Mechanics/WEAPONS.md",
+    "Mechanics/ABILITIES.md",
+    "Mechanics/Combat/GROUND COMBAT.md",
+    "Mechanics/CONDITION AND PARTS.md",
+    "Shopping/ITEM PRICING.md",
+    "Mechanics/LIFE AND DEATH.md",
+    "Mechanics/Combat/ACTIONS.canvas",
+    "Mechanics/Combat",
+    "Mechanics/Combat",
     "Images/Runes",
     "Templates",
     "Untitled 1.canvas",
