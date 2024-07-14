@@ -13,43 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/ORIGINS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be7b1bafdbc9a58a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/Legacy Origins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9723d909e342942c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53656621e09d5971",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/CYBERNETICS.md",
+                "file": "Mechanics/ABILITIES.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +25,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/ABILITIES.md",
+                "file": "Home Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3049e53420c9c027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/CYBERNETICS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e5833882da028d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/WEAPONS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac4668d15e3fab7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Info/CORPORATIONS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95de3ff0d8131960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/LIFE AND DEATH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "187f78326a941e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shopping/ITEM PRICING.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/ABILITIES.md",
+                "file": "Mechanics/CYBERNETICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/ABILITIES.md",
+                "file": "Mechanics/CYBERNETICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/ABILITIES.md"
+                "file": "Mechanics/CYBERNETICS.md"
               }
             }
           }
@@ -197,16 +221,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "357b5dd6b90b5156",
+  "active": "3049e53420c9c027",
   "lastOpenFiles": [
+    "Mechanics/WEAPONS.md",
+    "World Info/CORPORATIONS.md",
     "Mechanics/CYBERNETICS.md",
     "Home Page.md",
+    "Character Creation/Origins.md",
     "Character Creation/Legacy Origins.md",
+    "Shopping/ITEM PRICING.md",
+    "Mechanics/LIFE AND DEATH.md",
+    "Mechanics/ABILITIES.md",
     "Character Creation/ORIGINS.md",
     "Character Sheets/DATA SHEET TEMPLATE.md",
     "Character Creation/CREATING A CHARACTER.md",
     "Character Creation/CHARACTER DETAILS.md",
-    "World Info/CORPORATIONS.md",
     "Images/travel_info.png",
     "Images/tenebris_official.png",
     "Images/action_point.png",
@@ -219,12 +248,8 @@
     "Images/Close Art/heart_failure.png",
     "Images/Close Art/scav_rifleman.png",
     "Images/Close Art/velocity_cursed.png",
-    "Mechanics/WEAPONS.md",
-    "Mechanics/ABILITIES.md",
     "Mechanics/Combat/GROUND COMBAT.md",
     "Mechanics/CONDITION AND PARTS.md",
-    "Shopping/ITEM PRICING.md",
-    "Mechanics/LIFE AND DEATH.md",
     "Mechanics/Combat/ACTIONS.canvas",
     "Mechanics/Combat",
     "Mechanics/Combat",

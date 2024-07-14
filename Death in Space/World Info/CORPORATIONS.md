@@ -40,7 +40,7 @@ Search and rescue group comprised of ex-navvies. Dispatches "whales" to most dis
 
 | ![[azimuth.png]]                                    |
 | --------------------------------------------------- |
-| **azimuth**                                         |
+| **Azimuth**                                         |
 | - AR/VR technology<br>- Computers<br>- Cyber optics |
 
 
@@ -52,7 +52,6 @@ Search and rescue group comprised of ex-navvies. Dispatches "whales" to most dis
 | ![[carthage_industries.png]] |
 | ---------------------------- |
 | **Carthage Industries**      |
-| -                            |
 Tools/Ships/Cyberware/Machinery
 
 

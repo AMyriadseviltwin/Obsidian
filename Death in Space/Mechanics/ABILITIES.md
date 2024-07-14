@@ -20,14 +20,25 @@ Example 2:
 In Death in Space there are four groups of abilities: **BODY (BDY)**, **DEXTERITY (DEX)**, **SAVVY (SVY)**, and **TECH (TEC)**. 
 
 
+Strength - Punching, holding on, lifting things
+Endurance - Resisting toxins and radiation, staying alive
+Grit - Stamina, resisting pain and g-forces, willpower
+Intimidation - Confidence, projection of power
+
+
+Interfacing - Sleight of hand, precise hand interaction
+Composure - Balance, keeping calm
+Maneuvering - Parkour, climbing, difficult movement
+Stealth - Hiding, disguising, blending in
+
+
+Piloting - Steering vehicles, controlling machines
+Memory - Recalling knowledge
+Awareness - Sight, sound, smell, taste, touch
+Charisma - Talking to people, convincing people, lying to people
 
 
 
-
-Piloting
-Memory
-Awareness
-Charisma
 
 
 
