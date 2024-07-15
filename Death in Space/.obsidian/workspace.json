@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a8b10bd16b94def",
+            "id": "8a76032292398772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/CYBERNETICS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eac8e23bf71f133d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +32,7 @@
             }
           },
           {
-            "id": "5f2cb35581cc9507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shopping/DRUGS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3560a09165f8bf57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Info/GLOSSARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d16562873cb5d20",
+            "id": "ca36cb20f5c4585b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8a76032292398772",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/CYBERNETICS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/CYBERNETICS.md",
+                "file": "World Info/CORPORATIONS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/CYBERNETICS.md",
+                "file": "World Info/CORPORATIONS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/CYBERNETICS.md"
+                "file": "World Info/CORPORATIONS.md"
               }
             }
           }
@@ -197,13 +173,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a76032292398772",
+  "active": "ca36cb20f5c4585b",
   "lastOpenFiles": [
-    "Shopping/DRUGS.md",
     "Mechanics/CYBERNETICS.md",
-    "World Info/CORPORATIONS.md",
-    "World Info/GLOSSARY.md",
     "Home Page.md",
+    "World Info/CORPORATIONS.md",
+    "Images/Factions/nanotrasen.png",
+    "Images/Close Art/vitruvian.png",
+    "Images/Disks/divine.png",
+    "Images/Factions/konbina.png",
+    "Images/Factions/stalverket.png",
+    "Images/Factions/vodykov.png",
+    "Images/Factions/licome_mercury.png",
+    "Images/Factions/golem_automatics.png",
+    "Images/action_point.png",
+    "Images/Factions/hephaestus_shipworks.png",
+    "World Info/GLOSSARY.md",
+    "Shopping/DRUGS.md",
     "Character Creation/Legacy Origins.md",
     "World Info/Origins (WIP)/CHROME (WIP).md",
     "World Info/Origins (WIP)/PUNK (WIP).md",
@@ -212,7 +198,6 @@
     "World Info/THE TENEBRIS SYSTEM.md",
     "Mechanics/WEAPONS.md",
     "Character Creation/ORIGINS.md",
-    "Pasted image 20240715112837.png",
     "Mechanics/ABILITIES.md",
     "World Info/Origins (WIP)/APOSTLE (WIP).md",
     "World Info/Origins (WIP)/CARBON (WIP).md",
@@ -223,15 +208,6 @@
     "Mechanics/LIFE AND DEATH.md",
     "Character Sheets/DATA SHEET TEMPLATE.md",
     "Character Creation/CHARACTER DETAILS.md",
-    "Images/travel_info.png",
-    "Images/tenebris_official.png",
-    "Images/action_point.png",
-    "Images/Background Art/bg_crew.png",
-    "Images/Background Art/bg_voideye.png",
-    "Images/Close Art/astronaut_shatter.png",
-    "Images/Close Art/cyber_optics.png",
-    "Images/Close Art/heart_failure.png",
-    "Images/Close Art/scav_rifleman.png",
     "Mechanics/Combat/GROUND COMBAT.md",
     "Mechanics/CONDITION AND PARTS.md",
     "Mechanics/Combat/ACTIONS.canvas",

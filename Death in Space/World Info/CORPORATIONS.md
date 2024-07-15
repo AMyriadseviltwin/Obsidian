@@ -12,15 +12,15 @@ Choose your allies, and enemies, wisely.
 ---
 
 ### Table of Contents
-- [[#AMBERCOVE]]
-- [[#ASP FOUNDATION]]
-- [[#AZIMUTH]]
-- [[#CARTHAGE INDUSTRIES]]
-- [[#GOLEM]]
-- [[#HAIMATSU TECHNOLOGIES]]
-- [[#HEPHAESTUS SHIPWORKS]]
-- [[#KONBINA]]
-- [[#LICOME & MERCURY]]
+- [[#AMBERCOVE S&R|Ambercove S&R]]
+- [[#ASP FOUNDATION|Asp Foundation]]
+- [[#AZIMUTH|azimuth]]
+- [[#CARTHAGE INDUSTRIES|Carthage Industries]]
+- [[#GOLEM AUTOMATICS|Golem Automatics]]
+- [[#HAIMATSU TECHNOLOGIES|Haimatsu Technologies]]
+- [[#HEPHAESTUS SHIPWORKS|Hephaestus Shipworks]]
+- [[#KONBINA|Konbina]]
+- [[#LICOME & MERCURY, LTD.]]
 - [[#NANOTRASEN]]
 - [[#STÅLVERKET]]
 - [[#TRANSIT ALLIANCE]]
@@ -31,68 +31,78 @@ Choose your allies, and enemies, wisely.
 ---
 
 
-# Ambercove S&R
+# AMBERCOVE S&R
 
-|     |                              ![[ambercove.png]]                              |     |
-| :-: | :--------------------------------------------------------------------------: | :-: |
-|     |                              **Ambercove S&R**                               |     |
+|     | ![[ambercove.png]]                                                           |     |
+| :-: | :--------------------------------------------------------------------------- | :-: |
+|     | **Ambercove S&R**                                                            |     |
 |     | - Search and rescue<br>- Emergency evacuations<br>- Distress signal dispatch |     |
 
 > Search and rescue group comprised of ex-navvies. Dispatches "whales" to most distress calls in Tenebris, and they do their job professionally well. Incur a heavy fee depending on how difficult the save was. If client can't pay, their account is put on a debt system. Crews also hunt down those who don't pay up after enough time
 
----
 
 
-# The Asp Foundation
 
-|                    ![[asp_foundation.png]]                     |
-| :------------------------------------------------------------: |
-|                     **The Asp Foundation**                     |
-| - Mapping<br>- Navigation data systems<br>- Astronomy research |
+# ASP FOUNDATION
+
+
+
+|     | ![[asp_foundation.png]]                                                          |     |
+| :-: | :------------------------------------------------------------------------------- | :-: |
+|     | **The Asp Foundation**<br>- Mapping<br>- Navigation data<br>- Astronomy research |     |
+
+
+
 
 	Former non-profit specializing in star mapping, astronomy, and data for navigation systems. 
 
 
-## AZIMUTH
+# AZIMUTH
 
-| ![[azimuth.png]]                                    |
-| --------------------------------------------------- |
-| **Azimuth**                                         |
-| - AR/VR technology<br>- Computers<br>- Cyber optics |
+|     | ![[azimuth.png]]                                               |     |
+| :-: | :------------------------------------------------------------- | :-: |
+|     | **Azimuth LLC**                                                |     |
+|     | - Non-phys technology<br>- Non-phys experiences<br>- Computers |     |
 
 
-	AR/VR tech company operating entirely within their own non-phys networks.
+
+	Started with selling computers, AR/VR tech company operating entirely within their own non-phys networks.
 
  
-## CARTHAGE INDUSTRIES
+# CARTHAGE INDUSTRIES
 
-| ![[carthage_industries.png]] |
-| ---------------------------- |
-| **Carthage Industries**      |
-Tools/Ships/Cyberware/Machinery
-
-
-
-## GOLEM
-
-| ![[golem.png]]                                                                         |
-| -------------------------------------------------------------------------------------- |
-| **Golem Automatics**                                                                   |
-| - Industrial equipment<br>- Heavy duty machinery and robots<br>- Cyberware, some ships |
-Tools, machines and robots, industrial machinery, some ships, cyberware
+|     | ![[carthage_industries.png]]                   |     |
+| :-: | :--------------------------------------------- | :-: |
+|     | **Carthage Industries**                        |     |
+|     | - AI and robotics<br>- Machines<br>- Tools<br> |     |
 
 
 
-## HAIMATSU TECHNOLOGIES
-
-| ![[haimatsu_technologies.png]]                 |
-| ---------------------------------------------- |
-| **Haimatsu Technologies**                      |
-| - Cyberware<br>- Medical technology<br>- Tools |
+# GOLEM AUTOMATICS
 
 
+|     | ![[golem_automatics.png]]                                         |     |
+| :-: | :---------------------------------------------------------------- | :-: |
+|     | **Golem Automatics**                                              |     |
+|     | - Industrial equipment<br>- Heavy duty machinery<br>- Safety gear |     |
 
-## HEPHAESTUS SHIPWORKS
+
+# HAIMATSU TECHNOLOGIES
+
+
+|     | ![[haimatsu_technologies.png]]                                     |     |
+| :-: | :----------------------------------------------------------------- | :-: |
+|     | **Haimatsu Technologies**                                          |     |
+|     | - Medical technology and tools<br>- Cyberware<br>- Pharmaceuticals |     |
+
+
+# HEPHAESTUS SHIPWORKS
+
+
+|     | ![[hephaestus_shipworks.png]]                                |     |
+| :-: | :----------------------------------------------------------- | :-: |
+|     | **Hephaestus Shipworks**                                     |     |
+|     | - Spacecraft frames and modules<br>- Salvage <br>- Computers |     |
 
 | ![[hephaestus_shipworks.png]]                           |
 | ------------------------------------------------------- |
@@ -102,7 +112,7 @@ Salvaging and scrapping, Heavy ships/Tools/Vehicles/Machinery
 
 
 
-## KONBINA
+# KONBINA CORPORATION
 
 | ![[konbina.png]]                                                                              |
 | --------------------------------------------------------------------------------------------- |
@@ -112,7 +122,7 @@ Affordable mass produced food, agriculture and food engineering, biomatter react
 
 Research heavy agricultural giant with a big focus on gene modding and bioengineering. Hired to provide food to most during the war, but retreated internally to focus on research once supply lines were decimated.
 
-## LICOME & MERCURY
+# LICOME & MERCURY LTD
 
 | ![[licome_mercury.png]]                                             |
 | ------------------------------------------------------------------- |
@@ -123,7 +133,7 @@ Research heavy agricultural giant with a big focus on gene modding and bioengine
 	Industrial manufacturing superpower behind most ship and weapon designs in Tenebris. Incredibly profitable during the war, but retreated internally when production couldn't be continued.
 
 
-## NANOTRASEN
+# NANOTRASEN
 
 | ![[nanotrasen.png]]                                                          |
 | ---------------------------------------------------------------------------- |
@@ -133,7 +143,7 @@ Research heavy agricultural giant with a big focus on gene modding and bioengine
 Cutting-edge research company that became prominent during the war after securing and studying a large portion of the fractal gems in Tenebris. Invented first effective energy/laser weaponry and shields, and in the end, won the war as a result. Poured the most resources into the war than any other group, and consequentially lost the most. The organization is still recovering today, if not still sending seekers to reclaim the missing gem tech they left behind - highly sought after treasures for anyone who might stumble across it.
 
 
-## STÅLVERKET
+# STÅLVERKET AS
 
 | ![[stalverket.png]]                                    |
 | ------------------------------------------------------ |
@@ -143,7 +153,7 @@ Cutting-edge research company that became prominent during the war after securin
 Interstellar mining corporation with a firm grip on its active operations. Used to be the largest company in Tenebris, the oppressor of many colonies and the common enemy of several unions and one rebellion - even dominated the gem war for the longest time until NanoTrasen rose to power. Now desperately clings to the settlements it has left, with a leadership trying to their former glory after contact was lost with their headquarters in one of the systems neighbouring Tenebris.
 
 
-## TRANSIT ALLIANCE
+# TRANSIT ALLIANCE
 
 | ![[transit_alliance.png]]                            |
 | ---------------------------------------------------- |
@@ -151,7 +161,7 @@ Interstellar mining corporation with a firm grip on its active operations. Used 
 | - Union propaganda<br>- Transport contracts<br>- Con |
 
 
-## VODYKOV
+# VODYKOV
 
 | ![[vodykov.png]]                                 |
 | ------------------------------------------------ |

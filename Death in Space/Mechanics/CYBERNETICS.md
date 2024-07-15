@@ -33,7 +33,7 @@
 | Mandala™ Non-phys Optics  | Integrated non-phys HMD. Comes with extendable cable at either front or back of head.                                                                       | Azimuth               |           |
 | Integrated NVG Optics     | Biomechanical eyes. Provides toggled night vision, enabling user to see perfectly well in darkness within 45m.                                              | Licome & Mercury      |           |
 | Meson Vision Optics       | Biomechanical eyes. Provides toggled meson vision, enabling user to see completely through non-living structures within 45m.                                | Golem Automatics      |           |
-| Weldsafe Optics           | Biomechanical eyes. Dampens and protects from sources of bright lights, giving user welding protection, among other benefits.                               | Golem Automatics      |           |
+| WeldSafe Optics           | Biomechanical eyes. Dampens and protects from sources of bright lights, giving user welding protection, among other benefits.                               | Golem Automatics      |           |
 | Health HUD Optics         | Biomechanical eyes. Provides passive health HUD, enabling user to see the HP percentage of any living thing above their head.                               | Haimatsu Technologies |           |
 | Diagnostic HUD Optics     | Biomechanical eyes. Provides a passive diagnostic HUD, enabling user to see HP percentage of any complex machine, and status of airlocks above their frame. | Carthage Industries   |           |
 | Integrated Thermal Optics | Biomechanical eyes. Provides toggled thermal vision, enabling user to see any heat signatures, through terrain, within 30m.                                 | NanoTrasen            |           |
@@ -47,7 +47,7 @@
 | Knucklebusters     | Larger artificial arm storing a knucklebuster shotgun (1d10, 1 use).                                                                                       |             |           |
 | Integrated Toolset |                                                                                                                                                            |             |           |
 | Integrated Toolset |                                                                                                                                                            |             |           |
-| Strykers           |                                                                                                                                                            |             |           |
+| LongStrykers       |                                                                                                                                                            |             |           |
 |                    |                                                                                                                                                            |             |           |
 
 # TORSO {^2}
@@ -73,7 +73,7 @@
 
 | **CYBERWARE**     | **DESCRIPTION** | **LICENSE** | **PRICE** |
 | ----------------- | --------------- | ----------- | --------: |
-| Stryders          |                 |             |           |
+| LongStryders      |                 |             |           |
 | Thruster Implants |                 |             |           |
 | Magboot Implants  |                 |             |           |
 |                   |                 |             |           |

@@ -1,7 +1,9 @@
 
+---
 
-![[Pasted image 20240715112837.png]]
+![[dna_banner.png]]
 
+---
 
 
 | NAME                         | DESCRIPTION                                                                                            | COST |
