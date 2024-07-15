@@ -38,6 +38,17 @@ Awareness - Sight, sound, smell, taste, touch
 Charisma - Talking to people, convincing people, lying to people
 
 
+Ingenuity - Knowledge of machines and electronics
+Hand-Eye Coordination
+
+
+
+
+
+
+
+11
+
 
 
 

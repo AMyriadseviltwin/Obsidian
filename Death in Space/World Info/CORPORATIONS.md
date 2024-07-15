@@ -11,26 +11,43 @@ Choose your allies, and enemies, wisely.
 
 ---
 
+### Table of Contents
+- [[#AMBERCOVE]]
+- [[#ASP FOUNDATION]]
+- [[#AZIMUTH]]
+- [[#CARTHAGE INDUSTRIES]]
+- [[#GOLEM]]
+- [[#HAIMATSU TECHNOLOGIES]]
+- [[#HEPHAESTUS SHIPWORKS]]
+- [[#KONBINA]]
+- [[#LICOME & MERCURY]]
+- [[#NANOTRASEN]]
+- [[#STÅLVERKET]]
+- [[#TRANSIT ALLIANCE]]
+- [[#VODYKOV]]
+- [[#X]]
 
-# AMBERCOVE S&R
 
-|     | ![[ambercove.png]]                                                           |     |
-| --- | ---------------------------------------------------------------------------- | --- |
-|     | **Ambercove S&R**                                                            |     |
+---
+
+
+# Ambercove S&R
+
+|     |                              ![[ambercove.png]]                              |     |
+| :-: | :--------------------------------------------------------------------------: | :-: |
+|     |                              **Ambercove S&R**                               |     |
 |     | - Search and rescue<br>- Emergency evacuations<br>- Distress signal dispatch |     |
 
+> Search and rescue group comprised of ex-navvies. Dispatches "whales" to most distress calls in Tenebris, and they do their job professionally well. Incur a heavy fee depending on how difficult the save was. If client can't pay, their account is put on a debt system. Crews also hunt down those who don't pay up after enough time
+
+---
 
 
+# The Asp Foundation
 
-Search and rescue group comprised of ex-navvies. Dispatches "whales" to most distress calls in Tenebris, and they do their job professionally well. Incur a heavy fee depending on how difficult the save was. If client can't pay, their account is put on a debt system. Crews also hunt down those who don't pay up after enough time
-
-
-
-## ASP FOUNDATION
-
-| ![[asp_foundation.png]]                                        |
-| -------------------------------------------------------------- |
-| **The Asp Foundation**                                         |
+|                    ![[asp_foundation.png]]                     |
+| :------------------------------------------------------------: |
+|                     **The Asp Foundation**                     |
 | - Mapping<br>- Navigation data systems<br>- Astronomy research |
 
 	Former non-profit specializing in star mapping, astronomy, and data for navigation systems. 

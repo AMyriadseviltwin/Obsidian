@@ -40,15 +40,15 @@
 
 # ARMS {^2}
 
-| **CYBERWARE**      | **DESCRIPTION**                                                                                                                                  | **LICENSE** | **PRICE** |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --------: |
-| Monoblades         | Retracting blade (1d8) discretely hidden within user's arm. Replaces ring finger with a collapsible prosthetic to allow for the blade to extend. |             |           |
-| Mantis Blades      | Serrated blade (1d8, light) stored within user's arm. Replaces arm with artificial one, allowing the arm to split apart for the blade to extend. |             |           |
-| Knucklebusters     | Larger artificial arm storing a knucklebuster shotgun (1d10, 1 use).                                                                             |             |           |
-| Integrated Toolset |                                                                                                                                                  |             |           |
-| Integrated Toolset |                                                                                                                                                  |             |           |
-| Extendo-'Pendages  |                                                                                                                                                  |             |           |
-|                    |                                                                                                                                                  |             |           |
+| **CYBERWARE**      | **DESCRIPTION**                                                                                                                                            | **LICENSE** | **PRICE** |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------: |
+| Monoblades         | Retracting blade (1d8) discretely hidden within user's arm. Requires replacing ring finger with a collapsible prosthetic to allow for the blade to extend. |             |           |
+| Mantis Blades      | Serrated blade (1d8, light) stored within user's arm. Replaces arm with artificial one, allowing the arm to split apart for the blade to extend.           |             |           |
+| Knucklebusters     | Larger artificial arm storing a knucklebuster shotgun (1d10, 1 use).                                                                                       |             |           |
+| Integrated Toolset |                                                                                                                                                            |             |           |
+| Integrated Toolset |                                                                                                                                                            |             |           |
+| Strykers           |                                                                                                                                                            |             |           |
+|                    |                                                                                                                                                            |             |           |
 
 # TORSO {^2}
 
@@ -71,13 +71,13 @@
 
 # LEGS {^2}
 
-| **CYBERWARE**             | **DESCRIPTION** | **LICENSE** | **PRICE** |
-| ------------------------- | --------------- | ----------- | --------: |
-| Battle Walkers (Longlegs) |                 |             |           |
-| Thruster Implants         |                 |             |           |
-| Magboot Implants          |                 |             |           |
-|                           |                 |             |           |
-|                           |                 |             |           |
+| **CYBERWARE**     | **DESCRIPTION** | **LICENSE** | **PRICE** |
+| ----------------- | --------------- | ----------- | --------: |
+| Stryders          |                 |             |           |
+| Thruster Implants |                 |             |           |
+| Magboot Implants  |                 |             |           |
+|                   |                 |             |           |
+|                   |                 |             |           |
 
 
 Mule pocket

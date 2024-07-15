@@ -1,5 +1,5 @@
 
-#### Table of Contents
+### Table of Contents
 - [[#BDY]]
 - [[#DR]]
 - [[#Equip/Equipped]]
@@ -13,6 +13,7 @@
 - [[#SVY]]
 - [[#TEC]]
 - [[#Tenebris]]
+- [[#Voiding]]
 - [[#Whale]]
 
 
@@ -33,15 +34,15 @@ Refers to the items you're currently *holding in your hands* (a gun, a sandwich,
 
 ---
 #### Holos
-Also called credits, eddies, etc. Most commonly used currency.
+Also called holocredits, holocreds, credits, eddies, etc. Most commonly used currency.
 
 ---
 #### HP
-Health points. Signifies how much damage a thing can take before breaking or dying.
+Health points. Represents how much damage a thing can take before breaking or dying.
 
 ---
 #### Keelhauling
-A popular torture or execution method used by the most brutal crews, or on the worst of criminals. Involves tying a person to a heavy tow-cable, looped through the ship, and pushing them out an airlock without protection. The person would then be dragged through space at a high speed from bow to stern, forced to feel the oxygen in their body expand and escape, their blood in their veins and the spit on their tongue bubble and boil in the vacuum, until they reach the airlock at the other side of the ship. [Inspired by a practice of old world sailors.](https://en.wikipedia.org/wiki/Keelhauling)
+A popular torture or execution method used by brutal crews, and prisons. Involves tying a person to a heavy tow-cable, looped through the ship, and pushing them out an airlock without protection. The person would then be dragged through space at a high speed from bow to stern, forced to feel the oxygen in their body expand and escape, the blood in their veins and the spit on their tongue bubble and boil in the vacuum, until they reach the airlock at the other side of the ship. [Inspired by a practice of old world sailors.](https://en.wikipedia.org/wiki/Keelhauling)
 
 ---
 #### LSS
@@ -70,6 +71,10 @@ Tech. Ability that represents your technical skill for things like aiming techni
 ---
 #### Tenebris
 The Tenebris star, a red giant, and its star system. The brutal and war-torn epicenter of the Gem War, and the first system you, the players, will live and die in.
+
+---
+#### Voiding
+A known form of torture used by prisons. Involves drugging a person with heavy doses of [[DRUGS|anticphrine]] and left in a pitch-black room with zero-g.
 
 ---
 #### Whale
