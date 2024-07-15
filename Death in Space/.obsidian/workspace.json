@@ -8,79 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a76032292398772",
+            "id": "3f0fcafbf92504bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Mechanics/CYBERNETICS.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Stellar Bodies/chrysalis.png"
               }
             }
           },
           {
-            "id": "eac8e23bf71f133d",
+            "id": "b36bc9f5b3791611",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Home Page.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Stellar Bodies/gliess_gallo.png"
               }
             }
           },
           {
-            "id": "b4202bc204e62734",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/CONDITION AND PARTS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "339c5e6f9ee22373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/COMBAT/GROUND COMBAT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4167e1fb5532562c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shopping/DRUGS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca36cb20f5c4585b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Info/CORPORATIONS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88e966eb9b0c474a",
+            "id": "a162fb81a9c0b46d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,8 +38,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb624e728673e049",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Stellar Bodies/ogre.png"
+              }
+            }
+          },
+          {
+            "id": "eb0dc20c8e5fc722",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Stellar Bodies/inauro.png"
+              }
+            }
+          },
+          {
+            "id": "e167d61f087a5b22",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Stellar Bodies/lepidoptera.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/CYBERNETICS.md",
+                "file": "World Info/THE TENEBRIS SYSTEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/CYBERNETICS.md",
+                "file": "World Info/THE TENEBRIS SYSTEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/CYBERNETICS.md"
+                "file": "World Info/THE TENEBRIS SYSTEM.md"
               }
             }
           }
@@ -220,42 +199,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a76032292398772",
+  "active": "a162fb81a9c0b46d",
   "lastOpenFiles": [
-    "Mechanics/COMBAT/GROUND COMBAT.md",
-    "Mechanics/CONDITION AND PARTS.md",
-    "Home Page.md",
-    "Shopping/DRUGS.md",
+    "Images/Stellar Bodies/chrysalis.png",
+    "Images/Stellar Bodies/inauro.png",
+    "Images/Stellar Bodies/ogre.png",
     "World Info/THE TENEBRIS SYSTEM.md",
-    "World Info/CORPORATIONS.md",
-    "Mechanics/CYBERNETICS.md",
-    "Images/Factions/nanotrasen.png",
-    "Images/Close Art/vitruvian.png",
-    "Images/Disks/divine.png",
-    "Images/Factions/konbina.png",
-    "Images/Factions/stalverket.png",
-    "Images/Factions/vodykov.png",
-    "Images/Factions/licome_mercury.png",
-    "Images/Factions/golem_automatics.png",
-    "Images/action_point.png",
-    "Images/Factions/hephaestus_shipworks.png",
+    "Images/Stellar Bodies/lacrimosa.png",
+    "Images/Stellar Bodies/gliess_gallo.png",
+    "Images/Stellar Bodies/lepidoptera.png",
+    "Images/Stellar Bodies/lliad.png",
+    "Images/Stellar Bodies/amissa.png",
     "World Info/GLOSSARY.md",
+    "Mechanics/CYBERNETICS.md",
+    "Pasted image 20240715212609.png",
+    "Character Creation/CREATING A CHARACTER.md",
+    "Character Creation/ORIGINS.md",
+    "Images/Stellar Bodies",
+    "Character Sheets/DATA SHEET TEMPLATE.md",
+    "Home Page.md",
+    "Mechanics/ABILITIES.md",
+    "Mechanics/COMBAT/GROUND COMBAT.md",
+    "Mechanics/COMBAT/ACTIONS.canvas",
+    "Mechanics/CHEATSHEET.png",
+    "Mechanics/CONDITION AND PARTS.md",
+    "Shopping/DRUGS.md",
+    "World Info/CORPORATIONS.md",
     "Character Creation/Legacy Origins.md",
     "World Info/Origins (WIP)/CHROME (WIP).md",
     "World Info/Origins (WIP)/PUNK (WIP).md",
     "Shopping/GENERAL PRICES.md",
     "World Info/Origins (WIP)/VELOCITY CURSED (WIP).md",
     "Mechanics/WEAPONS.md",
-    "Character Creation/ORIGINS.md",
-    "Mechanics/ABILITIES.md",
     "World Info/Origins (WIP)/APOSTLE (WIP).md",
     "World Info/Origins (WIP)/CARBON (WIP).md",
     "World Info/Origins (WIP)/SOLPOD (WIP).md",
     "World Info/Origins/Carbo (WIP).md",
-    "Character Creation/CREATING A CHARACTER.md",
     "World Info/Origins (WIP)",
     "Mechanics/LIFE AND DEATH.md",
-    "Character Sheets/DATA SHEET TEMPLATE.md",
     "Character Creation/CHARACTER DETAILS.md",
     "Mechanics/Combat/GROUND COMBAT.md",
     "Mechanics/Combat/ACTIONS.canvas",
@@ -267,7 +248,6 @@
     "Character Creation",
     "Shopping",
     "World Info",
-    "Mechanics",
-    "Images/Disks"
+    "Mechanics"
   ]
 }

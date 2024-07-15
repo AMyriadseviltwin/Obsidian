@@ -15,10 +15,12 @@ leaves nearby space
 
 ## Tenebris
 
+
 ## Lacrimosa
 
 
 ## Amissa
+
 
 ## Messier 51 Asteroid Belt
 
@@ -28,9 +30,11 @@ leaves nearby space
 
 ## Lepidoptera
 
+#### Chrysalis
+
 ## Gliess Gallo
 
-## Inauro
+#### Inauro
 
 ## The Iron Ring
 
