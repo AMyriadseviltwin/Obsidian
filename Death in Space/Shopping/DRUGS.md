@@ -5,7 +5,6 @@
 
 ---
 
-
 | NAME                         | DESCRIPTION                                                                                            | COST |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------ | ---: |
 | Single-use restore injection | Synthetic incomplete regeneration, creating fibrosis on necrotic tissue. Restores all lost hit points. |      |
@@ -20,3 +19,9 @@
 | MexomaCG                     |                                                                                                        |      |
 | KRYb gel                     |                                                                                                        |      |
 | Peas                         |                                                                                                        |      |
+
+---
+
+![[dna_banner.png]]
+
+---

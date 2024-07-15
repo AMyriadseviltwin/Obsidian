@@ -32,6 +32,42 @@
             }
           },
           {
+            "id": "b4202bc204e62734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/CONDITION AND PARTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "339c5e6f9ee22373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/COMBAT/GROUND COMBAT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4167e1fb5532562c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shopping/DRUGS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ca36cb20f5c4585b",
             "type": "leaf",
             "state": {
@@ -42,9 +78,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "88e966eb9b0c474a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Info/THE TENEBRIS SYSTEM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Info/CORPORATIONS.md",
+                "file": "Mechanics/CYBERNETICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Info/CORPORATIONS.md",
+                "file": "Mechanics/CYBERNETICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Info/CORPORATIONS.md"
+                "file": "Mechanics/CYBERNETICS.md"
               }
             }
           }
@@ -173,11 +220,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca36cb20f5c4585b",
+  "active": "8a76032292398772",
   "lastOpenFiles": [
-    "Mechanics/CYBERNETICS.md",
+    "Mechanics/COMBAT/GROUND COMBAT.md",
+    "Mechanics/CONDITION AND PARTS.md",
     "Home Page.md",
+    "Shopping/DRUGS.md",
+    "World Info/THE TENEBRIS SYSTEM.md",
     "World Info/CORPORATIONS.md",
+    "Mechanics/CYBERNETICS.md",
     "Images/Factions/nanotrasen.png",
     "Images/Close Art/vitruvian.png",
     "Images/Disks/divine.png",
@@ -189,13 +240,11 @@
     "Images/action_point.png",
     "Images/Factions/hephaestus_shipworks.png",
     "World Info/GLOSSARY.md",
-    "Shopping/DRUGS.md",
     "Character Creation/Legacy Origins.md",
     "World Info/Origins (WIP)/CHROME (WIP).md",
     "World Info/Origins (WIP)/PUNK (WIP).md",
     "Shopping/GENERAL PRICES.md",
     "World Info/Origins (WIP)/VELOCITY CURSED (WIP).md",
-    "World Info/THE TENEBRIS SYSTEM.md",
     "Mechanics/WEAPONS.md",
     "Character Creation/ORIGINS.md",
     "Mechanics/ABILITIES.md",
@@ -209,7 +258,6 @@
     "Character Sheets/DATA SHEET TEMPLATE.md",
     "Character Creation/CHARACTER DETAILS.md",
     "Mechanics/Combat/GROUND COMBAT.md",
-    "Mechanics/CONDITION AND PARTS.md",
     "Mechanics/Combat/ACTIONS.canvas",
     "Mechanics/Combat",
     "Mechanics/Combat",
