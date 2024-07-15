@@ -4,73 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1b5113637c6841ad",
+        "id": "0674f29346d98c04",
         "type": "tabs",
         "children": [
           {
-            "id": "3f0fcafbf92504bb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Stellar Bodies/chrysalis.png"
-              }
-            }
-          },
-          {
-            "id": "b36bc9f5b3791611",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Stellar Bodies/gliess_gallo.png"
-              }
-            }
-          },
-          {
-            "id": "a162fb81a9c0b46d",
+            "id": "c66a5936a622a2a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Info/THE TENEBRIS SYSTEM.md",
+                "file": "Home Page.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fb624e728673e049",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Stellar Bodies/ogre.png"
-              }
-            }
-          },
-          {
-            "id": "eb0dc20c8e5fc722",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Stellar Bodies/inauro.png"
-              }
-            }
-          },
-          {
-            "id": "e167d61f087a5b22",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Stellar Bodies/lepidoptera.png"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Info/THE TENEBRIS SYSTEM.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Info/THE TENEBRIS SYSTEM.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Info/THE TENEBRIS SYSTEM.md"
+                "file": "Home Page.md"
               }
             }
           }
@@ -199,15 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a162fb81a9c0b46d",
+  "active": "c66a5936a622a2a6",
   "lastOpenFiles": [
+    "Shopping/DRUGS.md",
+    "Home Page.md",
+    "Images/Stellar Bodies/lepidoptera.png",
     "Images/Stellar Bodies/chrysalis.png",
     "Images/Stellar Bodies/inauro.png",
-    "Images/Stellar Bodies/ogre.png",
-    "World Info/THE TENEBRIS SYSTEM.md",
-    "Images/Stellar Bodies/lacrimosa.png",
     "Images/Stellar Bodies/gliess_gallo.png",
-    "Images/Stellar Bodies/lepidoptera.png",
+    "World Info/THE TENEBRIS SYSTEM.md",
+    "Images/Stellar Bodies/ogre.png",
+    "Images/Stellar Bodies/lacrimosa.png",
     "Images/Stellar Bodies/lliad.png",
     "Images/Stellar Bodies/amissa.png",
     "World Info/GLOSSARY.md",
@@ -217,13 +168,11 @@
     "Character Creation/ORIGINS.md",
     "Images/Stellar Bodies",
     "Character Sheets/DATA SHEET TEMPLATE.md",
-    "Home Page.md",
     "Mechanics/ABILITIES.md",
     "Mechanics/COMBAT/GROUND COMBAT.md",
     "Mechanics/COMBAT/ACTIONS.canvas",
     "Mechanics/CHEATSHEET.png",
     "Mechanics/CONDITION AND PARTS.md",
-    "Shopping/DRUGS.md",
     "World Info/CORPORATIONS.md",
     "Character Creation/Legacy Origins.md",
     "World Info/Origins (WIP)/CHROME (WIP).md",

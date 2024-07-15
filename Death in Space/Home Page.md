@@ -32,5 +32,5 @@
 > **Shopping** - Nearby marketplace? Passing by a trade port? Here you'll find the standard pricing for most goods, materials, contracts, and cyberware.
 
 
-> **World Info** - LORE. Here you can read about common knowledge people in the world of Space may know. Information on [[CORPORATIONS|factions]], [[THE TENEBRIS SYSTEM|star systems]], and [[GLOSSARY|terminology]] f.ex. may be found here.
+> **World Info** - LORE. Here you can read about common knowledge people in the world of Space may know. Information on [[CORPORATIONS|factions]], [[THE TENEBRIS SYSTEM|locations]], and [[GLOSSARY|terminology]] f.ex. may be found here.
 
