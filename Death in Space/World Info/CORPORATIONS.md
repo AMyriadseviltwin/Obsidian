@@ -20,7 +20,7 @@ Choose your allies, and enemies, wisely.
 - [[#HAIMATSU TECHNOLOGIES|Haimatsu Technologies]]
 - [[#HEPHAESTUS SHIPWORKS|Hephaestus Shipworks]]
 - [[#KONBINA|Konbina]]
-- [[#LICOME & MERCURY, LTD.]]
+- [[#LICOME & MERCURY|Licome & Mercury]]
 - [[#NANOTRASEN]]
 - [[#STÅLVERKET]]
 - [[#TRANSIT ALLIANCE]]
@@ -99,20 +99,19 @@ Choose your allies, and enemies, wisely.
 # HEPHAESTUS SHIPWORKS
 
 
-|     | ![[hephaestus_shipworks.png]]                                |     |
-| :-: | :----------------------------------------------------------- | :-: |
-|     | **Hephaestus Shipworks**                                     |     |
-|     | - Spacecraft frames and modules<br>- Salvage <br>- Computers |     |
-
-| ![[hephaestus_shipworks.png]]                           |
-| ------------------------------------------------------- |
-| **Hephaestus Shipworks**                                |
-| - Spacecraft<br>- Salvaging and scrapping<br>- Vehicles |
-Salvaging and scrapping, Heavy ships/Tools/Vehicles/Machinery
+|     | ![[hephaestus_shipworks.png]]                                            |     |
+| :-: | :----------------------------------------------------------------------- | :-: |
+|     | **Hephaestus Shipworks**                                                 |     |
+|     | - Spacecraft frames and modules<br>- Salvage and recycling<br>- Vehicles |     |
 
 
+# KONBINA
 
-# KONBINA CORPORATION
+
+|     | ![[konbina.png]]                                               |     |
+| :-: | :------------------------------------------------------------- | :-: |
+|     | **Azimuth LLC**                                                |     |
+|     | - Non-phys technology<br>- Non-phys experiences<br>- Computers |     |
 
 | ![[konbina.png]]                                                                              |
 | --------------------------------------------------------------------------------------------- |
