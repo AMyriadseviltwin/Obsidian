@@ -39,15 +39,10 @@ Charisma - Talking to people, convincing people, lying to people
 
 
 Ingenuity - Knowledge of machines and electronics
-Hand-Eye Coordination
+
+Crafting
 
 
-
-
-
-
-
-11
 
 
 
@@ -66,8 +61,6 @@ Performance Empathy
 
 # The Abilities
 ### BODY (BDY)
-
-
 Melee attacks, healing hit points, encumbrance, lifting dead friends, surviving without oxygen, forcing open airlocks, withstanding g-forces, resisting cold and sickness.
 
 ### DEXTERITY (DEX)

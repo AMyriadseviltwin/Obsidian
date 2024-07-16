@@ -26,7 +26,7 @@ Body. Ability that involves the use of your physical strength and toughness.
 
 ---
 #### DR
-Defense rating. The same as AC/armor class in D&D.
+Defense rating. Represents how good a thing can prevent hits, whether by dodging the attack or by being too durable to be affected. The same thing as armor class in D&D.
 
 ---
 #### Equip/Equipped

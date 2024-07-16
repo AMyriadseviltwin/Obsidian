@@ -1,7 +1,7 @@
 
 ---
 
-|     | IMPR<br>OVE/<br>DEN/<br>HANC<br>EDU/<br>PGRA<br>DED/<br>ENRI<br>CHED<br>AUG/<br>MENT<br>EDRE<br>PAI/<br>REDC<br>ORRE<br>CTED | ![[cyber_optics.png]] | HIGH<br>ERPO<br>OWER<br>FAS/<br>TERB<br>ETT/<br>ERS/<br>TRON<br>GER/<br>HARD<br>ERS/<br>MART<br>ERT/<br>OUGH<br>ERPU<br>RER/ |     |
+|     | IMPR<br>OVE/<br>DEN/<br>HANC<br>EDU/<br>PGRA<br>DED/<br>ENRI<br>CHED<br>AUG/<br>MENT<br>EDR/<br>EPAI<br>RED/<br>REM/<br>ADE/ | ![[cyber_optics.png]] | HIGH<br>ERPO<br>OWER<br>FAS/<br>TERB<br>ETT/<br>ERS/<br>TRON<br>GER/<br>HARD<br>ERS/<br>MART<br>ERT/<br>OUGH<br>ERPU<br>RER/ |     |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------: | :-------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-: |
 
 ---

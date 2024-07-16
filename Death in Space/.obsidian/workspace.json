@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ca12f1bb69707db",
+        "id": "7f103c88f9316958",
         "type": "tabs",
         "children": [
           {
-            "id": "eafb58a59db6d2f3",
+            "id": "d5be1de655b5096f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,53 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae7bea63e891b98f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/CYBERNETICS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c16c0a1fe5c34b4f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Stellar Bodies/inauro.png"
+              }
+            }
+          },
+          {
+            "id": "e33603627491baa5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Stellar Bodies/lacrimosa.png"
+              }
+            }
+          },
+          {
+            "id": "ef2e809c5281d263",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Sheets/DATA SHEET TEMPLATE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Images/Stellar Bodies/inauro.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Images/Stellar Bodies/inauro.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Images/Stellar Bodies/inauro.png"
               }
             }
           }
@@ -148,32 +193,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eafb58a59db6d2f3",
+  "active": "c16c0a1fe5c34b4f",
   "lastOpenFiles": [
-    "World Info/CORPORATIONS.md",
+    "Images/Stellar Bodies/lacrimosa.png",
+    "Images/Stellar Bodies/inauro.png",
+    "Images/Stellar Bodies/lliad.png",
+    "Mechanics/LIFE AND DEATH.md",
+    "Character Sheets/DATA SHEET TEMPLATE.md",
+    "Mechanics/ABILITIES.md",
+    "Mechanics/CYBERNETICS.md",
+    "Character Creation/ORIGINS.md",
     "World Info/GLOSSARY.md",
+    "Mechanics/CONDITION AND PARTS.md",
+    "Home Page.md",
+    "World Info/CORPORATIONS.md",
     "World Info/THE TENEBRIS SYSTEM.md",
     "Images/Stellar Bodies/gliess_gallo.png",
     "Images/Stellar Bodies/lepidoptera.png",
-    "Images/Stellar Bodies/lliad.png",
     "Images/Stellar Bodies/ogre.png",
-    "Images/Stellar Bodies/lacrimosa.png",
-    "Images/Stellar Bodies/inauro.png",
-    "Home Page.md",
     "Images/Stellar Bodies/chrysalis.png",
     "Shopping/DRUGS.md",
     "Images/Stellar Bodies/amissa.png",
-    "Mechanics/CYBERNETICS.md",
     "Pasted image 20240715212609.png",
     "Character Creation/CREATING A CHARACTER.md",
-    "Character Creation/ORIGINS.md",
     "Images/Stellar Bodies",
-    "Character Sheets/DATA SHEET TEMPLATE.md",
-    "Mechanics/ABILITIES.md",
     "Mechanics/COMBAT/GROUND COMBAT.md",
     "Mechanics/COMBAT/ACTIONS.canvas",
     "Mechanics/CHEATSHEET.png",
-    "Mechanics/CONDITION AND PARTS.md",
     "Character Creation/Legacy Origins.md",
     "World Info/Origins (WIP)/CHROME (WIP).md",
     "World Info/Origins (WIP)/PUNK (WIP).md",
@@ -185,7 +231,6 @@
     "World Info/Origins (WIP)/SOLPOD (WIP).md",
     "World Info/Origins/Carbo (WIP).md",
     "World Info/Origins (WIP)",
-    "Mechanics/LIFE AND DEATH.md",
     "Character Creation/CHARACTER DETAILS.md",
     "Mechanics/Combat/GROUND COMBAT.md",
     "Mechanics/Combat/ACTIONS.canvas",
