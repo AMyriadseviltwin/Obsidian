@@ -1,5 +1,5 @@
 
-# Power in the New Age
+# 
 
 In the world of Death in Space, there are no governments like those in the present. The democracies, theocracies, and autocracies of old have been phased out long ago through war and time and economic collapse.
 
@@ -21,10 +21,10 @@ Choose your allies, and enemies, wisely.
 - [[#HEPHAESTUS SHIPWORKS|Hephaestus Shipworks]]
 - [[#KONBINA|Konbina]]
 - [[#LICOME & MERCURY|Licome & Mercury]]
-- [[#NANOTRASEN]]
-- [[#STÅLVERKET]]
-- [[#TRANSIT ALLIANCE]]
-- [[#VODYKOV]]
+- [[#NANOTRASEN|NanoTrasen]]
+- [[#STÅLVERKET|Stålverket]]
+- [[#TRANSIT ALLIANCE|Transit Alliance]]
+- [[#VODYKOV|Vodykov]]
 - [[#X]]
 
 
@@ -33,144 +33,172 @@ Choose your allies, and enemies, wisely.
 
 # AMBERCOVE S&R
 
-|     | ![[ambercove.png]]                                                           |     |
-| :-: | :--------------------------------------------------------------------------- | :-: |
-|     | **Ambercove S&R**                                                            |     |
-|     | - Search and rescue<br>- Emergency evacuations<br>- Distress signal dispatch |     |
+|     | ![[ambercove.png]]                                                                |     |
+| :-: | :-------------------------------------------------------------------------------- | :-: |
+|     | **Ambercove S&R**                                                                 |     |
+|     | Known for<br>- Search and rescue<br>- Emergency aid<br>- Distress signal dispatch |     |
 
-> Search and rescue group comprised of ex-navvies. Dispatches "whales" to most distress calls in Tenebris, and they do their job professionally well. Incur a heavy fee depending on how difficult the save was. If client can't pay, their account is put on a debt system. Crews also hunt down those who don't pay up after enough time
-
+> Notes:
+> 
 
 
 
 # ASP FOUNDATION
 
+|     | ![[asp_foundation.png]]                                                                       |     |
+| :-: | :-------------------------------------------------------------------------------------------- | :-: |
+|     | **The Asp Foundation**<br>Known for<br>- Mapping<br>- Navigation data<br>- Astronomy research |     |
 
+> Notes:
+> 
 
-|     | ![[asp_foundation.png]]                                                          |     |
-| :-: | :------------------------------------------------------------------------------- | :-: |
-|     | **The Asp Foundation**<br>- Mapping<br>- Navigation data<br>- Astronomy research |     |
-
-
-
-
-	Former non-profit specializing in star mapping, astronomy, and data for navigation systems. 
 
 
 # AZIMUTH
 
-|     | ![[azimuth.png]]                                               |     |
-| :-: | :------------------------------------------------------------- | :-: |
-|     | **Azimuth LLC**                                                |     |
-|     | - Non-phys technology<br>- Non-phys experiences<br>- Computers |     |
+|     | ![[azimuth.png]]                                                            |     |
+| :-: | :-------------------------------------------------------------------------- | :-: |
+|     | **Azimuth LLC**                                                             |     |
+|     | Known for<br>- Non-phys technology<br>- Non-phys experiences<br>- Computers |     |
+
+> Notes:
+> 
 
 
-
-	Started with selling computers, AR/VR tech company operating entirely within their own non-phys networks.
-
- 
 # CARTHAGE INDUSTRIES
 
-|     | ![[carthage_industries.png]]                   |     |
-| :-: | :--------------------------------------------- | :-: |
-|     | **Carthage Industries**                        |     |
-|     | - AI and robotics<br>- Machines<br>- Tools<br> |     |
+|     | ![[carthage_industries.png]]                            |     |
+| :-: | :------------------------------------------------------ | :-: |
+|     | **Carthage Industries**                                 |     |
+|     | Known for<br>- AI and robotics<br>- Machines<br>- Tools |     |
+
+> Notes:
+> 
 
 
 
 # GOLEM AUTOMATICS
 
 
-|     | ![[golem_automatics.png]]                                         |     |
-| :-: | :---------------------------------------------------------------- | :-: |
-|     | **Golem Automatics**                                              |     |
-|     | - Industrial equipment<br>- Heavy duty machinery<br>- Safety gear |     |
+|     | ![[golem_automatics.png]]                                                      |     |
+| :-: | :----------------------------------------------------------------------------- | :-: |
+|     | **Golem Automatics**                                                           |     |
+|     | Known for<br>- Industrial equipment<br>- Heavy duty machinery<br>- Safety gear |     |
+
+> Notes:
+> 
+
 
 
 # HAIMATSU TECHNOLOGIES
 
+|     | ![[haimatsu_technologies.png]]                                                  |     |
+| :-: | :------------------------------------------------------------------------------ | :-: |
+|     | **Haimatsu Technologies**                                                       |     |
+|     | Known for<br>- Medical technology and tools<br>- Cyberware<br>- Pharmaceuticals |     |
 
-|     | ![[haimatsu_technologies.png]]                                     |     |
-| :-: | :----------------------------------------------------------------- | :-: |
-|     | **Haimatsu Technologies**                                          |     |
-|     | - Medical technology and tools<br>- Cyberware<br>- Pharmaceuticals |     |
+> Notes:
+> 
+
 
 
 # HEPHAESTUS SHIPWORKS
 
 
-|     | ![[hephaestus_shipworks.png]]                                            |     |
-| :-: | :----------------------------------------------------------------------- | :-: |
-|     | **Hephaestus Shipworks**                                                 |     |
-|     | - Spacecraft frames and modules<br>- Salvage and recycling<br>- Vehicles |     |
+|     | ![[hephaestus_shipworks.png]]                                                             |     |
+| :-: | :---------------------------------------------------------------------------------------- | :-: |
+|     | **Hephaestus Shipworks**                                                                  |     |
+|     | Known for<br>- Shipbreaking and recycling<br>- Modules and parts<br>- Vehicles and frames |     |
+
+> Notes:
+> 
+
 
 
 # KONBINA
 
 
-|     | ![[konbina.png]]                                                                |     |
-| :-: | :------------------------------------------------------------------------------ | :-: |
-|     | **Konbina Corporation**                                                         |     |
-|     | - Cheap, mass-produced food<br>- Agricultural science and genetics<br>- Biofuel |     |
+|     | ![[konbina.png]]                                                                             |     |
+| :-: | :------------------------------------------------------------------------------------------- | :-: |
+|     | **Konbina Corporation**                                                                      |     |
+|     | Known for<br>- Cheap, mass-produced food<br>- Agricultural genetics and science<br>- Biofuel |     |
 
-Affordable mass produced food, agriculture and food engineering, biomatter reactors and fuel
+> Notes:
+> 
 
-Research heavy agricultural giant with a big focus on gene modding and bioengineering. Hired to provide food to most during the war, but retreated internally to focus on research once supply lines were decimated.
+
 
 # LICOME & MERCURY
 
-|     | ![[licome_mercury.png]]                                             |     |
-| :-: | :------------------------------------------------------------------ | :-: |
-|     | **Licome & Mercury, Ltd.**                                          |     |
-|     | - Weapons manufacturing<br>- Weapons research<br>- Security systems |     |
+|     | ![[licome_mercury.png]]                                                          |     |
+| :-: | :------------------------------------------------------------------------------- | :-: |
+|     | **Licome & Mercury, Ltd.**                                                       |     |
+|     | Known for<br>- Weapons manufacturing<br>- Defense research<br>- Security systems |     |
 
+> Notes:
+> 
 
-	Industrial manufacturing superpower behind most ship and weapon designs in Tenebris. Incredibly profitable during the war, but retreated internally when production couldn't be continued.
 
 
 # NANOTRASEN
 
-|     | ![[nanotrasen.png]]                                       |     |
-| :-: | :-------------------------------------------------------- | :-: |
-|     | **NanoTrasen**                                            |     |
-|     | - High-end RnD<br>- Experimental weapons<br>- Luxury tech |     |
+|     | ![[nanotrasen.png]]                                                          |     |
+| :-: | :--------------------------------------------------------------------------- | :-: |
+|     | **NanoTrasen**                                                               |     |
+|     | Known for<br>- High-end RnD<br>- Experimental weapons<br>- Luxury technology |     |
 
+> Notes:
+> 
 
-Cutting-edge research company that became prominent during the war after securing and studying a large portion of the fractal gems in Tenebris. Invented first effective energy/laser weaponry and shields, and in the end, won the war as a result. Poured the most resources into the war than any other group, and consequentially lost the most. The organization is still recovering today, if not still sending seekers to reclaim the missing gem tech they left behind - highly sought after treasures for anyone who might stumble across it.
 
 
 # STÅLVERKET
 
+|     | ![[stalverket.png]]                                                   |     |
+| :-: | :-------------------------------------------------------------------- | :-: |
+|     | **Stålverket AS**                                                     |     |
+|     | Known for<br>- Interstellar mining<br>- Ore processing<br>- Logistics |     |
 
-|     | ![[stalverket.png]]                                      |     |
-| :-: | :------------------------------------------------------- | :-: |
-|     | **Stålverket AS**                                        |     |
-|     | - Interstellar mining<br>- Ore processing<br>- Logistics |     |
+> Notes:
+> 
 
-
-Interstellar mining corporation with a firm grip on its active operations. Used to be the largest company in Tenebris, the oppressor of many colonies and the common enemy of several unions and one rebellion - even dominated the gem war for the longest time until NanoTrasen rose to power. Now desperately clings to the settlements it has left, with a leadership trying to their former glory after contact was lost with their headquarters in one of the systems neighbouring Tenebris.
 
 
 # TRANSIT ALLIANCE
 
-|     | ![[transit_alliance.png]]                                              |     |
-| :-: | :-------------------------------------------------------------------- | :-: |
-|     | **Transit Alliance                                                     |     |
-|    - Union workers rights<br>- Transport contracts<br>- Freedom fighting >-  |     |
+|     | ![[transit_alliance.png]]                                                          |     |
+| :-: | :--------------------------------------------------------------------------------- | :-: |
+|     | **Transit Alliance**                                                               |     |
+|     | Known for<br>- Union workers rights<br>- Transport contracts<br>- Freedom fighting |     |
+
+> Notes:
+> 
+
 
 
 # VODYKOV
 
-|     | ![[vodykov.png]]                          |     |
-| :-: | :---------------------------------------- | :-: |
-|     | **Vodykov**                               |     |
-|     | - Networking<br>- Contracts<br>- Security |     |
+|     | ![[vodykov.png]]                                          |     |
+| :-: | :-------------------------------------------------------- | :-: |
+|     | **Vodykov**                                               |     |
+|     | Known for<br>- Networking<br>- Contracts<br>- Mercenaries |     |
+
+> Notes:
+> 
+
 
 
 # X
 
-|     | ![[x.png]]                                      |     |
-| :-: | :---------------------------------------------- | :-: |
-|     | **X**                                           |     |
-|     | - Black markets<br>- Trafficking<br>- Contracts |     |
+|     | ![[x.png]]                                              |     |
+| :-: | :------------------------------------------------------ | :-: |
+|     | **X**                                                   |     |
+|     | Known for<br>- Piracy<br>- Black markets<br>- Contracts |     |
 
+> Notes:
+> 
+
+
+
+
+---

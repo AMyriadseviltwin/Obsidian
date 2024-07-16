@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0674f29346d98c04",
+        "id": "6ca12f1bb69707db",
         "type": "tabs",
         "children": [
           {
-            "id": "c66a5936a622a2a6",
+            "id": "eafb58a59db6d2f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,20 +148,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c66a5936a622a2a6",
+  "active": "eafb58a59db6d2f3",
   "lastOpenFiles": [
-    "Shopping/DRUGS.md",
-    "Home Page.md",
-    "Images/Stellar Bodies/lepidoptera.png",
-    "Images/Stellar Bodies/chrysalis.png",
-    "Images/Stellar Bodies/inauro.png",
-    "Images/Stellar Bodies/gliess_gallo.png",
+    "World Info/CORPORATIONS.md",
+    "World Info/GLOSSARY.md",
     "World Info/THE TENEBRIS SYSTEM.md",
+    "Images/Stellar Bodies/gliess_gallo.png",
+    "Images/Stellar Bodies/lepidoptera.png",
+    "Images/Stellar Bodies/lliad.png",
     "Images/Stellar Bodies/ogre.png",
     "Images/Stellar Bodies/lacrimosa.png",
-    "Images/Stellar Bodies/lliad.png",
+    "Images/Stellar Bodies/inauro.png",
+    "Home Page.md",
+    "Images/Stellar Bodies/chrysalis.png",
+    "Shopping/DRUGS.md",
     "Images/Stellar Bodies/amissa.png",
-    "World Info/GLOSSARY.md",
     "Mechanics/CYBERNETICS.md",
     "Pasted image 20240715212609.png",
     "Character Creation/CREATING A CHARACTER.md",
@@ -173,7 +174,6 @@
     "Mechanics/COMBAT/ACTIONS.canvas",
     "Mechanics/CHEATSHEET.png",
     "Mechanics/CONDITION AND PARTS.md",
-    "World Info/CORPORATIONS.md",
     "Character Creation/Legacy Origins.md",
     "World Info/Origins (WIP)/CHROME (WIP).md",
     "World Info/Origins (WIP)/PUNK (WIP).md",
