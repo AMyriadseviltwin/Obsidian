@@ -53,10 +53,10 @@ Choose your allies, and enemies, wisely.
 
 # AZIMUTH
 
-|     | ![[azimuth.png]]                                                            |     |
-| :-: | :-------------------------------------------------------------------------- | :-: |
-|     | **Azimuth LLC**                                                             |     |
-|     | Known for<br>- Non-phys technology<br>- Non-phys experiences<br>- Computers |     |
+|     | ![[azimuth.png]]                                                       |     |
+| :-: | :--------------------------------------------------------------------- | :-: |
+|     | **Azimuth LLC**                                                        |     |
+|     | Known for<br>- Non-phys technology<br>- Non-phys worlds<br>- Computers |     |
 
 > Notes:
 > 
