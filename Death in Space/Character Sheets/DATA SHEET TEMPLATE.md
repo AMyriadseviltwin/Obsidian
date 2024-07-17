@@ -2,11 +2,15 @@
 Use this button to start, then copy + paste in the template! (Delete this section after use)
 ![[Character Sheets/NEW CHARACTER]]
 
-# PERSONAL DATA SHEET V1.6
+# 
 
-### ID: -NAME HERE-
+### ID: -NAME HERE-                  ORIGIN: -ORIGIN HERE-
 
-### ORIGIN: -ORIGIN HERE-
+
+
+
+
+
 
 > **Benefit** - -INSERT ORIGIN BENEFIT HERE-
 

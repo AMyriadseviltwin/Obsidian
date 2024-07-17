@@ -23,7 +23,7 @@ In Death in Space there are four groups of abilities: **BODY (BDY)**, **DEXTERIT
 Strength - Punching, holding on, lifting things
 Endurance - Resisting toxins and radiation, staying alive
 Grit - Stamina, resisting pain and g-forces, willpower
-Intimidation - Confidence, projection of power
+Presence - Intimidation, confidence, projection of power
 
 
 Interfacing - Sleight of hand, precise hand interaction

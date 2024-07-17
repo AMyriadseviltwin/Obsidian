@@ -38,6 +38,9 @@ You can converse with computers as if they were real people. Plug in and find a 
 **BODY BATTERY**
 You can use your body to power one small electrical device, such as a hand-held item.
 
+**INTEGRATED**
+You begin with 
+
 
 # III - PUNK
 

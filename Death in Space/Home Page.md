@@ -4,7 +4,7 @@
 ###   Welcome ==-USER-== to the SRD made to guide you through your
 #                   *DEATH IN SPACE*
 
-![[bg_astronautvoid.png]]
+![[bg_116trillionyears.png]]
 
 ####                        ENJOY YOUR STAY :)
 

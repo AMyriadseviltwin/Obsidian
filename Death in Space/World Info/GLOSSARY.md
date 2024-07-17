@@ -16,10 +16,7 @@
 - [[#Voiding]]
 - [[#Whale]]
 
-
-
 ---
-
 ---
 #### BDY
 Body. Ability that involves the use of your physical strength and toughness.
@@ -81,6 +78,5 @@ A known form of torture used by prisons. Involves drugging a person with heavy d
 Code name for emergency response teams working under [[CORPORATIONS#AMBERCOVE|Ambercove]]. Mostly comprised of hard-boiled, highly skilled ex-navvies known for getting the job done.
 
 ---
-
 ---
 
