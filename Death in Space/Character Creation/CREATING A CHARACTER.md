@@ -12,16 +12,15 @@ Will you live to rise in this great void, or, soundlessly screaming, bear alone 
 
 # Making a Character Step-by-Step
 
-Follow these steps, filling out the corresponding sections on your character sheet as you go along:
+Follow these steps in order, filling out the corresponding sections on your character sheet as you go along:
+#### I - Set your [[ABILITIES]]
 
-##### I - Set your [[ABILITIES]]
+#### II - Know your [[ORIGINS]]
 
-##### II - Know your [[ORIGINS]]
+#### III - Establish your [[CHARACTER DETAILS]]
 
-##### III - Establish your [[CHARACTER DETAILS]]
+#### IV - Determine your [[LIFE AND DEATH#Health Points and Defense Rating|MAX HP, LIMB HP, AND DR]]
 
-##### IV - Determine your [[LIFE AND DEATH#Health Points and Defense Rating|MAX HP, DR, AND LIMB HP]]
-
-##### V - Starting gear
+#### V - Starting gear
 
 

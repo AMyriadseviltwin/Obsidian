@@ -9,6 +9,15 @@
 # Harder, Better, Faster, Stronger
 
 
+### Installing cyberware
+
+
+
+### Removing cyberware
+
+
+
+
 
 
 
@@ -45,15 +54,16 @@
 
 # TORSO {^2}
 
-| **CYBERWARE**               | **DESCRIPTION** | **LICENSE**           | **CONDITION** | **PRICE** |
-| --------------------------- | --------------- | --------------------- | ------------: | --------: |
-| A.I.D./Reviver Implant      |                 | Haimatsu Technologies |             4 |           |
-| Stimpak Implant             |                 | Haimatsu Technologies |             3 |           |
-| Back Mountain/Mounted Drone |                 | Licome & Mercury      |             3 |           |
-| Blood Oxygenator Plating    |                 | NanoTrasen            |             4 |           |
-| Constrictor Harness         |                 |                       |             2 |           |
-| Nutrient Pump               |                 | Haimatsu Technologies |             2 |           |
-| Ram Shackles                |                 |                       |             2 |           |
+| **CYBERWARE**              | **DESCRIPTION** | **LICENSE**           | **CONDITION** | **PRICE** |
+| -------------------------- | --------------- | --------------------- | ------------: | --------: |
+| A.I.D./Reviver Implant     |                 | Haimatsu Technologies |             4 |           |
+| Stimpak Implant            |                 | Haimatsu Technologies |             3 |           |
+| Bak-Mountain/Mounted Drone |                 | Licome & Mercury      |             3 |           |
+| Blood Oxygenator Plating   |                 | NanoTrasen            |             4 |           |
+| Constrictor Harness        |                 |                       |             2 |           |
+| Nutrient Pump              |                 | Haimatsu Technologies |             2 |           |
+| Ram Shackles               |                 |                       |             2 |           |
+|                            |                 |                       |               |           |
 
 # LEGS {^2}
 
@@ -81,3 +91,6 @@ Storage implant
 | *Originally designed for surgeons. Attaches to base of the motor cortex.* Toggle to gain an absolute grip on whatever you're holding. While toggled, you can't drop the item or have it pried from your hands as long as your arm is attached.  |
 | ==A thin, sterile tube linked to the trachea, runs along beneath your skin.== Lets you hook up and breathe from gas tanks without a breath mask.                                                                                                |
 | ==Developed during the war and issued to decorated pilots. Attaches to base of the premotor cortex.== Stimulates your cerebral nervous system, giving a sudden boost to SVY (Piloting) checks. Also jolts your body out of short-lasting stuns. |
+
+---
+---

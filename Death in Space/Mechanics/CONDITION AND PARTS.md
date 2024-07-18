@@ -29,3 +29,6 @@
 > **Vehicle parts** are larger parts and materials used to repair large broken structures such as spacecraft, stations, giant drills, satellites, and big drones. One unit of vehicle parts **takes up five item slots**.
 
 
+
+---
+---

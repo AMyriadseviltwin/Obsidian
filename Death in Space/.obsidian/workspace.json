@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad9f4ee28ad6b610",
+        "id": "d176dcc11ab32170",
         "type": "tabs",
         "children": [
           {
-            "id": "b3ac5db8fc35b81a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bdd91ce8f809b88",
+            "id": "a3ddfbacde8e7206",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +20,78 @@
             }
           },
           {
-            "id": "a4425bd118bf1b57",
+            "id": "09259b5cf545ae23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shopping/CYBERNETICS.md",
+                "file": "Character Creation/CREATING A CHARACTER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd8ff7254f9d2cff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/LIFE AND DEATH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c451539dd8f54ec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Info/INTRODUCTION.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "819cbe38ccadcd62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shopping/GENERAL PRICES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2051a44f31df7630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/ORIGINS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f819fb98b049a5e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/CHARACTER DETAILS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shopping/CYBERNETICS.md",
+                "file": "World Info/CORPORATIONS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shopping/CYBERNETICS.md",
+                "file": "World Info/CORPORATIONS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shopping/CYBERNETICS.md"
+                "file": "World Info/CORPORATIONS.md"
               }
             }
           }
@@ -173,17 +220,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4425bd118bf1b57",
+  "active": "a3ddfbacde8e7206",
   "lastOpenFiles": [
-    "World Info/CORPORATIONS.md",
-    "Home Page.md",
-    "Character Sheets/DATA SHEET TEMPLATE.md",
-    "Mechanics/ABILITIES.md",
-    "Shopping/CYBERNETICS.md",
-    "Mechanics/WEAPONS.md",
-    "Shopping/GENERAL PRICES.md",
+    "Mechanics/HACKING.md",
+    "Character Creation/CREATING A CHARACTER.md",
     "Mechanics/LIFE AND DEATH.md",
-    "Shopping/DRUGS.md",
+    "World Info/INTRODUCTION.md",
+    "Home Page.md",
+    "Shopping/GENERAL PRICES.md",
+    "Shopping/CYBERNETICS.md",
+    "Shopping/ADDICTIVE SUBSTANCES.md",
+    "World Info/GLOSSARY.md",
+    "World Info/CORPORATIONS.md",
+    "Character Creation/ORIGINS.md",
+    "World Info/THE TENEBRIS SYSTEM.md",
+    "Character Creation/CHARACTER DETAILS.md",
+    "Mechanics/COMBAT/GROUND COMBAT.md",
+    "Mechanics/WEAPONS.md",
+    "Mechanics/CONDITION AND PARTS.md",
+    "Mechanics/CHEATSHEET.png",
+    "Mechanics/ABILITIES.md",
+    "Character Sheets/DATA SHEET TEMPLATE.md",
+    "World Info/Origins (WIP)/SOLPOD (WIP).md",
     "Images/Background Art/bg_116trillionyears.png",
     "Images/Stellar Bodies/gliess_gallo.png",
     "Images/Stellar Bodies/inauro.png",
@@ -193,27 +251,17 @@
     "Images/Stellar Bodies/lliad.png",
     "Images/Stellar Bodies/lepidoptera.png",
     "Images/Stellar Bodies/lacrimosa.png",
-    "World Info/GLOSSARY.md",
-    "Mechanics/CONDITION AND PARTS.md",
-    "Mechanics/CHEATSHEET.png",
-    "Character Creation/ORIGINS.md",
-    "Character Creation/CREATING A CHARACTER.md",
     "Character Creation/Legacy Origins.md",
     "Untitled.canvas",
-    "World Info/THE TENEBRIS SYSTEM.md",
     "Images/Stellar Bodies",
-    "Mechanics/COMBAT/GROUND COMBAT.md",
     "Mechanics/COMBAT/ACTIONS.canvas",
     "World Info/Origins (WIP)/CHROME (WIP).md",
     "World Info/Origins (WIP)/PUNK (WIP).md",
     "World Info/Origins (WIP)/VELOCITY CURSED (WIP).md",
     "World Info/Origins (WIP)/APOSTLE (WIP).md",
     "World Info/Origins (WIP)/CARBON (WIP).md",
-    "World Info/Origins (WIP)/SOLPOD (WIP).md",
     "World Info/Origins/Carbo (WIP).md",
     "World Info/Origins (WIP)",
-    "Character Creation/CHARACTER DETAILS.md",
-    "Mechanics/Combat/GROUND COMBAT.md",
     "Mechanics/Combat/ACTIONS.canvas",
     "Mechanics/Combat",
     "Mechanics/Combat",

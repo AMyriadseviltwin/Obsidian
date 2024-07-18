@@ -39,7 +39,7 @@ You can converse with computers as if they were real people. Plug in and find a 
 You can use your body to power one small electrical device, such as a hand-held item.
 
 **INTEGRATED**
-You begin with 
+You begin with one condition 2 cyberware of your choosing integrated into your body. It does not take up a cyberware slot. Incredibly difficult to remove.
 
 
 # III - PUNK
@@ -88,3 +88,7 @@ You can make nearby electronics emit static and crackling whispers. These voices
 
 **MASKED**
 You have a mask that you can reshape during rest into the resemblance of another face or mask. At a distance, it fools most.
+
+
+---
+---

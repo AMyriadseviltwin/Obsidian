@@ -1,8 +1,10 @@
 
-### Table of Contents
+### Quick Reference
 - [[#BDY]]
 - [[#DR]]
 - [[#Equip/Equipped]]
+- [[#Fractal gems]]
+- [[#Hauler]]
 - [[#Holos]]
 - [[#HP]]
 - [[#Keelhauling]]
@@ -30,6 +32,14 @@ Defense rating. Represents how good a thing can prevent hits, whether by dodging
 Refers to the items you're currently *holding in your hands* (a gun, a sandwich, a circuit board, etc.) or *wearing on your body* (a jacket, a satchel, mag-boots, etc.)
 
 ---
+#### Fractal gems
+Colloquially known as just "gems". 
+
+---
+#### Hauler
+Space truckers
+
+---
 #### Holos
 Also called holocredits, holocreds, credits, eddies, etc. Most commonly used currency.
 
@@ -47,11 +57,13 @@ Life Support System. Large, convoluted bundles of machinery that supply air, reg
 
 ---
 #### Navvy/Navvies
-Short for navigators. Hardened explorers who journey out to chart the furthest reaches of space, often travel alone. No navvy ever comes back the same as they left. Veterans usually very respected.
+Short for navigators. Hardened explorers who journey out to chart the furthest reaches of space, often alone. Steady sources of tales and rumors of 
+
+No navvy ever comes back the same as they left. Veterans usually very respected.
 
 ---
 #### Oxygen candle
-
+Bulky, canister-like objects with an activa
 
 ---
 #### Shipbreaker
@@ -71,7 +83,7 @@ The Tenebris star, a red giant, and its star system. The brutal and war-torn epi
 
 ---
 #### Voiding
-A known form of torture used by prisons. Involves drugging a person with heavy doses of [[DRUGS|anticphrine]] and left in a pitch-black room with zero-g.
+A known form of torture used by prisons. Involves drugging a person with heavy doses of [[ADDICTIVE SUBSTANCES|anticphrine]] and left in a pitch-black room with zero-g. The experience induces 
 
 ---
 #### Whale
@@ -80,3 +92,9 @@ Code name for emergency response teams working under [[CORPORATIONS#AMBERCOVE|Am
 ---
 ---
 
+
+
+Oxygen
+Water
+Plasma
+Gems

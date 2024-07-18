@@ -23,9 +23,11 @@ All characters have **12 + DEX DR** by default, without armor.
 When a creature drops to **zero HP or less**, they go into **critical state**. 
 
 ### Bodyparts
-Humans have **6** bodyparts: **two arms**, **two legs**, the **torso**, and **head**.
+Creatures usually have **6** bodyparts: **two arms**, **two legs**, **torso**, and **head**. Taking damage 
 
-**Limbs** (arms and legs) each have their own **HP**, totalling the creature's **max HP**.
+
+
+**Limbs** (arms and legs) each have their own HP, totalling the creature's max HP.
 This means **each limb's max HP is 1/4th the creature's max HP, rounded down**.
 
   **Example:**
@@ -143,11 +145,38 @@ This system provides a structured way to incorporate temperature into your game,
 
 
 Temperature (Hot +2, cold -2)
-Food (Full, starving)
-Water (Hydrated, dehydrated)
+Food (Full +2, starving -2)
+Water (Hydrated +2, dehydrated -2)
 Sleep (Well-rested, deprived)
-Oxygen (Breathing, suffocating)
+Oxygen (Breathing 7, suffocating 0)
 
 
 
 # Death
+
+
+
+
+
+---
+---
+
+
+
+
+
+2 systems
+
+Proposal #1:
+
+> Each limb has their own healthbar, totaling 1/4th max HP.
+> Torso represents your actual max HP.
+> 
+
+
+Proposal #2:
+
+> Each bodypart uses your actual max HP.
+> Losing a limb subtracts 1/4th of your MAX HP (not current).
+> Losing your head kills you instantly (lol)
+

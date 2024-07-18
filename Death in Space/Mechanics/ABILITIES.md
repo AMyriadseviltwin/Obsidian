@@ -72,3 +72,6 @@ Perception, intuition, streetsmarts, piloting spacecraft, resisting psychologica
 ### TECH (TEC)
  Ranged attacks, understanding and operating technology, constructing gear, tinkering with machinery and electronics
 
+
+---
+---

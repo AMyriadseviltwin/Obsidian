@@ -19,6 +19,13 @@ The uses value denotes how many actions the weapon can be used without reloading
 
 
 
+---
+---
+
+
+
+
+
 
 
 
