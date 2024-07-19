@@ -10,5 +10,6 @@
   "propertiesInDocument": "visible",
   "promptDelete": false,
   "focusNewTab": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "spellcheck": false
 }

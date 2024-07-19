@@ -11,11 +11,18 @@
 | 4       | Shotguns              | 3             | 2         | 4        | 2d4        | 250      |
 | 5       | Compact rifles        | 3             | 2         | 10       | 1d8        | 300      |
 | 6       | Raid rifles           | 3             | 3         | 10       | 1d10       | 400      |
-| 7       | Marksman barrels      | 3             | 3         | 4        | 1d12       | 500      |
+| 7       | Marksman rifles       | 3             | 3         | 4        | 1d12       | 500      |
 | 8       | Chainguns             | 4             | 6         | 4        | 3d6        | 800      |
 | 9       | Grenades              | -             | 1         | -        | 2d6        | 50       |
 | 10      | Flamethrowers         | 4             | 5         | 3        | 3d6        | 700      |
-The uses value denotes how many actions the weapon can be used without reloading. It must then be reloaded with a new ammo clip, which requires one action.
+The uses value denotes how many actions the weapon can be used without reloading. It must then be reloaded with a new ammo magazine, which requires one action.
+
+
+
+---
+---
+
+
 
 
 

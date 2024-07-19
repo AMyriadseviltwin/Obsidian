@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"41be181ef68b5f62","type":"text","text":"","x":-460,"y":-860,"width":880,"height":1080,"color":"#ffffff"},
+		{"id":"3acf62d28e2d6f65","type":"text","text":"# DEATH IN SPACE\n*SECTION I - INFORMATION*","x":-460,"y":-860,"width":340,"height":140,"color":"#ffffff"},
+		{"id":"97e64ebe35c95b8e","type":"text","text":"","x":520,"y":-880,"width":900,"height":1100,"color":"#ffffff"},
+		{"id":"6450708cbb6782f1","type":"text","text":"# DEATH IN SPACE\n*SECTION II - STATUS*","x":540,"y":-860,"width":320,"height":100,"color":"#ffffff"},
+		{"id":"3e60f680e1d830f7","type":"text","text":"###### DATA SHEET V0.01\n## ID - \"Breacher\"","x":880,"y":-860,"width":520,"height":80},
+		{"id":"d44dbeef855cab1e","type":"text","text":"","x":1520,"y":-880,"width":900,"height":1100,"color":"#ffffff"},
+		{"id":"05c6b13925e783e7","type":"text","text":"# DEATH IN SPACE\n*SECTION III - BELONGINGS*","x":1540,"y":-860,"width":320,"height":100,"color":"#ffffff"},
+		{"id":"8ca5f0ca3bf93ee7","type":"text","text":"###### DATA SHEET V0.01\n## ID - \"Breacher\"","x":1880,"y":-860,"width":520,"height":80},
+		{"id":"8fec8e8b3c1ccbae","type":"text","text":"###### PERSONAL DATA SHEET V1.16\n# --{\"Breacher\"}--\n##### --{lad}--","x":-120,"y":-860,"width":540,"height":140},
+		{"id":"1de0d1fe79ef2f89","type":"text","text":"# ORIGIN\n**[ORIGIN]**\n[Origin summary text]\n\n[ORIGIN BENEFIT]","x":-460,"y":-620,"width":340,"height":190},
+		{"id":"94939069cf17a6f7","type":"text","text":"## MAX HP:  50\n\n## CURRENT HP: 50/50\n\n","x":15,"y":-595,"width":365,"height":140}
+	],
+	"edges":[]
+}

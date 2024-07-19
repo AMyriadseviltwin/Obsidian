@@ -1,33 +1,99 @@
 
 ---
 
-~~*MEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTORMORIMEM*~~
 ![[astronaut_shatter.png]]
-*~~ENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTO~~*
 
 ---
 
 # Life
 
-### Health Points and Defense Rating
-All living things have **health point (HP)** and **defense rating (DR)** values.
+Life has three prerequisites: **Health Points**, **Limb Health**, and **Defense Rating**.
 
-> HP signifies how much damage a thing can take before breaking or dying.
+### Health Points
+**Health Points** (**HP**) represents how much damage a thing can physically take before death.
 
-> DR signifies how good a thing can prevent hits, whether by dodging the attack or by being too durable to be affected.
 
+
+
+
+
+
+### HP and DR
+All creatures have an amount of **Health Points** (**HP**) and **Defense Rating** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All creatures have **health point (HP)** and **defense rating (DR)** values.
+
+> HP represents how much damage a thing can take before breaking or dying.
+
+> DR represents how good a thing can prevent hits, whether by dodging the attack or by being too durable to be affected.
+
+###### Starting values
 New characters start with **1d8 maximum HP**. When you rest, you recover **1d8 + BDY**.
 All characters have **12 + DEX DR** by default, without armor.
+###### Critical state
+When a creature drops to **zero HP or less**, they go into **critical state**. 
+
+### Bodyparts
+Creatures usually have **6** bodyparts: **two arms**, **two legs**, **torso**, and **head**. Taking damage 
 
 
+
+**Limbs** (arms and legs) each have their own HP, totalling the creature's max HP.
+This means **each limb's max HP is 1/4th the creature's max HP, rounded down**.
+
+  **Example:**
+- *Max HP:* 37
+- *Limb Max HP:* 37 / 4 = 9.25 ≈ 9
+
+D
+
+Limbs are also harder to hit **(+1 DR)** with ranged attacks, owing to the skill needed to hit a specific bodypart.
+
+**When a limb takes damage it does not affect the creature's max HP**. But if the limb's HP is reduced to zero, it becomes broken or **dismembered**.
+
+
+### Dismemberment
+While your limbs may be harder to hit, losing one will heavily cripple you!
+
+> Losing an **arm** 
 
 
 
 
 # Survival
 
-Humans need 5 
-
+Humans have 5 **basic needs** they require to survive:
+> - Oxygen
+> - Temperature
+> - Sleep
+> - Food
+> - Water
 
 
 
@@ -119,12 +185,39 @@ This system provides a structured way to incorporate temperature into your game,
 
 
 
-Temperature (Hot +3, cold -3)
-Food (Full, starving)
-Water (Hydrated, dehydrated)
+Temperature (Hot +2, cold -2)
+Food (Full +2, starving -2)
+Water (Hydrated +2, dehydrated -2)
 Sleep (Well-rested, deprived)
-Oxygen ()
+Oxygen (Breathing 7, suffocating 0)
 
 
 
 # Death
+
+
+
+
+
+---
+---
+
+
+
+
+
+2 systems
+
+Proposal #1:
+
+> Each limb has their own healthbar, totaling 1/4th max HP.
+> Torso represents your actual max HP.
+> Losing your head kills you instantly (lol)
+
+
+Proposal #2:
+
+> Each bodypart uses your actual max HP.
+> Losing a limb subtracts 1/4th of your MAX HP (not current).
+> Losing your head kills you instantly (lol)
+
