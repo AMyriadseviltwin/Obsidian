@@ -30,9 +30,33 @@ Use this button to start, then copy + paste in the template! (Delete this sectio
 
 	Section I - Info
 
+
+Logo    Name
+             Portrait
+Origin           DR
+Origin benefit   HP/Max HP
+
+BODY
+DEXTERITY
+SAVVY
+TEC
+
+
+
 NAME
 ORIGIN
 Origin benefit
+
+Background
+Drive
+Fear
+Looks
+Past allegiance
+Portrait
+
+Abilities
+DR
+HP
 
 
 

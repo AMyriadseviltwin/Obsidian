@@ -33,14 +33,14 @@
 
 | **CYBERWARE**             | **DESCRIPTION**                                                                                                                                             | **LICENSE**           | **CONDITION** | **PRICE** |
 | :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------- | ------------: | --------: |
-| Diagnostic HUD Optics     | Biomechanical eyes. Provides a passive diagnostic HUD, enabling user to see HP percentage of any complex machine, and status of airlocks above their frame. | Carthage Industries   |             3 |           |
-| Health HUD Optics         | Biomechanical eyes. Provides passive health HUD, enabling user to see the HP percentage of any living thing above their head.                               | Haimatsu Technologies |             3 |           |
-| Integrated NVG Optics     | Biomechanical eyes. Provides toggled night vision, enabling user to see perfectly well in darkness within 45m.                                              | Licome & Mercury      |             3 |           |
-| Integrated Thermal Optics | Biomechanical eyes. Provides toggled thermal vision, enabling user to see any heat signatures, through terrain, within 30m.                                 | NanoTrasen            |             4 |           |
-| Mandala™ Non-phys Optics  | Integrated non-phys HMD. Comes with extendable cable at either front or back of head.                                                                       | Azimuth               |             3 |           |
-| Meson Vision Optics       | Biomechanical eyes. Provides toggled meson vision, enabling user to see completely through non-living structures within 45m.                                | Golem Automatics      |             3 |           |
+| Diagnostic HUD Optics     | Biomechanical eyes. Provides a passive diagnostic HUD, enabling user to see HP percentage of any complex machine, and status of airlocks above their frame. | Carthage Industries   |             3 |       650 |
+| Health HUD Optics         | Biomechanical eyes. Provides passive health HUD, enabling user to see the HP percentage of any living thing above their head.                               | Haimatsu Technologies |             3 |       650 |
+| Integrated NVG Optics     | Biomechanical eyes. Provides toggled night vision, enabling user to see perfectly well in darkness within 45m.                                              | Licome & Mercury      |             3 |       700 |
+| Integrated Thermal Optics | Biomechanical eyes. Provides toggled thermal vision, enabling user to see any heat signatures, through terrain, within 30m.                                 | NanoTrasen            |             4 |      2500 |
+| Mandala™ Non-phys Optics  | Integrated non-phys HMD. Comes with extendable cable at either front or back of head.                                                                       | Azimuth               |             3 |       600 |
+| Meson Vision Optics       | Biomechanical eyes. Provides toggled meson vision, enabling user to see completely through non-living structures within 45m.                                | Golem Automatics      |             3 |       650 |
 | OptiFines™                | Biomechanical eyes. Improves sight.                                                                                                                         | Azimuth               |             2 |       300 |
-| WeldSafe Optics           | Biomechanical eyes. Dampens and protects from sources of bright lights, giving user welding protection, among other benefits.                               | Golem Automatics      |             2 |           |
+| WeldSafe Optics           | Biomechanical eyes. Dampens and protects from sources of bright lights, giving user welding protection, among other benefits.                               | Golem Automatics      |             2 |       450 |
 
 # ARMS {^2}
 

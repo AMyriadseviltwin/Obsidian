@@ -35,7 +35,10 @@ Choose your allies, and enemies, wisely.
 |     | Known for<br>- Search and rescue<br>- Emergency aid<br>- Distress signal dispatch |     |
 
 > **DATA**
-> Search and rescue corporation working in conjunction with local med centers across space. Answers most distress signals inside and outside of the Tenebris system. Its well-trained crews, known as "whales", are famous for never letting a catch go. These crews famously consist mostly of ex-navvies, veterans who have become quite formidable from their experiences in deep space. Yet, in some corners, there are rumors that some of the more disgruntled whales aren't above causing a few of the accidents themselves, cashing in bigger bonuses for the fees the clients are forced to pay. 
+> Search and rescue corporation working in conjunction with local med centers across space. Answers most distress signals inside and outside of the Tenebris system.
+> 
+> Its well-trained crews, known as "whales", are famous for never letting a catch go.
+> These crews famously consist mostly of ex-navvies, hardened veterans who know how to get a job done from their experiences in deep space. Yet, in some corners, there are rumors that some of the more disgruntled whales aren't above causing a few of the accidents themselves, cashing in bigger bonuses for the fees the clients are forced to pay. 
 
 
 
@@ -51,7 +54,9 @@ Choose your allies, and enemies, wisely.
 |     | **The Asp Foundation**<br>Known for<br>- Mapping<br>- Navigation data<br>- Astronomy research |     |
 
 > **DATA**
-> S
+> Originally a nonprofit dedicated to storing navigation data and maps of charted space. Eventually began selling this data to navvies, crews, other corps, to much success.
+> 
+> Nowadays, most nav systems onboard ships are designed and manufactured by Asp, as they're considered the best in class. Up until the decay, they also financed several large expeditions into deep space, as well as countless astronomical studies. Many of which are still ongoing to this day, despite the corporation's leadership going completely radio silent since then.
 
 
 
@@ -67,6 +72,11 @@ Choose your allies, and enemies, wisely.
 | :-: | :--------------------------------------------------------------------- | :-: |
 |     | **Azimuth LLC**                                                        |     |
 |     | Known for<br>- Non-phys technology<br>- Non-phys worlds<br>- Computers |     |
+
+> **DATA**
+> Started out as a small computer tech firm, before eventually branching out into non-phys technology and simulations.
+
+
 
 > Notes:
 > 

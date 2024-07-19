@@ -1,15 +1,52 @@
 
 ---
 
-~~*MEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTORMORIMEM*~~
 ![[astronaut_shatter.png]]
-*~~ENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTOMORIMEMENTO~~*
 
 ---
 
 # Life
 
-### Health Points and Defense Rating
+Life has three prerequisites: **Health Points**, **Limb Health**, and **Defense Rating**.
+
+### Health Points
+**Health Points** (**HP**) represents how much damage a thing can physically take before death.
+
+
+
+
+
+
+
+### HP and DR
+All creatures have an amount of **Health Points** (**HP**) and **Defense Rating** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 All creatures have **health point (HP)** and **defense rating (DR)** values.
 
 > HP represents how much damage a thing can take before breaking or dying.
@@ -51,8 +88,12 @@ While your limbs may be harder to hit, losing one will heavily cripple you!
 
 # Survival
 
-
-
+Humans have 5 **basic needs** they require to survive:
+> - Oxygen
+> - Temperature
+> - Sleep
+> - Food
+> - Water
 
 
 
@@ -171,7 +212,7 @@ Proposal #1:
 
 > Each limb has their own healthbar, totaling 1/4th max HP.
 > Torso represents your actual max HP.
-> 
+> Losing your head kills you instantly (lol)
 
 
 Proposal #2:

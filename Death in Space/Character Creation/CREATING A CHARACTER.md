@@ -19,7 +19,7 @@ Follow these steps in order, filling out the corresponding sections on your char
 
 #### III - Establish your [[CHARACTER DETAILS]]
 
-#### IV - Determine your [[LIFE AND DEATH#Health Points and Defense Rating|MAX HP, LIMB HP, AND DR]]
+#### IV - Determine your [[LIFE AND DEATH#Health Points and Defense Rating|MAX HP AND DR]]
 
 #### V - Starting gear
 

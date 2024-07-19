@@ -1,8 +1,8 @@
-# Hack Mechanics
+# Mechanics
 
 Hacking has three prerequisites: **Hack Points**, **Hardware**, and **Hacks**.
 
-# Hack Points
+### Hack Points
 **Hack Points** (**HkP**) measure your character's technical ability and mental stamina.
 A character's max **HkP** is equal to **2 + TEC**. If your **HkP** pool total is zero or less, you cannot perform hacks.
 
