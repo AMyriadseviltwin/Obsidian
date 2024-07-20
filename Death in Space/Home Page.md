@@ -38,7 +38,7 @@
 ###### If this is your first time here, welcome! For the sake of understanding the world this game takes place in, I recommend you first read the [[INTRODUCTION]].
 
 
-######                ...and don't forget to have a lovely DEATH IN SPACE.
+######                      ...and have a lovely DEATH IN SPACE.
 
 
 ---
