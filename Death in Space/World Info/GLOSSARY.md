@@ -70,6 +70,10 @@ Bulky, canister-like objects with an activa
 Nickname for those who break apart ships for parts and salvage, known for its decent mortality rate due to hazards involved. Most shipbreakers in Tenebris either work or have worked for [[CORPORATIONS#HEPHAESTUS SHIPWORKS|Hephaestus Shipworks]].
 
 ---
+#### Supermatter jockey
+Term 
+
+---
 #### SVY
 Savvy. Ability that represents your mental capacity: logic, recalling info, talking with people, perception, and piloting vehicles.
 

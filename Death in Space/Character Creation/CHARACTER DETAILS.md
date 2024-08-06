@@ -5,7 +5,6 @@ Consider your character, your creation, as an extension of you. They are yours t
 Take inspiration from the tables below to give your character a **background**, **drive**, **looks**, and **past allegiance**. Decide for yourself what you want to include, or roll a d20 to choose something random. Then finally, give your character a **name**. It will not save them.
 
 
-
 ## BACKGROUND                    DRIVE
 
 | **D20** |                                                         |     |     |     | **D20** |                                                                                                                     |
@@ -31,61 +30,33 @@ Take inspiration from the tables below to give your character a **background**, 
 |   19    | Deep field welder                                       |     |     |     |   19    | To never lose                                                                                                       |
 |   20    | Navvy [[GLOSSARY#Navvy/Navvies\|(i)]]                   |     |     |     |   20    | Inner peace                                                                                                         |
 
-## FEAR
+## FEAR                    LOOKS
 
-| **D20** |                                |     |     |
-| :-----: | ------------------------------ | --- | --- |
-|    1    | Losing loved ones              |     |     |
-|    2    | Someone you have met           |     |     |
-|    3    | Someone you don't want to meet |     |     |
-|    4    | A kind of animal               |     |     |
-|    5    | Being poor                     |     |     |
-|    6    | Responsibility                 |     |     |
-|    7    | Heights                        |     |     |
-|    8    | Whatever a "communist" is      |     |     |
-|    9    | Returning home                 |     |     |
-|   10    | Black holes                    |     |     |
-|   11    |                                |     |     |
-|   12    | Asphyxiation                   |     |     |
-|   13    |                                |     |     |
-|   14    | Being alone                    |     |     |
-|   15    |                                |     |     |
-|   16    | The dark                       |     |     |
-|   17    |                                |     |     |
-|   18    | Being forgotten                |     |     |
-|   19    |                                |     |     |
-|   20    | Death                          |     |     |
-
-
+| **D20** |                                                            |     |     |     | **D20** |                                                                                 |
+| :-----: | ---------------------------------------------------------- | --- | --- | --- | ------- | ------------------------------------------------------------------------------- |
+|    1    | Losing loved ones                                          |     |     |     | 1       | Flamboyant robes in reflective materials                                        |
+|    2    | Someone you have met                                       |     |     |     | 2       | Torn, old space dock jacket                                                     |
+|    3    | Someone you don't want to meet                             |     |     |     | 3       | Foreign, realistic tattoos                                                      |
+|    4    | Creatures                                                  |     |     |     | 4       | Filthy, dark makeup                                                             |
+|    5    | Poverty                                                    |     |     |     | 5       | Undersized hologlasses                                                          |
+|    6    | Responsibility                                             |     |     |     | 6       | Perfectly weathered clothes                                                     |
+|    7    | Heights                                                    |     |     |     | 7       | Botany patches on arms and back saying "I <3 plants"                            |
+|    8    | Whatever a "communist" is                                  |     |     |     | 8       | Fashionable interstellar clothes                                                |
+|    9    | Returning home                                             |     |     |     | 9       | Overtly clean civilian clothes                                                  |
+|   10    | Black holes                                                |     |     |     | 10      | Bags and pockets everywhere for everything but never anything important in them |
+|   11    | Asphyxiation                                               |     |     |     | 11      | Layers of black fabric, wrapped loosely                                         |
+|   12    | Faithlessness                                              |     |     |     | 12      | Robotic hands/arms                                                              |
+|   13    | Being alone                                                |     |     |     | 13      | 1d6 bullet scars, 1d4 scars from slashing weapons, 1d4 metal fragments          |
+|   14    | The thing mimicking your friend's voice down the hall      |     |     |     | 14      | Asymmetric, patterned hood                                                      |
+|   15    | Cryostasis malfunction                                     |     |     |     | 15      | Antique space gloves                                                            |
+|   16    | The dark                                                   |     |     |     | 16      | Boots, no shirt, hazard pants                                                   |
+|   17    | A slow death by (d2):<br>1. Hypothermia<br>2. Hyperthermia |     |     |     | 17      | Trucker cap with patch                                                          |
+|   18    | Being forgotten                                            |     |     |     | 18      | Necklace with odd animal skulls                                                 |
+|   19    | Artificial intelligence                                    |     |     |     | 19      | Decorated cape                                                                  |
+|   20    | Death                                                      |     |     |     | 20      | Suit with holographic patterns                                                  |
 
 
-
-## Looks
-| **D20** |                                                                                 |
-| ------- | ------------------------------------------------------------------------------- |
-| 1       | Flamboyant robes in reflective materials                                        |
-| 2       | Torn, old space dock jacket                                                     |
-| 3       | Foreign, realistic tattoos                                                      |
-| 4       | Filthy, dark makeup                                                             |
-| 5       | Undersized hologlasses                                                          |
-| 6       | Perfectly weathered clothes                                                     |
-| 7       | Botany patches on arms and back saying "I <3 plants"                            |
-| 8       | Fashionable interstellar clothes                                                |
-| 9       | Overtly clean civilian clothes                                                  |
-| 10      | Bags and pockets everywhere for everything but never anything important in them |
-| 11      | Layers of black fabric, wrapped loosely                                         |
-| 12      | Robotic hands/arms                                                              |
-| 13      | 1d6 bullet scars, 1d4 scars from slashing weapons, 1d4 metal fragments          |
-| 14      | Asymmetric, patterned hood                                                      |
-| 15      | Antique space gloves                                                            |
-| 16      | Boots, no shirt, hazard pants                                                   |
-| 17      | Trucker cap with patch                                                          |
-| 18      | Necklace with odd animal skulls                                                 |
-| 19      | Decorated cape                                                                  |
-| 20      | Suit with holographic patterns                                                  |
-
-
-## Past Allegiance
+## PAST ALLEGIANCE
 Some still wear their war uniforms, while others do all they can to forget. Roll or decide your **allegiance** during the Gem War. Who are you today, and what happens when you are pushed about the past?
 
 | **D6** |                                                                                                                                                               |

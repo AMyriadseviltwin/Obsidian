@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d176dcc11ab32170",
+        "id": "6f2fba9861667376",
         "type": "tabs",
         "children": [
           {
-            "id": "bdfd6327613fd7f1",
+            "id": "8bb2838a85c85014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42a36d98aad71882",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,39 +161,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdfd6327613fd7f1",
+  "active": "42a36d98aad71882",
   "lastOpenFiles": [
-    "Character Sheets/DATA SHEETS.canvas",
-    "Mechanics/ABILITIES.md",
-    "Mechanics/CONDITION AND PARTS.md",
-    "Mechanics/WEAPONS.md",
-    "World Info/CORPORATIONS.md",
     "Home Page.md",
-    "Shopping/CYBERNETICS.md",
-    "Mechanics/HACKING.md",
     "World Info/INTRODUCTION.md",
-    "Mechanics/CHEATSHEET.png",
-    "Shopping/ADDICTIVE SUBSTANCES.md",
-    "Mechanics/LIFE AND DEATH.md",
-    "Character Creation/CHARACTER DETAILS.md",
-    "Character Creation/CREATING A CHARACTER.md",
-    "Character Creation/ORIGINS.md",
-    "Character Sheets/DATA SHEET TEMPLATE.md",
-    "Mechanics/COMBAT/ACTIONS.canvas",
-    "Shopping/GENERAL PRICES.md",
-    "World Info/GLOSSARY.md",
-    "World Info/THE TENEBRIS SYSTEM.md",
-    "Mechanics/COMBAT/GROUND COMBAT.md",
-    "World Info/Origins (WIP)/SOLPOD (WIP).md",
-    "Images/Background Art/bg_116trillionyears.png",
-    "Images/Stellar Bodies/gliess_gallo.png",
-    "Images/Stellar Bodies/inauro.png",
-    "Images/Stellar Bodies/chrysalis.png",
-    "Images/Stellar Bodies/amissa.png",
+    "World Info/CORPORATIONS.md",
     "Images/Stellar Bodies/ogre.png",
     "Images/Stellar Bodies/lliad.png",
-    "Images/Stellar Bodies/lepidoptera.png",
+    "Images/action_point.png",
+    "Character Creation/Origins.md",
+    "Mechanics/LIFE AND DEATH.md",
+    "Shopping/ADDICTIVE SUBSTANCES.md",
+    "Mechanics/CONDITION AND PARTS.md",
+    "Mechanics/ABILITIES.md",
+    "Mechanics/CHEATSHEET.png",
+    "Mechanics/HACKING.md",
+    "World Info/THE TENEBRIS SYSTEM.md",
+    "Images/Stellar Bodies/inauro.png",
     "Images/Stellar Bodies/lacrimosa.png",
+    "Images/Stellar Bodies/lepidoptera.png",
+    "Images/Stellar Bodies/gliess_gallo.png",
+    "Images/Stellar Bodies/chrysalis.png",
+    "Images/Stellar Bodies/amissa.png",
+    "Character Creation/CREATING A CHARACTER.md",
+    "Character Creation/CHARACTER DETAILS.md",
+    "Mechanics/COMBAT/ACTIONS.canvas",
+    "Mechanics/COMBAT/GROUND COMBAT.md",
+    "Mechanics/WEAPONS.md",
+    "Shopping/CYBERNETICS.md",
+    "Shopping/GENERAL PRICES.md",
+    "World Info/GLOSSARY.md",
+    "Character Sheets/DATA SHEETS.canvas",
+    "Character Sheets/DATA SHEET TEMPLATE.md",
+    "Character Creation/ORIGINS.md",
+    "World Info/Origins (WIP)/SOLPOD (WIP).md",
     "Character Creation/Legacy Origins.md",
     "Untitled.canvas",
     "Images/Stellar Bodies",
@@ -188,7 +202,6 @@
     "World Info/Origins (WIP)/PUNK (WIP).md",
     "World Info/Origins (WIP)/VELOCITY CURSED (WIP).md",
     "World Info/Origins (WIP)/APOSTLE (WIP).md",
-    "World Info/Origins (WIP)/CARBON (WIP).md",
     "World Info/Origins (WIP)",
     "Mechanics/Combat/ACTIONS.canvas",
     "Mechanics/Combat",

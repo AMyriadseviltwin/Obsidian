@@ -56,17 +56,7 @@
 
 ## IT HAS BEEN AGES
 
-
-
-
-The age when we took our first steps unto the final frontier has become lost to us.
-
-
-
-
-
-
-
+Civilization is old. 
 
 
 

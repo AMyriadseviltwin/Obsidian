@@ -5,13 +5,10 @@
 
 ---
 
-Your origin is the base of your character. 
+Your origin represents the core archetype of your character. It can be be anything from a bioengineered species to someone with opinions and a mohawk. 
 
 
-It rept can be be anything from a bioengineered species to someone with opinions and a mohawk.
 
-
-Starting from our* description, decide on how you want to interpret yours and how you fit into the setting. Be creative!
 
 Choose your origin or roll a d6 to choose on randomly. Then pick one of the two benefits.
 
@@ -53,7 +50,6 @@ You'd rather die than give up. Reroll any dice roll once per session.
 You know everything about plants and what to use them for. You start with a pocket greenhouse and some random seeds.
 
 **CUSTOM-BUILT**
-
 
 
 # IV - SOLPOD
