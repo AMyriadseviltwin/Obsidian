@@ -52,11 +52,14 @@
 
 
 
+
 ---
 
 ## IT HAS BEEN AGES
 
 Civilization is old. 
+
+Human civilization is old. The years when 
 
 
 

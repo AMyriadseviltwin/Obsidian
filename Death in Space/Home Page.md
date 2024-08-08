@@ -35,10 +35,10 @@
 > **World Info** - LORE. Here you can read about things people in the world of Space would consider common knowledge. Information on [[CORPORATIONS|factions]], [[THE TENEBRIS SYSTEM|locations]], and [[GLOSSARY|terminology]] f.ex. may be found here.
 
 
-###### If this is your first time here, welcome! For the sake of understanding the world this game takes place in, I recommend you first read the [[INTRODUCTION]].
+###### If this is your first time here, welcome! For the sake of understanding the world this game takes place in, I strongly recommend you first read the [[INTRODUCTION]].
 
 
-######                      ...and have a lovely DEATH IN SPACE.
+######                      ...and have a lovely DEATH IN SPACE :}
 
 
 ---
