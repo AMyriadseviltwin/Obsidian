@@ -1,8 +1,8 @@
-In the world of Death in Space, there are no governments like those in the present. The democracies, theocracies, and autocracies of old have been phased out long ago through war and time and economic collapse.
+In the world of Death in Space, there are no large governments like those in the present. The democracies, theocracies, and autocracies of old have been phased out long ago through war and time and economic collapse.
 
 Before the Decay, corporations sold product to consumers for profit. With this profit, they invested in their enterprise, their territory, and by extension, their clients, customers, and employees. Thus, corporations have provided protection and infrastructure for those living within its spheres of influence. This was the way society in Space worked up until the end of the war.
 
-Now, civilized space is in shambles, a direct consequence of the war. Corporations retreat to their home systems to gather strength, their forces decimated and the markets in a freefall. Others stay in Tenebris in a brazen or desperate attempt to salvage the remains of their corporate empires. Because of this, local governments, militias, cults, and crime groups have risen up to reclaim territory for their own, or replace their absent far-off rulers in a desperate bid to maintain order.
+Now, civilized space is in shambles, a direct consequence of the war. Corporations retreat to their home systems to gather strength, their forces decimated and the markets in a freefall. Others stay in Tenebris in a brazen or desperate attempt to salvage the remains of their corporate empires. Because of this, local idealist-movements, militias, cults, and crime syndicates have risen up to reclaim territory for their own, or replace their absent far-off rulers in a desperate bid to maintain order.
 
 Choose your allies, and enemies, wisely.
 
@@ -35,7 +35,7 @@ Choose your allies, and enemies, wisely.
 |     | Known for<br>- Search and rescue<br>- Emergency aid<br>- Distress signal dispatch |     |
 
 > **DATA**
-> Search and rescue corporation working in conjunction with local med centers across space. Answers most distress signals inside and outside of the Tenebris system.
+> Search and rescue corporation working in conjunction with local med centers across space. Answers most distress signals inside and outside of the Tenebris system - for a price.
 > 
 > Its well-trained crews, known as "whales", are famous for never letting a catch go.
 > These crews famously consist mostly of ex-navvies, hardened veterans who know how to get a job done from their experiences in deep space. Yet, in some corners, there are rumors that some of the more disgruntled whales aren't above causing a few of the accidents themselves, cashing in bigger bonuses for the fees the clients are forced to pay. 

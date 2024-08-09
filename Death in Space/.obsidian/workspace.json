@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34be26cd70b3c487",
+            "id": "6f143684102687b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,19 @@
             }
           },
           {
-            "id": "5bbe384f0c83ee23",
+            "id": "60cb7510611ee466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Info/GLOSSARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc300f52d5186c76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +42,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ddc49f14a9063b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shopping/ADDICTIVE SUBSTANCES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74a9204282c3beb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/LIFE AND DEATH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88d1f02fe41ac2ca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Close Art/cyber_optics.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Info/INTRODUCTION.md",
+                "file": "Images/Close Art/cyber_optics.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Info/INTRODUCTION.md",
+                "file": "Images/Close Art/cyber_optics.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Info/INTRODUCTION.md"
+                "file": "Images/Close Art/cyber_optics.png"
               }
             }
           }
@@ -161,21 +207,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bbe384f0c83ee23",
+  "active": "88d1f02fe41ac2ca",
   "lastOpenFiles": [
-    "Home Page.md",
+    "Mechanics/LIFE AND DEATH.md",
+    "Mechanics/WEAPONS.md",
+    "Mechanics/CONDITION AND PARTS.md",
+    "Mechanics/HACKING.md",
+    "Mechanics/ABILITIES.md",
+    "Mechanics/CHEATSHEET.png",
+    "Shopping/ADDICTIVE SUBSTANCES.md",
     "World Info/INTRODUCTION.md",
+    "World Info/GLOSSARY.md",
+    "Home Page.md",
     "World Info/CORPORATIONS.md",
     "Images/Stellar Bodies/ogre.png",
     "Images/Stellar Bodies/lliad.png",
     "Images/action_point.png",
     "Character Creation/Origins.md",
-    "Mechanics/LIFE AND DEATH.md",
-    "Shopping/ADDICTIVE SUBSTANCES.md",
-    "Mechanics/CONDITION AND PARTS.md",
-    "Mechanics/ABILITIES.md",
-    "Mechanics/CHEATSHEET.png",
-    "Mechanics/HACKING.md",
     "World Info/THE TENEBRIS SYSTEM.md",
     "Images/Stellar Bodies/inauro.png",
     "Images/Stellar Bodies/lacrimosa.png",
@@ -187,10 +235,8 @@
     "Character Creation/CHARACTER DETAILS.md",
     "Mechanics/COMBAT/ACTIONS.canvas",
     "Mechanics/COMBAT/GROUND COMBAT.md",
-    "Mechanics/WEAPONS.md",
     "Shopping/CYBERNETICS.md",
     "Shopping/GENERAL PRICES.md",
-    "World Info/GLOSSARY.md",
     "Character Sheets/DATA SHEETS.canvas",
     "Character Sheets/DATA SHEET TEMPLATE.md",
     "Character Creation/ORIGINS.md",

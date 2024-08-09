@@ -57,9 +57,17 @@
 
 ## IT HAS BEEN AGES
 
+Human civilization is old. In this time, most lives are lived in outer space; on stations, satellites, and space craft. 
+
+
+It is an era , humbled by the past few 
+
+
 Civilization is old. 
 
-Human civilization is old. The years when 
+Human civilization is old. The years when we first left to the stars are lost to us. Wars and colonial 
+
+
 
 
 
