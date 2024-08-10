@@ -11,5 +11,7 @@
   "promptDelete": false,
   "focusNewTab": true,
   "showRibbon": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "livePreview": true,
+  "defaultViewMode": "source"
 }

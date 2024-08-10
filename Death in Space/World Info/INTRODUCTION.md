@@ -101,5 +101,5 @@ Holos may be what you use to pay for your daily dose of moonshine, but the real 
 
 
 ## THE NEW GOLDS
-
+Plasma, fractal gems, 
 
