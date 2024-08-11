@@ -5,7 +5,17 @@
 
 ---
 
-# Turns and Actions
+# COMBAT ROUNDS
+
+Combat is structured into rounds, representing about **10 seconds** of in-game time. In a round, each participant takes one turn, where they receive **3 Action Points** they may spend on a different **Actions**.
+
+### Initiative
+The one who initiates the conflict begins the first combat round. If unclear, determine randomly.
+
+
+
+
+
 
 Much like other games, combat in Space is structured into rounds, where everyone involved in the fight takes 1 turn every round. Each round represents about 10 seconds of in-game time, meaning 1 minute = 10 rounds. On your turn, you have time to perform one and a half actions, and move up to 15 meters (3 tiles).
 
