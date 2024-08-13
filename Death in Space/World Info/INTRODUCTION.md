@@ -57,15 +57,8 @@
 
 ## IT HAS BEEN AGES
 
-Human civilization is old. In this time, most lives are lived in outer space; on stations, satellites, and space craft. 
+Human civilization is old. In this time, most lives are lived in outer space; on stations, satellites, and space craft. (Cont.)
 
-
-It is an era , humbled by the past few 
-
-
-Civilization is old. 
-
-Human civilization is old. The years when we first left to the stars are lost to us. Wars and colonial 
 
 
 
@@ -82,24 +75,24 @@ Human civilization is old. The years when we first left to the stars are lost to
 
 
 ## THE WAR WITH NO WINNERS
-A century ago, explorers found a new form of gemstone in the desolate Tenebris system.
+A century ago, explorers found a new form of gemstone in the desolate Tenebris system. (Cont.)
 
 
 
 
 ## THE DECAY OF CENTRAL RULE
-When the war ended, entire star systems became isolated and without purpose.
+When the war ended, entire star systems became isolated and without purpose. (Cont.)
 
 
 
 ## A STATIC PERMEATES ALL ELECTRONICS
-It's always there these days.
+It's always there these days. (Cont.)
 
 
 ## REPUTATION IS THE NEW LAW
-Holos may be what you use to pay for your daily dose of moonshine, but the real currency is contracts.
+Holos may be what you use to pay for your daily dose of moonshine, but the real currency is contracts. (Cont.)
 
 
 ## THE NEW GOLDS
-Plasma, fractal gems, 
+In the vast expanse of space, deposits of valuable resources can be scarce. While holos and contracts are popular in deals and trades, the substances needed for survival and travel are far more valuable. Among these, *oxygen*, *ice*, *plasma*, and the extremely rare *fractal gems*stand out as the most essential resources. (Cont.)
 

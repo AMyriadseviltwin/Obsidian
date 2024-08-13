@@ -21,6 +21,39 @@ In Death in Space there are four groups of abilities: **BODY (BDY)**, **DEXTERIT
 
 
 
+
+BODY
+Grit
+Authority
+
+DEXTERITY
+Interfacing
+
+
+
+SAVVY
+Botany
+Piloting
+Memory
+Charisma
+
+
+TECH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Grit - Stamina, resisting pain and g-forces, willpower
 Presence - Intimidation, confidence, projection of power
 

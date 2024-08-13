@@ -13,40 +13,7 @@ Life has three prerequisites: **Health Points**, **Limb Health**, and **Defense 
 **Health Points** (**HP**) represents how much damage a thing can physically take before death.
 
 
-
-
-
-
-
 ### HP and DR
-All creatures have an amount of **Health Points** (**HP**) and **Defense Rating** 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 All creatures have **health point (HP)** and **defense rating (DR)** values.
 
 > HP represents how much damage a thing can take before breaking or dying.
@@ -70,8 +37,6 @@ This means **each limb's max HP is 1/4th the creature's max HP, rounded down**.
   **Example:**
 - *Max HP:* 37
 - *Limb Max HP:* 37 / 4 = 9.25 ≈ 9
-
-D
 
 Limbs are also harder to hit **(+1 DR)** with ranged attacks, owing to the skill needed to hit a specific bodypart.
 

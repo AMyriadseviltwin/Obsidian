@@ -37,7 +37,7 @@ Colloquially known as just "gems".
 
 ---
 #### Hauler
-Space truckers
+Space truckers.
 
 ---
 #### Holos
@@ -63,7 +63,7 @@ No navvy ever comes back the same as they left. Veterans usually very respected.
 
 ---
 #### Oxygen candle
-Bulky, canister-like objects with an activa
+Bulky, canister-like object, (Cont.)
 
 ---
 #### Shipbreaker
@@ -71,7 +71,7 @@ Nickname for those who break apart ships for parts and salvage, known for its de
 
 ---
 #### Supermatter jockey
-Term 
+Term for often unhinged workers tasked with diving into the event horizon of black holes to collect "super-matter", a substance used to power gravity generators. (Cont.)
 
 ---
 #### SVY
@@ -96,9 +96,3 @@ Code name for emergency response teams working under [[CORPORATIONS#AMBERCOVE|Am
 ---
 ---
 
-
-
-Oxygen
-Water
-Plasma
-Gems

@@ -7,18 +7,14 @@
 ---
 
 # Harder, Better, Faster, Stronger
-
+(Cont.)
 
 ### Installing cyberware
-
+(Cont.)
 
 
 ### Removing cyberware
-
-
-
-
-
+(Cont.)
 
 
 # HEAD {^2}
