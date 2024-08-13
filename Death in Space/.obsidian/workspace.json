@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e833535e8611691",
+        "id": "2e604ba787e26b89",
         "type": "tabs",
         "children": [
           {
-            "id": "197b70caca9b64d7",
+            "id": "d7938fe9afc93caf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22ee696fbca458a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/CHARACTER DETAILS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66518accfaf37b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shopping/ADDICTIVE SUBSTANCES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Shopping/ADDICTIVE SUBSTANCES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Shopping/ADDICTIVE SUBSTANCES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Shopping/ADDICTIVE SUBSTANCES.md"
               }
             }
           }
@@ -148,16 +173,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "197b70caca9b64d7",
+  "active": "66518accfaf37b05",
   "lastOpenFiles": [
+    "Character Creation/CHARACTER DETAILS.md",
+    "Home Page.md",
     "Mechanics/COMBAT/COMBAT.md",
     "Mechanics/HACKING.md",
     "Mechanics/CONDITION AND PARTS.md",
     "Mechanics/LIFE AND DEATH.md",
-    "Character Creation/CHARACTER DETAILS.md",
     "Character Creation/CREATING A CHARACTER.md",
     "Mechanics/CHEATSHEET.png",
-    "Home Page.md",
     "Mechanics/ABILITIES.md",
     "World Info/CORPORATIONS.md",
     "World Info/GLOSSARY.md",
