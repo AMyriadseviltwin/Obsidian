@@ -26,8 +26,9 @@ BODY
 Grit
 Authority
 
-DEXTERITY
+MOTORICS
 Interfacing
+Awareness
 
 
 

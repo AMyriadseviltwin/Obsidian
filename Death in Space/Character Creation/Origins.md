@@ -20,11 +20,11 @@ Choose your origin or roll a d6 to choose on randomly. Then pick one of the two 
 > *Grown in space-based exo-wombs. Short life spans. They live their lives offworld and are untroubled by the darkness of space. More comfortable in an EVA suit than out of one.*
 
 
-> "Carbon-based replicants" was the official term scientists of the Old Age gave them. Artificial humans grown in space-based exo-wombs, Carbons are genetically engineered for a purpose. Engineers, technicians, laborers, most corporations that held investments in Carbon growers put them to use as grunts in their labor force. 
-> 
-And while most Carbons were laborers 
+> "Carbon-based replicants" was the official term scientists of the Old Age gave them. Artificial humans grown in space-based exo-wombs, Carbons are genetically engineered for a purpose. Engineers, doctors, laborers, and eventually-soldiers, most corporations that held investments in Carbon growers put them to use as grunts in their labor force. 
 
 
+**LIFESPAN**
+Carbons live on average up to 60 years.
 
 **ENGINEERED LUNGS**
 Use half oxygen compared to everyone else (one step for every two normal steps).
@@ -36,10 +36,11 @@ Repair twice as fast.
 # II - CHROME
 > *Ancient AI placed in a body vessel of organic material. Part machine, but with an organic CPU and a distributed nervous system that requires oxygen.*
 
-> The history between man and machine is remembered by few these days. But the echoes of their last conflict are still felt today
+> Spawned 
 
 
-
+**LIFESPAN**
+Chromes live on average up to  years.
 
 **NATIVE MACHINE**
 You can converse with computers as if they were real people. Plug in and find a friend :)

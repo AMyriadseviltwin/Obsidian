@@ -57,6 +57,8 @@
 
 ## IT HAS BEEN AGES
 
+**Our civilization is old.** In this age, life is lived in and out of outer space. Space stations in high orbit, satellites
+
 Human civilization is old. In this time, most lives are lived in outer space; on stations, satellites, and space craft. (Cont.)
 
 
@@ -75,7 +77,10 @@ Human civilization is old. In this time, most lives are lived in outer space; on
 
 
 ## THE WAR WITH NO WINNERS
-A century ago, explorers found a new form of gemstone in the desolate Tenebris system. (Cont.)
+
+**A began a century ago,** explorers found a new form of gemstone in the desolate Tenebris system. The stones grew like cysts on roots that extended deep into the soil of barren moons and planets. Dark-yellow crystals named for their extraordinary refracting qualities, *fractal gems* soon became invaluable to developing advanced technology, such as expensive energy guns, energy shielding, and the huge bridger spacecraft fitted with engines that rip through the fabric of space-time.
+
+(Cont.)
 
 
 
