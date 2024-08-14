@@ -16,91 +16,15 @@ Example 2:
 	Result = **-3**
 
 
-
-In Death in Space there are four groups of abilities: **BODY (BDY)**, **DEXTERITY (DEX)**, **SAVVY (SVY)**, and **TECH (TEC)**. 
-
-
-
-
-BODY
-Grit
-Authority
-
-MOTORICS
-Interfacing
-Awareness
-
-
-
-SAVVY
-Botany
-Piloting
-Memory
-Charisma
-
-
-TECH
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Grit - Stamina, resisting pain and g-forces, willpower
-Presence - Intimidation, confidence, projection of power
-
-
-Interfacing - Sleight of hand, precise hand interaction
-Composure - Balance, keeping calm
-
-Stealth - Hiding, disguising, blending in
-
-
-Piloting - Steering vehicles, controlling machines
-Memory - Recalling knowledge
-Awareness - Sight, sound, smell, taste, touch
-Charisma - Talking to people, convincing people, lying to people
-
-
-Ingenuity - Knowledge of machines and electronics
-
-Crafting
-
-
-
-
-
-
-
-Deception Empathy
-Persuasion Empathy
-Intimidation 
-Performance Empathy
-
-
-
-
-
-
-
 # The Abilities
 ### BODY (BDY)
 Melee attacks, healing hit points, encumbrance, lifting dead friends, surviving without oxygen, forcing open airlocks, withstanding g-forces, resisting cold and sickness.
 
 ### DEXTERITY (DEX)
-Defense rating, poise, speed and reflexes, dodging, climbing, sneaking, balancing, picking pockets.
+Defense rating, poise, speed and reflexes, dodging, climbing, your senses, sneaking, balancing, picking pockets.
 
 ### SAVVY (SVY)
-Perception, intuition, streetsmarts, piloting spacecraft, resisting psychological effects, detecting holographic illusions, recalling lore and knowledge about the universe.
+Intelligence, ntuition, streetsmarts, piloting spacecraft, resisting psychological effects, detecting holographic illusions, recalling lore and knowledge about the universe.
 
 ### TECH (TEC)
  Ranged attacks, understanding and operating technology, constructing gear, tinkering with machinery and electronics

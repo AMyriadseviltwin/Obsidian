@@ -28,7 +28,7 @@ Body. Ability that involves the use of your physical strength and toughness.
 Defense rating. Represents how good a thing can prevent hits, whether by dodging the attack or by being too durable to be affected. The same thing as armor class in D&D.
 
 ---
-#### Equip/Equipped
+#### Equipping/Equipped
 Refers to the items you're currently *holding in your hands* (a gun, a sandwich, a circuit board, etc.) or *wearing on your body* (a jacket, a satchel, mag-boots, etc.)
 
 ---

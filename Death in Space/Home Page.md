@@ -6,8 +6,6 @@
 
 ![[bg_116trillionyears.png]]
 
-####                        ENJOY YOUR STAY :)
-
 #### //////////////////////////////////////////////////////////////////
 
 
@@ -38,7 +36,7 @@
 ###### If this is your first time here, welcome! For the sake of understanding the world this game takes place in, I strongly recommend you first read the [[INTRODUCTION]].
 
 
-######                      ...and have a lovely DEATH IN SPACE :}
+######        ...thank you for participating, and have a lovely DEATH IN SPACE :}
 
 
 ---

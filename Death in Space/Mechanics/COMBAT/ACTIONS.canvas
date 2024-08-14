@@ -35,14 +35,14 @@
 		{"id":"4267e97b4a3d0669","type":"text","text":"No","x":-1050,"y":815,"width":83,"height":50},
 		{"id":"018868df620d84de","type":"text","text":"Yes","x":-1865,"y":840,"width":96,"height":50},
 		{"id":"d9e8fc73d278f7ef","type":"text","text":"You [[GLOSSARY#Equip/Equipped|equip]] an item from your inventory or your surroundings.\n\n> Unlimited uses per turn\n\nExamples include: drawing a weapon from your satchel, grabbing a chair, picking up a shield, putting on and taking off clothing.\n\nIf the clothing item is considerably heavy or difficult to take off (e.g. EVA suits, heavy armor) this action will cost **2 action points** instead.\n\nDropping or unequipping items do not cost action points.","x":-965,"y":-250,"width":625,"height":330},
-		{"id":"b1387a0b89d1d00a","type":"file","file":"Images/action_point.png","x":-827,"y":-392,"width":50,"height":50},
-		{"id":"ee726ada08534d09","type":"text","text":"Equip Item","x":-777,"y":-399,"width":250,"height":63},
 		{"id":"f1546af278aa9fbc","type":"text","text":"# TURN START\n\n**<<  You begin with 3 action points**","x":52,"y":-825,"width":398,"height":100},
 		{"id":"ee796a57527863ef","type":"file","file":"Images/action_point.png","x":2,"y":-850,"width":50,"height":50},
 		{"id":"86456b9242222147","type":"file","file":"Images/action_point.png","x":2,"y":-750,"width":50,"height":50},
 		{"id":"ce5314bbca4aece6","type":"file","file":"Images/action_point.png","x":2,"y":-800,"width":50,"height":50},
 		{"id":"302580bb67f18351","type":"file","file":"Images/action_point.png","x":-340,"y":-425,"width":50,"height":50},
-		{"id":"d5960bb5e9212375","x":-60,"y":-240,"width":660,"height":220,"type":"text","text":"You attempt to move, jump, or climb .\n\n> Max 1 use per turn\n\n"}
+		{"id":"d5960bb5e9212375","type":"text","text":"You attempt to move, jump, or climb .\n\n> Max 1 use per turn\n\n","x":-60,"y":-240,"width":660,"height":220},
+		{"id":"ee726ada08534d09","type":"text","text":"Equip","x":-715,"y":-430,"width":125,"height":63},
+		{"id":"b1387a0b89d1d00a","type":"file","file":"Images/action_point.png","x":-765,"y":-423,"width":50,"height":50}
 	],
 	"edges":[
 		{"id":"314176231bc27084","fromNode":"f1546af278aa9fbc","fromSide":"bottom","toNode":"bf24db64ece0cbcc","toSide":"top"},

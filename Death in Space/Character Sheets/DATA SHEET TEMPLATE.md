@@ -17,12 +17,12 @@ Use this button to start, then copy + paste in the template! (Delete this sectio
 
 
 
-|  ABILITY  | SCORES |
-| :-------: | :----: |
-|   BODY    |   #    |
-| DEXTERITY |   #    |
-|   SAVVY   |   #    |
-|   TECH    |   #    |
+| ABILITY  | SCORES |
+| :------: | :----: |
+|   BODY   |   #    |
+| MOTORICS |   #    |
+|  SAVVY   |   #    |
+|   TECH   |   #    |
 
 
 
@@ -37,7 +37,7 @@ Origin           DR
 Origin benefit   HP/Max HP
 
 BODY
-DEXTERITY
+MOTORICS
 SAVVY
 TEC
 
@@ -63,7 +63,7 @@ HP
 	Section II - Stats
 
 STR
-DEX
+MOT
 SVY
 TEC
 
