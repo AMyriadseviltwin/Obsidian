@@ -1,9 +1,9 @@
 ## How to use
 ### Step 1 - Install Obsidian
-Go here -> [https://obsidian.md/] <- and click the bigass **"Get Obsidian"** button to install and setup the program.
+Go here -> https://obsidian.md/ <- and click the bigass **"Get Obsidian"** button to install and setup the program.
 
 ### Step 2 - Clone the repository
-Clone the repository using this URL: [https://github.com/AMyriad/Obsidian].
+Clone the repository using this URL: https://github.com/AMyriad/Obsidian
 
 **NOTE:** Pls stick to the "PC-View" branch. The branch labelled "GM-View" is for notes and other things I use in the campaign I'm running.
 
