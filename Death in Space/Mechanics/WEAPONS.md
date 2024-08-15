@@ -1,6 +1,35 @@
 
 (Basic chart, due to change)
 
+
+
+
+
+
+
+
+**Weapon type + range**
+Weapon frame
+
+**Slots**
+
+
+**Uses**
+Magazine type
+
+**Damage**
+Barrel
+
+
+
+**Cost**
+
+
+
+
+
+
+
 | **D10** | **WEAPON TYPE**       | **CONDITION** | **SLOTS** | **USES** | **DAMAGE** | **COST** |
 | ------- | --------------------- | ------------- | --------- | -------- | ---------- | -------- |
 | 1       | Throwing weapons      | 1             | 1         | -        | 1d4        | 20       |

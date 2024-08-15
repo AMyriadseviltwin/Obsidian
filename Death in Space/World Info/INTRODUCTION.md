@@ -57,7 +57,7 @@
 
 ## IT HAS BEEN AGES
 
-**Our civilization is old.** In this age, life is lived in and out of outer space. Space stations in high orbit, satellites
+**Our civilization is old.** In this age, life is lived in and around outer space. Space stations in high orbit, colonies 
 
 Human civilization is old. In this time, most lives are lived in outer space; on stations, satellites, and space craft. (Cont.)
 

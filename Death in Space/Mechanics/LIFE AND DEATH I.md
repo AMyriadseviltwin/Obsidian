@@ -24,7 +24,16 @@ If you fail the BDY check at **crit level -1**, your character will have finally
 | :---: | :--: | :-----: | :---: | :-----: | :------: | :-----: | :---------: | :-----: | :----: | :---: |
 | {XXX} | DEAD | <-----> | DYING | <-----> | CRITICAL | <-----> | STABILIZING | <-----> | STABLE | {XXX} |
 
-Bodyparts
+Humans have 6 bodyparts: head, torso, left/right arms, and left/right legs
+
+
+d10
+1-2 - Left leg
+3-4 - Right leg
+5 - Left arm
+6 - Right arm
+7-9 - Torso
+10 - Head
 
 
 
@@ -41,7 +50,8 @@ Human beings need 5 things to survive:
 >* Oxygen
 
 
-Oxygen
+Food
+A human can subsist on **one meal** every day.
 
 
 
