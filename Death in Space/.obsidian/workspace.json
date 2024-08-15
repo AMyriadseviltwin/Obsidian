@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "de46067d6bd8c878",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/LIFE AND DEATH I.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0ba4059aafe7989d",
             "type": "leaf",
             "state": {
@@ -93,8 +81,36 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7ba6c94251dd076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/LIFE AND DEATH I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdd838f5b7e20da8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Images/body_example.canvas",
+                "viewState": {
+                  "x": 182.1133056133055,
+                  "y": 134.66528066528053,
+                  "zoom": -0.22196387683875088
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -160,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Mechanics/LIFE AND DEATH I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Mechanics/LIFE AND DEATH I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Mechanics/LIFE AND DEATH I.md"
               }
             }
           }
@@ -223,18 +239,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08ea438694e5d5bf",
+  "active": "c7ba6c94251dd076",
   "lastOpenFiles": [
+    "Images/body_example.canvas",
     "Mechanics/LIFE AND DEATH I.md",
-    "Character Creation/Origins.md",
-    "Mechanics/COMBAT/ACTIONS.canvas",
-    "World Info/GLOSSARY.md",
     "Mechanics/ABILITIES.md",
+    "World Info/GLOSSARY.md",
+    "Mechanics/COMBAT/ACTIONS.canvas",
+    "Home Page.md",
+    "Character Creation/Origins.md",
     "Mechanics/LIFE AND DEATH.md",
     "Character Sheets/DATA SHEET TEMPLATE.md",
     "Shopping/CYBERNETICS.md",
     "Mechanics/WEAPONS.md",
-    "Home Page.md",
     "World Info/INTRODUCTION.md",
     "World Info/THE TENEBRIS SYSTEM.md",
     "World Info/CORPORATIONS.md",

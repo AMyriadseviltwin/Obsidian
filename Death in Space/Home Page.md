@@ -1,5 +1,5 @@
 
- **NOTE:** Formatting may be better in editing mode.
+ **NOTE:** Formatting may be better in editing mode
 #### //////////////////////////////////////////////////////////////////
 ###   Welcome ==-USER-== to the SRD made to guide you through your
 #                   *DEATH IN SPACE*
@@ -18,7 +18,7 @@
 > **Character Creation** - Contains everything you need to know about player characters and how to create your own. [[CREATING A CHARACTER|Click here to get started!]]
 
 
-> **Character Sheets** - A whole folder you can dedicate to storing your characters. Comes with my best attempt at making a character sheet template in this program for you to copy and paste into new notes. Feel free to make as many as you like :)
+> **Character Creation** - A whole folder you can dedicate to storing your characters.     Comes with my best attempt at making a character sheet template in this program for you to copy and paste into new notes. Feel free to make as many as you like :)
 
 
 > **Images** - The repository for all images and artwork used in this project. Nothing necessary to playing the game. Feel free to browse or ignore to your heart's content.

@@ -16,16 +16,33 @@ Dropping to **zero** or less health makes you fall into a **critical state (crit
 Immediately after entering **crit**, and for all subsequent turns, make a BDY check **(** DC 12 **)**.
 Failing the BDY check will lower your **crit level** by 1, while succeeding will raise it by 1.
 
-Falling into **crit** sets you **crit level** to **0**. 
+When you first fall into **critical state**, you will be at **crit level 0**.
+If you succeed the BDY check at **crit level 1**, your character will be stabilized, resting unconsciously at **1HP**.
+If you fail the BDY check at **crit level -1**, your character will have finally met their end, being given one last moment of fleeting consciousness before experiencing **DEATH**.
 
 | {XXX} | DEAD | <-----> |  -1   | <-----> |    0     | <-----> |     +1      | <-----> | STABLE | {XXX} |
 | :---: | :--: | :-----: | :---: | :-----: | :------: | :-----: | :---------: | :-----: | :----: | :---: |
 | {XXX} | DEAD | <-----> | DYING | <-----> | CRITICAL | <-----> | STABILIZING | <-----> | STABLE | {XXX} |
 
+Bodyparts
+
+
 
 
 
 # Survival
+
+Human beings need 5 things to survive:
+
+>* Food
+>* Water
+>* Sleep
+>* Heat
+>* Oxygen
+
+
+Oxygen
+
 
 
 
@@ -34,8 +51,6 @@ Falling into **crit** sets you **crit level** to **0**.
 
 
 # Death
-
-
 
 
 
@@ -120,11 +135,17 @@ While your limbs may be harder to hit, losing one will heavily cripple you!
 # Survival
 
 Humans have 5 **basic needs** they require to survive:
-> - Oxygen
-> - Temperature
-> - Sleep
-> - Food
-> - Water
+
+>* Sleep
+>* Food
+>* Water
+>* Oxygen
+>* Temperature
+
+
+
+
+
 
 
 

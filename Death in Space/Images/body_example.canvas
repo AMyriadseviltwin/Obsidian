@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"efc4b2371d6bbde5","type":"text","text":"# HEAD\n\n> **Wounds**\n>\n\n> **Augments**\n>\n\n\n","x":-125,"y":-380,"width":295,"height":260},
+		{"id":"b8c3b93076950c76","type":"text","text":"# TORSO\n\n> **Wounds**\n>\n\n> **Augments**\n>\n\n\n","x":-142,"y":-60,"width":330,"height":290},
+		{"id":"2c55d43f0ea44414","type":"text","text":"# LEFT LEG\n\n> **Wounds**\n>\n\n> **Augments**\n>\n\n\n","x":-257,"y":300,"width":265,"height":340},
+		{"id":"77660894d6f554cb","type":"text","text":"# RIGHT LEG\n\n> **Wounds**\n>\n\n> **Augments**\n>\n\n\n","x":38,"y":300,"width":265,"height":340},
+		{"id":"47c247e3b2674928","type":"text","text":"# LEFT ARM\n\n> **Wounds**\n>\n\n> **Augments**\n>\n\n\n","x":-420,"y":-60,"width":240,"height":320},
+		{"id":"afa98a0c17212015","type":"text","text":"# RIGHT ARM\n\n> **Wounds**\n>\n\n> **Augments**\n>\n\n\n","x":220,"y":-60,"width":245,"height":320}
+	],
+	"edges":[]
+}
