@@ -32,3 +32,25 @@ Intelligence, ntuition, streetsmarts, piloting spacecraft, resisting psychologic
 
 ---
 ---
+
+
+
+
+Muscle/Strength
+Endurance
+Grit
+Authority/Projection
+
+
+Maneuvering
+Awareness
+Interfacing
+Reaction speed?
+
+
+Piloting
+Memory
+
+
+Ingenuity
+Tinkering

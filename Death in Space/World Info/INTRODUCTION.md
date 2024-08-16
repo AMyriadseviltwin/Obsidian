@@ -99,5 +99,5 @@ Holos may be what you use to pay for your daily dose of moonshine, but the real 
 
 
 ## THE NEW GOLDS
-In the vast expanse of space, deposits of valuable resources can be scarce. While holos and contracts are popular in deals and trades, the substances needed for survival and travel are far more valuable. Among these, *oxygen*, *ice*, *plasma*, and the extremely rare *fractal gems*stand out as the most essential resources. (Cont.)
+In the vast expanse of space, deposits of valuable resources can be scarce. While holos and contracts are popular in deals and trades, the substances needed for survival and travel are far more valuable. Among these, *oxygen*, *ice*, *plasma*, and the nigh-extinct *fractal gems*stand out as the most essential resources. (Cont.)
 

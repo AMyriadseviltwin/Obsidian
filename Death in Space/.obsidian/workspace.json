@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f58cfde8ff260444",
+        "id": "8ce33177dc54dcb9",
         "type": "tabs",
         "children": [
           {
-            "id": "86c644604cc857c2",
+            "id": "3cfba242cd6c68e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79fa11f793d53fd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Info/INTRODUCTION.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0afe8d106b953db9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/ABILITIES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78de8a882fad38ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Info/CORPORATIONS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Mechanics/ABILITIES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Mechanics/ABILITIES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Mechanics/ABILITIES.md"
               }
             }
           }
@@ -148,8 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86c644604cc857c2",
+  "active": "0afe8d106b953db9",
   "lastOpenFiles": [
+    "World Info/INTRODUCTION.md",
+    "World Info/CORPORATIONS.md",
+    "Home Page.md",
     "Mechanics/CONDITION AND PARTS.md",
     "Mechanics/HACKING.md",
     "Mechanics/LIFE AND DEATH.md",
@@ -157,9 +197,7 @@
     "Character Creation/CHARACTER DETAILS.md",
     "Character Creation/ORIGINS.md",
     "World Info/THE TENEBRIS SYSTEM.md",
-    "World Info/INTRODUCTION.md",
     "World Info/GLOSSARY.md",
-    "Home Page.md",
     "Mechanics/WEAPONS.md",
     "Mechanics/COMBAT/COMBAT.md",
     "Images/body_example.canvas",
@@ -167,7 +205,6 @@
     "Mechanics/COMBAT/ACTIONS.canvas",
     "Character Sheets/DATA SHEET TEMPLATE.md",
     "Shopping/CYBERNETICS.md",
-    "World Info/CORPORATIONS.md",
     "Character Creation/CREATING A CHARACTER.md",
     "Shopping/ADDICTIVE SUBSTANCES.md",
     "Shopping/GENERAL PRICES.md",
