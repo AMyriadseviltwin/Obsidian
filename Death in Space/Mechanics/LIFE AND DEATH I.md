@@ -50,8 +50,12 @@ Human beings need 5 things to survive:
 >* Oxygen
 
 
-Food
-A human can subsist on **one meal** every day.
+
+
+
+Oxygen
+Most habitable environments (e.g. stations and spacecraft) supply an ample amount of oxygen.
+
 
 
 
