@@ -38,13 +38,13 @@ Choose your allies, and enemies, wisely.
 > Search and rescue corporation working in conjunction with local med centers across space. Answers most distress signals inside and outside of the Tenebris system - for a price.
 > 
 > Its well-trained crews, known as "whales", are famous for never letting a catch go.
-> These crews famously consist mostly of ex-navvies, hardened veterans who know how to get a job done from their experiences in deep space. Yet, in some corners, there are rumors that some of the more disgruntled whales aren't above causing a few of the accidents themselves, cashing in bigger bonuses for the fees the clients are forced to pay. 
-
+> These crews famously consist mostly of ex-navvies, hardened veterans who know how to get a job done from their experiences in deep space. Yet, in some corners, there are rumors that some of the more disgruntled whales aren't above causing a few of the accidents themselves, cashing in bigger bonuses for the fees clients will be forced to pay. 
+>
 
 
 > **NOTES**
 > 
-
+>
 
 
 # ASP FOUNDATION
@@ -54,16 +54,16 @@ Choose your allies, and enemies, wisely.
 |     | **The Asp Foundation**<br>Known for<br>- Mapping<br>- Navigation data<br>- Astronomy research |     |
 
 > **DATA**
-> Originally a nonprofit dedicated to storing navigation data and maps of charted space. Eventually began selling this data to navvies, crews, other corps, to much success.
+> Originally a non-profit dedicated to storing navigation data and maps of charted space. Eventually began selling this data to navvies, crews, other corps, to much success.
 > 
 > Nowadays, most nav systems onboard ships are designed and manufactured by Asp, as they're considered the best in class. Up until the decay, they also financed several large expeditions into deep space, as well as countless astronomical studies. Many of which are still ongoing to this day, despite the corporation's leadership going completely radio silent since then.
+>
 
 
 
-
-> Notes:
+> **NOTES**
 > 
-
+>
 
 
 # AZIMUTH
@@ -74,12 +74,15 @@ Choose your allies, and enemies, wisely.
 |     | Known for<br>- Non-phys technology<br>- Non-phys worlds<br>- Computers |     |
 
 > **DATA**
-> Started out as a small computer tech firm, before eventually branching out into non-phys technology and simulations.
+> Originated as a small computer and electronics firm before branching out into non-phys technology. Eventually became a tech giant, pioneering VR technology and simulations.
+>
+> Colloquially known as "hubs", public lounges 
+>
 
 
-
-> Notes:
+> **NOTES**
 > 
+>
 
 
 # CARTHAGE INDUSTRIES
@@ -89,9 +92,14 @@ Choose your allies, and enemies, wisely.
 |     | **Carthage Industries**                                 |     |
 |     | Known for<br>- AI and robotics<br>- Machines<br>- Tools |     |
 
-> Notes:
+> **DATA**
 > 
+>
 
+
+> **NOTES**
+> 
+>
 
 
 # GOLEM AUTOMATICS
@@ -102,9 +110,14 @@ Choose your allies, and enemies, wisely.
 |     | **Golem Automatics**                                                           |     |
 |     | Known for<br>- Industrial equipment<br>- Heavy duty machinery<br>- Safety gear |     |
 
-> Notes:
+> **DATA**
 > 
+>
 
+
+> **NOTES**
+> 
+>
 
 
 # HAIMATSU TECHNOLOGIES
@@ -114,9 +127,14 @@ Choose your allies, and enemies, wisely.
 |     | **Haimatsu Technologies**                                                       |     |
 |     | Known for<br>- Medical technology and tools<br>- Cyberware<br>- Pharmaceuticals |     |
 
-> Notes:
+> **DATA**
 > 
+>
 
+
+> **NOTES**
+> 
+>
 
 
 # HEPHAESTUS SHIPWORKS
@@ -127,9 +145,14 @@ Choose your allies, and enemies, wisely.
 |     | **Hephaestus Shipworks**                                                                     |     |
 |     | Known for<br>- Shipbreaking and salvage<br>- Ship modules and parts<br>- Vehicles and frames |     |
 
-> Notes:
+> **DATA**
 > 
+>
 
+
+> **NOTES**
+> 
+>
 
 
 # KONBINA
@@ -140,9 +163,14 @@ Choose your allies, and enemies, wisely.
 |     | **Konbina Corporation**                                                                      |     |
 |     | Known for<br>- Cheap, mass-produced food<br>- Agricultural genetics and science<br>- Biofuel |     |
 
-> Notes:
+> **DATA**
 > 
+>
 
+
+> **NOTES**
+> 
+>
 
 
 # LICOME & MERCURY
@@ -152,10 +180,14 @@ Choose your allies, and enemies, wisely.
 |     | **Licome & Mercury, Ltd.**                                                        |     |
 |     | Known for<br>- Weapons manufacturing<br>- Military research<br>- Security systems |     |
 
-> Notes:
+> **DATA**
 > 
+>
 
 
+> **NOTES**
+> 
+>
 
 # NANOTRASEN
 
@@ -164,9 +196,14 @@ Choose your allies, and enemies, wisely.
 |     | **NanoTrasen**                                                               |     |
 |     | Known for<br>- High-end RnD<br>- Experimental weapons<br>- Luxury technology |     |
 
-> Notes:
+> **DATA**
 > 
+>
 
+
+> **NOTES**
+> 
+>
 
 
 # STÅLVERKET
@@ -176,9 +213,14 @@ Choose your allies, and enemies, wisely.
 |     | **Stålverket AS**                                                     |     |
 |     | Known for<br>- Interstellar mining<br>- Ore processing<br>- Logistics |     |
 
-> Notes:
+> **DATA**
 > 
+>
 
+
+> **NOTES**
+> 
+>
 
 
 # TRANSIT ALLIANCE
@@ -188,9 +230,14 @@ Choose your allies, and enemies, wisely.
 |     | **Transit Alliance**                                                               |     |
 |     | Known for<br>- Union workers rights<br>- Transport contracts<br>- Freedom fighting |     |
 
-> Notes:
+> **DATA**
 > 
+>
 
+
+> **NOTES**
+> 
+>
 
 
 # VODYKOV
@@ -200,9 +247,14 @@ Choose your allies, and enemies, wisely.
 |     | **Vodykov**                                               |     |
 |     | Known for<br>- Networking<br>- Contracts<br>- Mercenaries |     |
 
-> Notes:
+> **DATA**
 > 
+>
 
+
+> **NOTES**
+> 
+>
 
 
 # X
@@ -212,8 +264,14 @@ Choose your allies, and enemies, wisely.
 |     | **X**                                                   |     |
 |     | Known for<br>- Piracy<br>- Black markets<br>- Contracts |     |
 
-> Notes:
+> **DATA**
 > 
+>
+
+
+> **NOTES**
+> 
+>
 
 
 

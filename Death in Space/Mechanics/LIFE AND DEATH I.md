@@ -17,7 +17,7 @@ Immediately after entering **crit**, and for all subsequent turns, make a BDY ch
 Failing the BDY check will lower your **crit level** by 1, while succeeding will raise it by 1.
 
 When you first fall into **critical state**, you will be at **crit level 0**.
-If you succeed the BDY check at **crit level 1**, your character will be stabilized, resting unconsciously at **1HP**.
+If you succeed the BDY check at **crit level +1**, your character will be stabilized, resting unconsciously at **1HP**.
 If you fail the BDY check at **crit level -1**, your character will have finally met their end, being given one last moment of fleeting consciousness before experiencing **DEATH**.
 
 | {XXX} | DEAD | <-----> |  -1   | <-----> |    0     | <-----> |     +1      | <-----> | STABLE | {XXX} |

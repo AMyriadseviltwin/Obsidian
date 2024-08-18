@@ -28,6 +28,10 @@ Body. Ability that involves the use of your physical strength and toughness.
 Defense rating. Represents how good a thing can prevent hits, whether by dodging the attack or by being too durable to be affected. The same thing as armor class in D&D.
 
 ---
+#### DC
+Difficulty class. Represents how difficult something your character must roll to succeed in is. A roll equal to or higher than the ability check's DC is a success.
+
+---
 #### Equipping/Equipped
 Refers to the items you're currently *holding in your hands* (a gun, a sandwich, a circuit board, etc.) or *wearing on your body* (a jacket, a satchel, mag-boots, etc.)
 

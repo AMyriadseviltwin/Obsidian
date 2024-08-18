@@ -40,17 +40,24 @@ Muscle/Strength
 Endurance
 Grit
 Authority/Projection
+Premonition
 
 
 Maneuvering
 Awareness
 Interfacing
 Reaction speed?
+Composure
 
 
 Piloting
 Memory
+Biology
+Cooking/Botany
+Charisma
 
 
 Ingenuity
 Tinkering
+Firing
+Assembly
