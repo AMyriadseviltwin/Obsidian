@@ -74,7 +74,9 @@ Bulky, canister-like object, (Cont.)
 Nickname for those who break apart ships for parts and salvage, known for its decent mortality rate due to hazards involved. Most shipbreakers in Tenebris either work or have worked for [[CORPORATIONS#HEPHAESTUS SHIPWORKS|Hephaestus Shipworks]].
 
 ---
-#### Supermatter jockey
+#### Supermatter
+
+
 Term for often unhinged workers tasked with diving into the event horizon of black holes to collect "super-matter", a substance used to power gravity generators. (Cont.)
 
 ---

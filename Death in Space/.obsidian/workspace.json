@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ce33177dc54dcb9",
+        "id": "015de1d99e38b5a6",
         "type": "tabs",
         "children": [
           {
-            "id": "e6110eb171838e33",
+            "id": "024c904a6c7069da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c86d1fb60b80dac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/CREATING A CHARACTER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8177cefea2202bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/CHARACTER DETAILS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac05819f4c1ef8c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Info/GLOSSARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a7cb96819afb6a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/ABILITIES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce218cd63b536eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/WEAPONS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cca27ebdf54e6356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Sheets/DATA SHEET.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Mechanics/ABILITIES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Mechanics/ABILITIES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Mechanics/ABILITIES.md"
               }
             }
           }
@@ -148,42 +221,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae041b4f10ce3b26",
+  "active": "4a7cb96819afb6a3",
   "lastOpenFiles": [
-    "Character Sheets/DATA SHEET.md",
-    "Character Sheets/DATA SHEET TEMPLATE.md",
-    "Home Page.md",
+    "Mechanics/WEAPONS.md",
     "Mechanics/ABILITIES.md",
+    "Character Creation/CHARACTER DETAILS.md",
+    "Character Creation/CREATING A CHARACTER.md",
     "World Info/GLOSSARY.md",
+    "Character Sheets/DATA SHEET.md",
+    "Mechanics/CHEATSHEET.png",
+    "Character Sheets/DATA SHEET TEMPLATE.md",
+    "Mechanics/LIFE AND DEATH I.md",
+    "Home Page.md",
+    "Images/Close Art/astronaut_shatter.png",
+    "Images/Close Art/heart_failure.png",
+    "Images/Close Art/scav_rifleman.png",
+    "Images/Close Art/dna_banner.png",
+    "Images/Close Art/cyber_optics.png",
     "World Info/CORPORATIONS.md",
     "Mechanics/HACKING.md",
     "Mechanics/LIFE AND DEATH.md",
-    "Mechanics/LIFE AND DEATH I.md",
     "Shopping/CYBERNETICS.md",
     "World Info/INTRODUCTION.md",
     "Mechanics/CONDITION AND PARTS.md",
-    "Character Creation/CHARACTER DETAILS.md",
     "Character Creation/ORIGINS.md",
     "World Info/THE TENEBRIS SYSTEM.md",
-    "Mechanics/WEAPONS.md",
     "Mechanics/COMBAT/COMBAT.md",
     "Images/body_example.canvas",
     "Mechanics/COMBAT/ACTIONS.canvas",
-    "Character Creation/CREATING A CHARACTER.md",
     "Shopping/ADDICTIVE SUBSTANCES.md",
     "Shopping/GENERAL PRICES.md",
     "World Info/Origins (WIP)/APOSTLE (WIP).md",
-    "Mechanics/CHEATSHEET.png",
     "World Info/Origins (WIP)/CARBON (WIP).md",
-    "Images/Close Art/cyber_optics.png",
     "Images/Stellar Bodies/ogre.png",
     "Images/Stellar Bodies/lliad.png",
     "Images/action_point.png",
     "Images/Stellar Bodies/inauro.png",
-    "Images/Stellar Bodies/lacrimosa.png",
-    "Images/Stellar Bodies/lepidoptera.png",
-    "Images/Stellar Bodies/gliess_gallo.png",
-    "Images/Stellar Bodies/chrysalis.png",
     "Character Sheets/DATA SHEETS.canvas",
     "World Info/Origins (WIP)/SOLPOD (WIP).md",
     "Character Creation/Legacy Origins.md",

@@ -33,31 +33,57 @@ Intelligence, ntuition, streetsmarts, piloting spacecraft, resisting psychologic
 ---
 ---
 
+BODY
+
+Strength/Brawn/Muscle - For exerting your muscles, punching, lifting, grabbing
+Endurance - For taking blows, resisting poison and radiation, maximum health
+Grit - For staying conscious, testing stamina, holding your breath
+Presence - For projection of power, intimidating others, puffing out your chest
+Premonition - For gut feelings, GM-approved instinct
 
 
+MOTORICS
 
-Muscle/Strength
-Endurance
-Grit
-Authority/Projection
-Premonition
-
-
-Maneuvering
+Alacrity - 
 Awareness
 Interfacing
-Reaction speed?
+
 Composure
+
+
+MIND
+
+
+Medicine - Biology
+Driving - Piloting
+Growing plants - Botany/Cuisine
+Cooking food - Cuisine
+Persuading people - Charisma/Speech
+Telling if they're lying - Charisma/Speech
+Morale health - Volition
+Resisting hangovers - Grit
+Surgery - Biology
+Historical events - Memory
+Identifying groups - Memory
+Translating text - Pattern recognition
+Playing music
+Searching a room
+Scavenging for food
+
+
 
 
 Piloting
 Memory
-Biology
-Cooking/Botany
+Anatomy
+Volition
+
 Charisma
 
+
+TECH
 
 Ingenuity
 Tinkering
 Firing
-Assembly
+Fix/Break

@@ -73,3 +73,7 @@ Some still wear their war uniforms, while others do all they can to forget. Roll
 | 5      | **THE CONTRACT.** As an opportunist, you swore allegiance to those who paid best.                                                                                                                                                                                                                                    |
 |        |                                                                                                                                                                                                                                                                                                                      |
 | 6      | **NONE.** You sided only with yourself and avoided the war as well as you could.                                                                                                                                                                                                                                     |
+
+
+---
+---
