@@ -1,5 +1,5 @@
 
-# Prices
+# 
 
 | **EQUIPMENT**                                                                                     | **SLOTS** | **COST** |     |
 | ------------------------------------------------------------------------------------------------- | :-------: | -------: | --- |
@@ -30,6 +30,34 @@
 | Water purification pack (5 tablets)                                                               |     -     |       10 |     |
 | Hypospray (injects 15u vials, 2 actions to use, ignores all clothing lighter than heavy EVA suit) |     1     |          |     |
 | Vial (15u)                                                                                        |           |          |     |
+|                                                                                                   |           |          |     |
+
+# Tools
+
+| **TOOLS**     | **INFO**                                                                                                                               | **COND.** | **SLOTS** | **COST** |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-------: | -------: |
+| Screwdriver   | Needed for electrical repair/dismantling.                                                                                              |   **1**   |           |          |
+| Wirecutters   | Needed for electrical repair/dismantling.                                                                                              |   **1**   |           |          |
+| Wrench        | Needed for mechanical repair/dismantling.                                                                                              |   **1**   |           |          |
+| Welding tool  | Needed for mechanical repair/dismantling.<br>Fueled by plasma gas canisters.                                                           |   **1**   |           |          |
+| Crowbar       | Allows prying open airlocks (BDY/STR),<br>among other things.                                                                          |   **1**   |           |          |
+| Multitool     | A yellow, pocket-sized device covered in<br>buttons. Allows "alternative" hacking by<br>manually pulsing exposed wires.                |   **2**   |           |          |
+| Breach cutter | A high-intensity plasma cutting tool.<br>Doubles the speed of mechanical<br>dismantling, but halves the speed of<br>mechanical repair. |   **3**   |           |          |
+| Hand drill    | A Golem Automatics signature power tool.<br>Able to switch between "SCREW" and "BOLT"<br>modes. Reduces use time by d2 hours.          |   **3**   |           |          |
+| Jaws of life  | A Golem Automatics signature power tool.<br>Able to switch between "PRY" and "CUT"<br>modes. Reduces use time by d2 hours.             |   **3**   |           |          |
+|               |                                                                                                                                        |           |           |          |
+| Surgery kit   | Needed for conducting sur                                                                                                              |           |           |          |
+| Cooking kit   |                                                                                                                                        |           |           |          |
+| Botany kit    |                                                                                                                                        |           |           |          |
+| Gunsmith kit  |                                                                                                                                        |           |           |          |
+| Chemistry kit |                                                                                                                                        |           |           |          |
+| Weaving kit   |                                                                                                                                        |           |           |          |
+|               |                                                                                                                                        |           |           |          |
+
+
+
+
+
 
 | **ELECTRONICS** (CONDITION 1) | **SLOTS** | **COST** |
 | ----------------------------- | --------- | -------- |

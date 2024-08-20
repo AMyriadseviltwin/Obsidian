@@ -24,9 +24,9 @@
 ##### SPARE PARTS
 > Spare parts for repairs are divided into two categories: **components** and **vehicle parts**.
 
-> **Components** are circuit boards, wires, or other small electronic parts that can be used to repair or build weapons and electronics. One unit of components **takes up one item slot**.
+> **Components** are circuit boards, wires, or other small electronic parts that can be used to repair or build weapons and electronics. One unit of components takes up **one item slot**.
 
-> **Vehicle parts** are larger parts and materials used to repair large broken structures such as spacecraft, stations, giant drills, satellites, and big drones. One unit of vehicle parts **takes up five item slots**.
+> **Vehicle parts** are larger parts and materials used to repair large broken structures such as spacecraft, stations, giant drills, satellites, and big drones. One unit of vehicle parts akes up **five item slots**.
 
 
 

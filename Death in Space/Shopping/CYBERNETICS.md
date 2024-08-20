@@ -10,7 +10,7 @@
 (Cont.)
 
 ### Installing cyberware
-(Cont.)
+
 
 
 ### Removing cyberware

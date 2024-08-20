@@ -37,15 +37,15 @@ BODY
 
 Strength/Brawn/Muscle - For exerting your muscles, punching, lifting, grabbing
 Endurance - For taking blows, resisting poison and radiation, maximum health
-Grit - For staying conscious, testing stamina, holding your breath
+Grit - For controlling your body, staying conscious, testing stamina, holding your breath
 Presence - For projection of power, intimidating others, puffing out your chest
 Premonition - For gut feelings, GM-approved instinct
 
 
 MOTORICS
 
-Alacrity - 
-Awareness
+Alacrity - For moving your limbs, carrying your body, dodging and weaving
+Awareness - For 
 Interfacing
 
 Composure
@@ -66,9 +66,9 @@ Surgery - Biology
 Historical events - Memory
 Identifying groups - Memory
 Translating text - Pattern recognition
-Playing music
-Searching a room
-Scavenging for food
+Playing music - Charisma
+Searching a room - Pattern recognition
+Scavenging for food - 
 
 
 
@@ -86,4 +86,6 @@ TECH
 Ingenuity
 Tinkering
 Firing
-Fix/Break
+Electrics
+Mechanics
+
