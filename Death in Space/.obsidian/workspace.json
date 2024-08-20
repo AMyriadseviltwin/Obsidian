@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d1b0142b47e84111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shopping/CYBERNETICS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "098a183b52855b58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shopping/GENERAL PRICES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "038631c01b33d3a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/ABILITIES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "208a4bf5aa5ed132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shopping/SERVICES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shopping/GENERAL PRICES.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shopping/GENERAL PRICES.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shopping/GENERAL PRICES.md"
+                "file": "Home Page.md"
               }
             }
           }
@@ -197,15 +148,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "098a183b52855b58",
+  "active": "eb43fb8309bb6a7b",
   "lastOpenFiles": [
-    "Mechanics/ABILITIES.md",
     "Shopping/GENERAL PRICES.md",
-    "Mechanics/HACKING.md",
     "Mechanics/LIFE AND DEATH.md",
+    "Mechanics/CONDITION AND PARTS.md",
+    "Shopping/SERVICES.md",
+    "Mechanics/ABILITIES.md",
+    "Mechanics/HACKING.md",
     "Mechanics/WEAPONS.md",
     "Shopping/CYBERNETICS.md",
-    "Shopping/SERVICES.md",
     "Home Page.md",
     "Data Sheets/Templates/DATA SHEET TEMPLATE.md",
     "Data Sheets/Templates/DATA SHEETS.canvas",
@@ -223,7 +175,6 @@
     "Images/Close Art/cyber_optics.png",
     "World Info/CORPORATIONS.md",
     "World Info/INTRODUCTION.md",
-    "Mechanics/CONDITION AND PARTS.md",
     "Character Creation/ORIGINS.md",
     "World Info/THE TENEBRIS SYSTEM.md",
     "Mechanics/COMBAT.md",

@@ -7,8 +7,11 @@
 
 # Life
 
-The biological machines that are your mind and body are strong but not immortal.
+To understand life you must first understand what gives you life.
 
+**Health Points (HP)** represent how much damage a body can physically take before dropping dead. All characters have **Max HP** and **Current HP** values, 
+
+New characters begin with **1d8 + BDY/END** max HP
 
 
 1d8 + BDY max health
@@ -23,7 +26,7 @@ Failing the BDY check will lower your **crit level** by 1, while succeeding will
 
 When you first fall into **critical state**, you will be at **crit level 0**.
 If you succeed the BDY check at **crit level +1**, your character will be stabilized, resting unconsciously at **1HP**.
-If you fail the BDY check at **crit level -1**, your character will have finally met their end, being given one last moment of fleeting consciousness before experiencing **DEATH**.
+If you fail the BDY check at **crit level -1**, your character will have finally met their end, being given one last moment of fleeting consciousness before experiencing **[[#DEATH]]**.
 
 | {XXX} | DEAD | <-----> |  -1   | <-----> |    0     | <-----> |     +1      | <-----> | STABLE | {XXX} |
 | :---: | :--: | :-----: | :---: | :-----: | :------: | :-----: | :---------: | :-----: | :----: | :---: |
@@ -84,6 +87,7 @@ Habitable environments (e.g. stations and spacecraft) supply an ample amount of 
 
 
 # Death
+
 
 
 
