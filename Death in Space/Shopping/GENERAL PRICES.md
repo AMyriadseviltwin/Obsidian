@@ -1,5 +1,5 @@
 
-# Prices
+# 
 
 | **EQUIPMENT**                                                                                     | **SLOTS** | **COST** |     |
 | ------------------------------------------------------------------------------------------------- | :-------: | -------: | --- |
@@ -30,6 +30,29 @@
 | Water purification pack (5 tablets)                                                               |     -     |       10 |     |
 | Hypospray (injects 15u vials, 2 actions to use, ignores all clothing lighter than heavy EVA suit) |     1     |          |     |
 | Vial (15u)                                                                                        |           |          |     |
+|                                                                                                   |           |          |     |
+
+# Tools
+
+| **TOOLS**     | **DESC.**                                                                                               | **SLOTS** | **COST** |
+| ------------- | ------------------------------------------------------------------------------------------------------- | :-------: | -------: |
+| Screwdriver   | Needed for electrical repair.                                                                           |           |          |
+| Wirecutters   | Needed for electrical repair.                                                                           |           |          |
+| Wrench        | Needed for mechanical repair.                                                                           |           |          |
+| Welding tool  | Needed for mechanical repair.                                                                           |           |          |
+| Crowbar       | Allows prying open airlocks (BDY/STR),<br>among other things.                                           |           |          |
+| Multitool     | Allows "ghetto" hacking; manually<br>pulsing wires in airlocks and<br>other interfaces to control them. |           |          |
+| Breach cutter |                                                                                                         |           |          |
+| Hand drill    |                                                                                                         |           |          |
+| Jaws of life  |                                                                                                         |           |          |
+|               |                                                                                                         |           |          |
+| Surgery kit   |                                                                                                         |           |          |
+|               |                                                                                                         |           |          |
+|               |                                                                                                         |           |          |
+
+
+
+
 
 | **ELECTRONICS** (CONDITION 1) | **SLOTS** | **COST** |
 | ----------------------------- | --------- | -------- |
