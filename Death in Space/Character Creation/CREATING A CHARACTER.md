@@ -12,7 +12,7 @@ Will you live to rise in this great void, or, soundlessly screaming, bear alone 
 
 # Making a Character Step-by-Step
 
-Follow these steps in order, filling out the corresponding sections on your character sheet as you go along:
+Follow these steps in order, filling out the corresponding sections on your data sheet as you go along:
 #### I - Set your [[ABILITIES]]
 
 #### II - Know your [[ORIGINS]]

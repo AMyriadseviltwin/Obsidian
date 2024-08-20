@@ -11,7 +11,7 @@
 | Light EVA suit                                                                                    |     3     |      200 |     |
 | Heavy EVA suit                                                                                    |     5     |      400 |     |
 | Fake grenade                                                                                      |     -     |        5 |     |
-| Flashlight, Golem-brand model P78C                                                                |     1     |       20 |     |
+| Flashlight, Golem brand model P78C                                                                |     1     |       20 |     |
 | Holographic playing cards                                                                         |     -     |        5 |     |
 | Magnetic boots                                                                                    |     2     |       80 |     |
 | Medical grade epoxy (first aid, instantly glues wounds, 5 uses)                                   |     -     |       50 |     |
@@ -34,25 +34,26 @@
 
 # Tools
 
-| **TOOLS**     | **INFO**                                                                                                                               | **COND.** | **SLOTS** | **COST** |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-------: | -------: |
-| Screwdriver   | Needed for electrical repair/dismantling.                                                                                              |   **1**   |           |          |
-| Wirecutters   | Needed for electrical repair/dismantling.                                                                                              |   **1**   |           |          |
-| Wrench        | Needed for mechanical repair/dismantling.                                                                                              |   **1**   |           |          |
-| Welding tool  | Needed for mechanical repair/dismantling.<br>Fueled by plasma gas canisters.                                                           |   **1**   |           |          |
-| Crowbar       | Allows prying open airlocks (BDY/STR),<br>among other things.                                                                          |   **1**   |           |          |
-| Multitool     | A yellow, pocket-sized device covered in<br>buttons. Allows "alternative" hacking by<br>manually pulsing exposed wires.                |   **2**   |           |          |
-| Breach cutter | A high-intensity plasma cutting tool.<br>Doubles the speed of mechanical<br>dismantling, but halves the speed of<br>mechanical repair. |   **3**   |           |          |
-| Hand drill    | A Golem Automatics signature power tool.<br>Able to switch between "SCREW" and "BOLT"<br>modes. Reduces use time by d2 hours.          |   **3**   |           |          |
-| Jaws of life  | A Golem Automatics signature power tool.<br>Able to switch between "PRY" and "CUT"<br>modes. Reduces use time by d2 hours.             |   **3**   |           |          |
-|               |                                                                                                                                        |           |           |          |
-| Surgery kit   | Needed for conducting sur                                                                                                              |           |           |          |
-| Cooking kit   |                                                                                                                                        |           |           |          |
-| Botany kit    |                                                                                                                                        |           |           |          |
-| Gunsmith kit  |                                                                                                                                        |           |           |          |
-| Chemistry kit |                                                                                                                                        |           |           |          |
-| Weaving kit   |                                                                                                                                        |           |           |          |
-|               |                                                                                                                                        |           |           |          |
+| **TOOLS**      | **INFO**                                                                                                                               | **COND.** | **SLOTS** | **COST** |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-------: | -------: |
+| Screwdriver    | Needed for electrical repair/dismantling.                                                                                              |   **1**   |           |          |
+| Wirecutters    | Needed for electrical repair/dismantling.                                                                                              |   **1**   |           |          |
+| Wrench         | Needed for mechanical repair/dismantling.                                                                                              |   **1**   |           |          |
+| Welding tool   | Needed for mechanical repair/dismantling.<br>Fueled by plasma gas canisters.                                                           |   **1**   |           |          |
+| Crowbar        | Allows prying open airlocks (BDY/STR),<br>among other things.                                                                          |   **1**   |           |          |
+| Multitool      | A yellow, pocket-sized device covered in<br>buttons. Allows "alternative" hacking by<br>manually pulsing exposed wires.                |   **2**   |           |          |
+| Breach cutter  | A high-intensity plasma cutting tool.<br>Doubles the speed of mechanical<br>dismantling, but halves the speed of<br>mechanical repair. |   **3**   |           |          |
+| Hand drill     | A Golem Automatics signature power tool.<br>Able to switch between "SCREW" and "BOLT"<br>modes. Reduces use time by d2 hours.          |   **3**   |           |          |
+| Jaws of life   | A Golem Automatics signature power tool.<br>Able to switch between "PRY" and "CUT"<br>modes. Reduces use time by d2 hours.             |   **3**   |           |          |
+|                |                                                                                                                                        |           |           |          |
+| Surgery kit    |                                                                                                                                        |           |           |          |
+| Cooking kit    | Not to be confused with a mess kit.                                                                                                    |           |           |          |
+| Botany kit     |                                                                                                                                        |           |           |          |
+| Gunsmith kit   |                                                                                                                                        |           |           |          |
+| Chemistry kit  |                                                                                                                                        |           |           |          |
+| Weaving kit    |                                                                                                                                        |           |           |          |
+| Archeology kit |                                                                                                                                        |           |           |          |
+|                |                                                                                                                                        |           |           |          |
 
 
 
