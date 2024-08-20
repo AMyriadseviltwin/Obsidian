@@ -7,6 +7,120 @@
 
 # Life
 
+The biological machines that are your mind and body are strong but not immortal.
+
+
+
+1d8 + BDY max health
+12 + DEX defense rating
+
+
+
+
+Dropping to **zero** or less health makes you fall into **critical state (crit)**.
+Immediately after entering **crit**, and for all subsequent turns, make a BDY check **(** DC 12 **)**.
+Failing the BDY check will lower your **crit level** by 1, while succeeding will raise it by 1.
+
+When you first fall into **critical state**, you will be at **crit level 0**.
+If you succeed the BDY check at **crit level +1**, your character will be stabilized, resting unconsciously at **1HP**.
+If you fail the BDY check at **crit level -1**, your character will have finally met their end, being given one last moment of fleeting consciousness before experiencing **DEATH**.
+
+| {XXX} | DEAD | <-----> |  -1   | <-----> |    0     | <-----> |     +1      | <-----> | STABLE | {XXX} |
+| :---: | :--: | :-----: | :---: | :-----: | :------: | :-----: | :---------: | :-----: | :----: | :---: |
+| {XXX} | DEAD | <-----> | DYING | <-----> | CRITICAL | <-----> | STABILIZING | <-----> | STABLE | {XXX} |
+
+Humans have 6 bodyparts: head, torso, left/right arms, and left/right legs
+
+
+d10
+1-2 - Left leg
+3-4 - Right leg
+5 - Left arm
+6 - Right arm
+7-9 - Torso
+10 - Head
+
+
+
+
+
+# Survival
+
+Human beings need 5 things to survive:
+
+>* Food (organ, 5 steps)
+>* Water (vial, 5 steps)
+>* Sleep (battery, 3 steps)
+>* Heat (thermometer, 5 steps)
+>* Oxygen (air tank, 10 steps)
+
+
+
+Heat
+Heat is represented in 5 steps
+
+5. Scalding - 60 to 100 degrees
+4. Hot - 30 to 60 degrees
+3. Temperate - 0 to 30 degrees
+2. Cold - -30 to 0 degrees
+1. Freezing - -30 to -100 degrees
+
+
+
+
+
+
+
+Oxygen
+Habitable environments (e.g. stations and spacecraft) supply an ample amount of oxygen.
+
+
+
+
+
+
+
+
+
+
+# Death
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Life has three prerequisites: **Health Points**, **Limb Health**, and **Defense Rating**.
 
 ### Health Points
@@ -54,11 +168,17 @@ While your limbs may be harder to hit, losing one will heavily cripple you!
 # Survival
 
 Humans have 5 **basic needs** they require to survive:
-> - Oxygen
-> - Temperature
-> - Sleep
-> - Food
-> - Water
+
+>* Sleep
+>* Food
+>* Water
+>* Oxygen
+>* Temperature
+
+
+
+
+
 
 
 
