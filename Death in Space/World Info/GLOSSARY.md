@@ -71,8 +71,8 @@ No navvy ever comes back the same as they left. Veterans usually very respected.
 Bulky, canister-like object, (Cont.)
 
 ---
-#### Shipbreaker
-Nickname for those who break apart ships for parts and salvage, known for its decent mortality rate due to hazards involved. Most shipbreakers in Tenebris either work or have worked for [[CORPORATIONS#HEPHAESTUS SHIPWORKS|Hephaestus Shipworks]].
+#### Shipbreaking
+A profession involving breaking apart spacecraft for parts and salvage. Workers are known for being disgruntled, as the job is known for its decent mortality rate due to hazards involved. Most shipbreakers in Tenebris either work or have worked for [[CORPORATIONS#HEPHAESTUS SHIPWORKS|Hephaestus Shipworks]].
 
 ---
 #### Supermatter

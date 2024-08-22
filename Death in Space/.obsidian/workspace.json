@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12849fe177fa95eb",
+        "id": "123e96b088b9c648",
         "type": "tabs",
         "children": [
           {
-            "id": "fd4f17171f9c0c74",
+            "id": "7ea2cb9c324640f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,105 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0579b1d4594ed8eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/LIFE AND DEATH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "903b8f7dd8a17003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/ORIGINS III.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40963c5dca936efd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/CHARACTER DETAILS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4d0542486e27b3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Info/GLOSSARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16b66599d6905ca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shopping/ITEMS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35598389c55a447c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Sheets/Templates/DATA SHEET.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e32ddf28b09d714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/ABILITIES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91118388491d61c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/HACKING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Shopping/ITEMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Shopping/ITEMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Shopping/ITEMS.md"
               }
             }
           }
@@ -148,19 +245,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd4f17171f9c0c74",
+  "active": "16b66599d6905ca5",
   "lastOpenFiles": [
-    "Mechanics/ABILITIES.md",
     "World Info/GLOSSARY.md",
+    "Character Creation/ORIGINS III.md",
     "Character Creation/CHARACTER DETAILS.md",
-    "Shopping/SERVICES.md",
     "Character Creation/ORIGINS.md",
+    "Shopping/ITEMS.md",
+    "Data Sheets/Templates/DATA SHEET.md",
+    "Mechanics/LIFE AND DEATH.md",
+    "Mechanics/ABILITIES.md",
+    "Mechanics/HACKING.md",
+    "Home Page.md",
+    "Shopping/SERVICES.md",
     "Character Creation/CREATING A CHARACTER.md",
     "World Info/Origins (WIP)/VELOCITY CURSED (WIP).md",
-    "Mechanics/LIFE AND DEATH.md",
-    "Home Page.md",
     "Shopping/CYBERNETICS.md",
-    "Shopping/GENERAL PRICES.md",
     "Images/Background Art/bg_offline.png",
     "Images/Background Art/bg_voideye.png",
     "Images/Background Art/bg_116trillionyears.png",
@@ -178,18 +278,15 @@
     "World Info/Origins (WIP)/CHROME (WIP).md",
     "World Info/Origins (WIP)/CARBON (WIP).md",
     "World Info/Origins (WIP)/APOSTLE (WIP).md",
-    "Mechanics/HACKING.md",
     "Mechanics/WEAPONS.md",
     "Data Sheets/Templates/DATA SHEET TEMPLATE.md",
     "Data Sheets/Templates/DATA SHEETS.canvas",
     "Data Sheets/Templates",
     "Shopping/ADDICTIVE SUBSTANCES.md",
-    "Data Sheets/Templates/DATA SHEET.md",
     "Mechanics/CHEATSHEET.png",
     "World Info/INTRODUCTION.md",
     "World Info/THE TENEBRIS SYSTEM.md",
     "World Info/Origins (WIP)/SOLPOD (WIP).md",
-    "Character Creation/Legacy Origins.md",
     "Untitled.canvas",
     "Images/Stellar Bodies",
     "World Info/Origins (WIP)",

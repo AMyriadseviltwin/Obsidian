@@ -53,10 +53,15 @@
 | Chemistry kit  |                                                                                                                                        |           |           |          |
 | Weaving kit    |                                                                                                                                        |           |           |          |
 | Archeology kit |                                                                                                                                        |           |           |          |
-|                |                                                                                                                                        |           |           |          |
+| Painting kit   |                                                                                                                                        |           |           |          |
 
+# Assemblies
 
-
+| **ASSEMBLIES** | **INFO**                                  | **COND.** | **SLOTS** | **COST** |
+| -------------- | ----------------------------------------- | :-------: | :-------: | -------: |
+| Screwdriver    | Needed for electrical repair/dismantling. |   **1**   |           |          |
+|                |                                           |           |           |          |
+|                |                                           |           |           |          |
 
 
 
