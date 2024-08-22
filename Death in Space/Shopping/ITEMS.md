@@ -57,11 +57,14 @@
 
 # Assemblies
 
-| **ASSEMBLIES** | **INFO**                                  | **COND.** | **SLOTS** | **COST** |
-| -------------- | ----------------------------------------- | :-------: | :-------: | -------: |
-| Screwdriver    | Needed for electrical repair/dismantling. |   **1**   |           |          |
-|                |                                           |           |           |          |
-|                |                                           |           |           |          |
+| **ASSEMBLIES**   | **INFO**                                  | **COND.** | **SLOTS** | **COST** |
+| ---------------- | ----------------------------------------- | :-------: | :-------: | -------: |
+| Timer            | Needed for electrical repair/dismantling. |   **1**   |           |          |
+| Infrared sensor  |                                           |           |           |          |
+| Proximity sensor |                                           |           |           |          |
+| Health scanner   |                                           |           |           |          |
+| Igniter          |                                           |           |           |          |
+|                  |                                           |           |           |          |
 
 
 

@@ -18,105 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0579b1d4594ed8eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/LIFE AND DEATH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "903b8f7dd8a17003",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/ORIGINS III.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40963c5dca936efd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/CHARACTER DETAILS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4d0542486e27b3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Info/GLOSSARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16b66599d6905ca5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shopping/ITEMS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35598389c55a447c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Sheets/Templates/DATA SHEET.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e32ddf28b09d714",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/ABILITIES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91118388491d61c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/HACKING.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shopping/ITEMS.md",
+                "file": "Character Creation/ORIGINS III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shopping/ITEMS.md",
+                "file": "Character Creation/ORIGINS III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shopping/ITEMS.md"
+                "file": "Character Creation/ORIGINS III.md"
               }
             }
           }
@@ -245,13 +148,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16b66599d6905ca5",
+  "active": "ae041b4f10ce3b26",
   "lastOpenFiles": [
+    "Shopping/ITEMS.md",
     "World Info/GLOSSARY.md",
     "Character Creation/ORIGINS III.md",
     "Character Creation/CHARACTER DETAILS.md",
     "Character Creation/ORIGINS.md",
-    "Shopping/ITEMS.md",
     "Data Sheets/Templates/DATA SHEET.md",
     "Mechanics/LIFE AND DEATH.md",
     "Mechanics/ABILITIES.md",
