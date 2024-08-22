@@ -20,17 +20,6 @@ New characters begin with **1d8 + BDY/END** max HP
 
 
 
-Dropping to **zero** or less health makes you fall into **critical state (crit)**.
-Immediately after entering **crit**, and for all subsequent turns, make a BDY check **(** DC 12 **)**.
-Failing the BDY check will lower your **crit level** by 1, while succeeding will raise it by 1.
-
-When you first fall into **critical state**, you will be at **crit level 0**.
-If you succeed the BDY check at **crit level +1**, your character will be stabilized, resting unconsciously at **1HP**.
-If you fail the BDY check at **crit level -1**, your character will have finally met their end, being given one last moment of fleeting consciousness before experiencing **[[#DEATH]]**.
-
-| {XXX} | DEAD | <-----> |  -1   | <-----> |    0     | <-----> |     +1      | <-----> | STABLE | {XXX} |
-| :---: | :--: | :-----: | :---: | :-----: | :------: | :-----: | :---------: | :-----: | :----: | :---: |
-| {XXX} | DEAD | <-----> | DYING | <-----> | CRITICAL | <-----> | STABILIZING | <-----> | STABLE | {XXX} |
 
 Humans have 6 bodyparts: head, torso, left/right arms, and left/right legs
 
@@ -88,6 +77,24 @@ Habitable environments (e.g. stations and spacecraft) supply an ample amount of 
 
 # Death
 
+In time you will meet death, just as those who came before you and those who came before them. When the time comes, know this.
+
+### Critical State
+
+Dropping to **zero** or less health instantly puts you into **critical state (crit)**.
+While in **crit** you are unconscious, and cannot act or respond. You only see your life flashing before your eyes. 
+
+
+and for all subsequent turns, make a BDY check **(** DC 12 **)**.
+Failing the BDY check will lower your **crit level** by 1, while succeeding will raise it by 1.
+
+When you first fall into **critical state**, you will be at **crit level 0**.
+If you succeed the BDY check at **crit level +1**, your character will be stabilized, resting unconsciously at **1HP**.
+If you fail the BDY check at **crit level -1**, your character will have finally met their end, being given one last moment of fleeting consciousness before experiencing **[[#DEATH]]**.
+
+| {XXX} | DEAD | <-----> |  -1   | <-----> |    0     | <-----> |     +1      | <-----> | STABLE | {XXX} |
+| :---: | :--: | :-----: | :---: | :-----: | :------: | :-----: | :---------: | :-----: | :----: | :---: |
+| {XXX} | DEAD | <-----> | DYING | <-----> | CRITICAL | <-----> | STABILIZING | <-----> | STABLE | {XXX} |
 
 
 

@@ -18,10 +18,14 @@ Choose your origin or roll a d6 to choose one randomly. Then pick one benefit.
 
 
 > "Carbon-based replicants" was the official term scientists of the Old Age gave them. Artificial humans grown in space-based exo-wombs, Carbons are genetically engineered for a purpose. Engineers, doctors, laborers, and eventually-soldiers, most corporations that held investments in Carbon growers put them to use as grunts in their labor force.
->
-> Life as Carbon is harsh. No childhood but dreams of raw information. 
+
 > 
+
+
+
+> Life as a Carbon is harsh. 
 > 
+
 > Fresh bodies emerged from warm chambers, thoughts engraved with muscle memory without any experience you remember. You have no childhood but infodump dreams. No family except your comrades-those you will work, live, and die with. Yet, you were made to withstand 
 
 You were made for this.
@@ -63,6 +67,10 @@ You begin with one condition 2 cyberware of your choosing integrated into your b
 # III - PUNK
 
 > *Rebellious and non-conformist with a long history. They have seen civilizations collapse, and others turn against each other.*
+
+
+> 
+>
 
 **STUBBORN**
 You'd rather die than give up. Reroll any dice roll once per session.

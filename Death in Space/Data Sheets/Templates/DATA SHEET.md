@@ -1,5 +1,7 @@
+X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X--X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
 X-X-X **DEATH IN SPACE** X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X **DATA SHEET V1.166** X-X-X
-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X MEMENTO MORI X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X MEMENTO MORI X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X--X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
 X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X--X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
 
 # I - PERSONA
@@ -8,9 +10,9 @@ X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X--X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
 
 ### ORIGIN - =={origin}==
 
-| ORIGIN = | = BENEFIT(S) |
-| -------- | ------------ |
-|          |              |
+| ORIGIN | BENEFIT(S) |
+| :----: | :--------: |
+|        |            |
 
 ### ABILITIES
 
