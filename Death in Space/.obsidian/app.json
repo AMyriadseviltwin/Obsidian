@@ -10,7 +10,7 @@
   "propertiesInDocument": "visible",
   "promptDelete": false,
   "focusNewTab": true,
-  "showRibbon": true,
+  "showRibbon": false,
   "spellcheck": false,
   "livePreview": true,
   "defaultViewMode": "source"
