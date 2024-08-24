@@ -9,7 +9,10 @@
 
 To understand life you must first understand what gives you life.
 
-**Health Points (HP)** represent how much damage a body can physically take before dropping dead. All characters have **Max HP** and **Current HP** values, 
+**Health Points (HP)** represent how much damage a body can physically take before dropping dead. All characters have a **Max HP** and **Current HP** value they must track while playing.
+
+
+
 
 New characters begin with **1d8 + BDY/END** max HP
 

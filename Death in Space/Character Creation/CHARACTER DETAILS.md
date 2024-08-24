@@ -1,5 +1,7 @@
 
-Your character 
+In addition to your Origin, you have a set of **Character Details** to help 
+
+
 
 Consider your character, your creation, as an extension of you. They are yours to shape as you explore the harsh world of Space, just as their past shaped them.
 
