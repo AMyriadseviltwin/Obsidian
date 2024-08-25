@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8dfd7d7f2b58475c",
+        "id": "756706e95c0e9141",
         "type": "tabs",
         "children": [
           {
-            "id": "f2e645d9a01e24f3",
+            "id": "8aa0ee25f2c9bc5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,9 +148,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2e645d9a01e24f3",
+  "active": "8aa0ee25f2c9bc5f",
   "lastOpenFiles": [
     "Mechanics/LIFE AND DEATH.md",
+    "Home Page.md",
+    "Mechanics/COMBAT.md",
+    "Character Creation/ORIGINS III.md",
+    "Character Creation/Origins.md",
+    "Mechanics/CONDITION AND PARTS.md",
+    "Mechanics/ABILITIES.md",
+    "Mechanics/ACTIONS.canvas",
     "Images/travel_info.png",
     "Images/tenebris_official.png",
     "Images/body_example.canvas",
@@ -161,16 +168,9 @@
     "Images/Disks/printing.png",
     "Images/Disks/hyper_burst.png",
     "Character Creation/CHARACTER DETAILS.md",
-    "Mechanics/COMBAT.md",
     "Images/Background Art/bg_offline.png",
     "Images/Close Art/astronaut_shatter.png",
     "Character Creation/CREATING A CHARACTER.md",
-    "Character Creation/Origins.md",
-    "Mechanics/ABILITIES.md",
-    "Character Creation/ORIGINS III.md",
-    "Home Page.md",
-    "Mechanics/CONDITION AND PARTS.md",
-    "Mechanics/ACTIONS.canvas",
     "Shopping/ITEMS.md",
     "World Info/GLOSSARY.md",
     "Shopping/SERVICES.md",

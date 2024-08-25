@@ -21,10 +21,10 @@ Example 2:
 Melee attacks, healing hit points, encumbrance, lifting dead friends, surviving without oxygen, forcing open airlocks, withstanding g-forces, resisting cold and sickness.
 
 ### DEXTERITY (DEX)
-Defense rating, poise, speed and reflexes, dodging, climbing, your senses, sneaking, balancing, picking pockets.
+Defense rating, poise, speed and reflexes, dodging, climbing, sneaking, balancing, picking pockets.
 
 ### SAVVY (SVY)
-Intelligence, ntuition, streetsmarts, piloting spacecraft, resisting psychological effects, detecting holographic illusions, recalling lore and knowledge about the universe.
+Intelligence, intuition, your senses, streetsmarts, piloting spacecraft, resisting psychological effects, detecting holographic illusions, recalling lore and knowledge about the universe.
 
 ### TECH (TEC)
  Ranged attacks, understanding and operating technology, constructing gear, tinkering with machinery and electronics
@@ -32,60 +32,3 @@ Intelligence, ntuition, streetsmarts, piloting spacecraft, resisting psychologic
 
 ---
 ---
-
-BODY
-
-Strength/Brawn/Muscle - For exerting your muscles, punching, lifting, grabbing
-Endurance - For taking blows, resisting poison and radiation, maximum health
-Grit - For controlling your body, staying conscious, testing stamina, holding your breath
-Presence - For projection of power, intimidating others, puffing out your chest
-Premonition - For gut feelings, GM-approved instinct
-
-
-MOTORICS
-
-Alacrity - For moving your limbs, carrying your body, dodging and weaving
-Awareness - For 
-Interfacing
-
-Composure
-
-
-MIND
-
-
-Medicine - Biology
-Driving - Piloting
-Growing plants - Botany/Cuisine
-Cooking food - Cuisine
-Persuading people - Charisma/Speech
-Telling if they're lying - Charisma/Speech
-Morale health - Volition
-Resisting hangovers - Grit
-Surgery - Biology
-Historical events - Memory
-Identifying groups - Memory
-Translating text - Pattern recognition
-Playing music - Charisma
-Searching a room - Pattern recognition
-Scavenging for food - 
-
-
-
-
-Piloting
-Memory
-Anatomy
-Volition
-
-Charisma
-
-
-TECH
-
-Ingenuity
-Tinkering
-Firing
-Electrics
-Mechanics
-

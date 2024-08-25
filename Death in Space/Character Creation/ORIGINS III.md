@@ -20,3 +20,56 @@ Punk
 
 
 Since the invention of cryostasis technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Since the Old Age, Carbons 

@@ -14,7 +14,7 @@ To understand life you must first understand what gives you life.
 
 
 
-New characters begin with **1d8 + BDY/END** max HP
+New characters begin with **1d8 + BDY** max HP
 
 
 1d8 + BDY max health
@@ -100,6 +100,7 @@ If you fail the BDY check at **crit level -1**, your character will have finally
 | {XXX} | DEAD | <-----> | DYING | <-----> | CRITICAL | <-----> | STABILIZING | <-----> | STABLE | {XXX} |
 
 
+When damage reduces you to O h and there is damage remaining, you die if the remaining damage equals or exceeds your hit point maximum.
 
 
 

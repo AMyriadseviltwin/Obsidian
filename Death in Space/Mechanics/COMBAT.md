@@ -7,10 +7,10 @@
 
 # COMBAT ROUNDS
 
-Combat is structured into rounds, representing about **10 seconds** of in-game time. In a round, each participant takes one turn, where they receive **3 Action Points** they may spend on a different **Actions**.
+Combat is structured into rounds, representing about **10 seconds** of in-game time. In a round, each participant takes one turn, where they receive **3 Action Points** they may spend on different **Actions**. At the end of their turn, the participant chooses someone who has not yet acted, assigning them the next turn to act. This repeats until the round is over.
 
 ### Initiative
-The one who initiates the conflict begins the first combat round. If unclear, determine randomly.
+The one who initiates the conflict begins the first combat round. If unclear, initiative is determined randomly. 
 
 
 
