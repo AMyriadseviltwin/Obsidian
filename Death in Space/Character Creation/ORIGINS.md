@@ -5,29 +5,28 @@
 
 ---
 
+Your Origin is the core of your character. It can be anything from a bioengineered human to someone with opinions and a mohawk. Whatever your choice, it will have heavily affected your character's past - as it will their future.
 
+Consider what lead to them becoming who they are today. Have they experienced something extraordinary? Were they shunned from their home? Did they find solace in another?
+Feel free to be creative with your character and their history! Space is a big place, where all sorts of things can happen.
 
-
-
-Your Origin is the core archetype of your character. It can be be anything from a bioengineered species to someone with opinions and a mohawk. Whatever your choice, it will have heavily affected your character's past up until this point - as it will their future.
-Feel free to be creative with how you interpret your Origin 
-
-Choose your origin or roll a d6 to choose one randomly. Then pick one benefit.
+Choose your Origin, or roll a d6 to choose one randomly. Then pick one of the two benefits.
 
 
 # I - CARBON
 
-> *Grown in space-based exo-wombs. Short life spans. They live their lives offworld and are untroubled by the darkness of space. More comfortable in an EVA suit than out of one.*
+> 
 
 
-
-
--> Artifical humans
--> Grown in exo-wombs, adapted 
+-> Artificial humans
+-> Grown in exo-wombs, adapted to live off-world
+-> Mass-produced for labor; miners, engineers, doctors, soldiers
+-> Short life spans
+-> More comfortable in an EVA suit than out of one
 
 
 **LIFESPAN**
-Carbons live on average up to 60 years.
+Carbons live on average 50 years.
 
 **GENE-TAILORED LUNGS**
 Use half oxygen compared to everyone else (one step for every two normal steps).
@@ -40,6 +39,10 @@ Repair twice as fast.
 > *Ancient AI placed in a body vessel of organic material. Part machine, but with an organic CPU and a distributed nervous system that requires oxygen.*
 
 
+> Some still remember a time before the Gem Rush. Long before then, a short and brutal war waged between man and machine. It is believed the conflict sparked from 
+
+
+-> 
 
 
 **LIFESPAN**

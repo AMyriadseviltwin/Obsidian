@@ -15,7 +15,7 @@ Will you live to rise in this great void, or soundlessly screaming, bear alone a
 Follow these steps in order, filling out the corresponding sections on your data sheet as you go along:
 #### I - Set your [[ABILITIES]]
 
-#### II - Know your [[ORIGIN]]
+#### II - Know your [[ORIGINS]]
 
 #### III - Establish your [[CHARACTER DETAILS]]
 
