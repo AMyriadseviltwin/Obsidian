@@ -19,7 +19,7 @@ Choose your origin or roll a d6 to choose one randomly. Then pick one benefit.
 
 > "Carbon-based replicants" was the official term scientists of the Old Age gave them. Artificial humans grown in space-based exo-wombs, Carbons are genetically engineered for a purpose. Engineers, doctors, laborers, and eventually-soldiers, most corporations that held investments in Carbon growers put them to use as grunts in their labor force.
 
-> 
+>
 
 
 
@@ -83,6 +83,9 @@ You know everything about plants and what to use them for. You start with a pock
 
 # IV - SOLPOD
 > *Hibernating for decades, they only stay awake for short periods. They dedicate their lives to the scientific study of slow, cosmic phenomena.*
+
+
+> Since the invention of cryostasis technology and the creation of [[ADDICTIVE SUBSTANCES|pentamycetic milk]], there have always been those who sleep. 
 
 **LONG-LIVED**
 You have an old and useful contact in every port.

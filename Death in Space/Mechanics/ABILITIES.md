@@ -1,22 +1,23 @@
 
-# Setting Abilities
+# Ability Checks
 
-In Death in Space there are four abilities: **BODY (BDY)**, **DEXTERITY (DEX)**, **SAVVY (SVY)**, and **TECH (TEC)**. When player characters attempt to do something that needs a dice roll, roll a d20 and add your relevant ability score to the roll. 
+In Death in Space there are four abilities: **BODY (BDY)**, **DEXTERITY (DEX)**, **SAVVY (SVY)**, and **TECH (TEC)**. Whenever a character tries to do something where the outcome isn't guaranteed, roll a d20 and add the relevant ability score to the roll. If the result is *equal to or greater* than the check's [[GLOSSARY#DC|DC]], the roll succeeds. Otherwise, the check is failed.
 
-To roll for a new character's ability scores, **roll 2d4, one at a time**. The result is the **first roll minus the second**. Then rinse and repeat until you have a result for all four abilities. If you wish, you may redistribute any roll to any stat after you've finished rolling.
+Unlike other games, the default DC in Death in Space is 12.
 
-Example 1:
-	First roll = **4**
-	Second roll = **2**
-	Result = **2**
+### Setting Ability Scores
+To roll for a new character's ability scores, **roll 2d4, one at a time**. The result is the **first roll minus the second**. Rinse and repeat the process until you have a result for all four abilities. You may assign results to any ability you choose after you've finished rolling.
 
-Example 2:
-	First roll = **1**
-	Second roll = **4**
-	Result = **-3**
+Example
+> Roll #1 = **3**
+> Roll #2 = **2**
+> Result = **1**
 
 
-# The Abilities
+### Advantage & Disadvantage
+**Advantage** and **Disadvantage** rules 
+
+
 ### BODY (BDY)
 Melee attacks, healing hit points, encumbrance, lifting dead friends, surviving without oxygen, forcing open airlocks, withstanding g-forces, resisting cold and sickness.
 
@@ -32,3 +33,6 @@ Intelligence, intuition, your senses, streetsmarts, piloting spacecraft, resisti
 
 ---
 ---
+
+
+

@@ -1,5 +1,6 @@
 
 ### Quick Reference
+- [[#Baroxuldium]]
 - [[#BDY]]
 - [[#DR]]
 - [[#DC]]
@@ -20,6 +21,12 @@
 - [[#Whale]]
 
 ---
+---
+
+---
+#### Baroxuldium
+Element 146, commonly known as plasma. The substance notably has a deep-purple hue, is highly toxic to breathe, and in gaseous form has a high chance of igniting upon contact with oxygen. Despite being the most hazardous thing one could have on a space craft, Plasma gas is the most commonly used fuel source in space. Engines, welding tools, and some power generators depend on the gas to run - making it one of the most valuable resources in space.
+
 ---
 #### BDY
 Body. Ability that involves the use of your physical strength and toughness.
@@ -61,10 +68,8 @@ A popular torture or execution method used by brutal crews, and prisons. Involve
 Life Support System. Large, convoluted bundles of machinery that supply air, regulate temperature, and slowly attempt to scrub harmful gases from the area. Every functioning ship should have one installed and connected to its atmospheric pipenet. Sometimes comes in bulky and less effective portable versions.
 
 ---
-#### Navvy/Navvies
-Short for navigators. Hardened explorers who journey out to chart the furthest reaches of space, often alone. Steady sources of tales and rumors of 
-
-No navvy ever comes back the same as they left. Veterans usually very respected.
+#### Navvy
+Short for navigators. Explorers who venture out to chart the furthest reaches of space while maintaining the network of bridging buoys, and establishing new ones. Good sources of tales about horrors and anomalies that lurk at the edges of known space. Most return to civilized space hardened and experienced travelers, having strong bonds with each other.
 
 ---
 #### Oxygen candle
