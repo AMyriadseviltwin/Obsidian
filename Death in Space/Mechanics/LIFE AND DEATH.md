@@ -9,9 +9,12 @@
 
 To understand life you must first understand what gives you life.
 
-**Health Points (HP)** represent how much damage a body can physically take before dropping dead. All characters have **Max HP** and **Current HP** values, 
+**Health Points (HP)** represent how much damage a body can physically take before dropping dead. All characters have a **Max HP** and **Current HP** value they must track while playing.
 
-New characters begin with **1d8 + BDY/END** max HP
+
+
+
+New characters begin with **1d8 + BDY** max HP
 
 
 1d8 + BDY max health
@@ -97,6 +100,7 @@ If you fail the BDY check at **crit level -1**, your character will have finally
 | {XXX} | DEAD | <-----> | DYING | <-----> | CRITICAL | <-----> | STABILIZING | <-----> | STABLE | {XXX} |
 
 
+When damage reduces you to O h and there is damage remaining, you die if the remaining damage equals or exceeds your hit point maximum.
 
 
 
