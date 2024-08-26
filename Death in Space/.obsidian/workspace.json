@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ebf6eca6567971e",
+        "id": "40121704dd451400",
         "type": "tabs",
         "children": [
           {
-            "id": "c029f6a6bec7dde8",
+            "id": "498b1b9fc9407940",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bf81f0fcc9189bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/ABILITIES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26cbc23336ef2a88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/ORIGINS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbf450aa8f8a51fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/ORIGINS III.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9741d12d0d71ce80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Info/GLOSSARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/ORIGINS.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/ORIGINS.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/ORIGINS.md"
+                "file": "Home Page.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,17 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26cbc23336ef2a88",
+  "active": "498b1b9fc9407940",
   "lastOpenFiles": [
+    "Character Creation/ORIGIN.md",
     "Character Creation/ORIGINS III.md",
-    "Character Creation/ORIGINS.md",
+    "Character Creation/CREATING A CHARACTER.md",
+    "Character Creation/CHARACTER DETAILS.md",
+    "Home Page.md",
     "Mechanics/ABILITIES.md",
     "World Info/GLOSSARY.md",
-    "Home Page.md",
+    "Character Creation/ORIGINS.md",
     "Mechanics/CONDITION AND PARTS.md",
     "Mechanics/LIFE AND DEATH.md",
     "Mechanics/COMBAT.md",
-    "Character Creation/Origins.md",
     "Mechanics/ACTIONS.canvas",
     "Images/travel_info.png",
     "Images/tenebris_official.png",
@@ -218,10 +170,8 @@
     "Images/Disks/prototype.png",
     "Images/Disks/printing.png",
     "Images/Disks/hyper_burst.png",
-    "Character Creation/CHARACTER DETAILS.md",
     "Images/Background Art/bg_offline.png",
     "Images/Close Art/astronaut_shatter.png",
-    "Character Creation/CREATING A CHARACTER.md",
     "Shopping/ITEMS.md",
     "Shopping/SERVICES.md",
     "World Info/Origins (WIP)/VELOCITY CURSED (WIP).md",

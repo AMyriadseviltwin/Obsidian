@@ -5,11 +5,14 @@
 
 ---
 
+
+
+
+
 Your Origin is the core archetype of your character. It can be be anything from a bioengineered species to someone with opinions and a mohawk. Whatever your choice, it will have heavily affected your character's past up until this point - as it will their future.
 Feel free to be creative with how you interpret your Origin 
 
 Choose your origin or roll a d6 to choose one randomly. Then pick one benefit.
-
 
 
 # I - CARBON
@@ -17,38 +20,26 @@ Choose your origin or roll a d6 to choose one randomly. Then pick one benefit.
 > *Grown in space-based exo-wombs. Short life spans. They live their lives offworld and are untroubled by the darkness of space. More comfortable in an EVA suit than out of one.*
 
 
-> "Carbon-based replicants" was the official term scientists of the Old Age gave them. Artificial humans grown in space-based exo-wombs, Carbons are genetically engineered for a purpose. Engineers, doctors, laborers, and eventually-soldiers, most corporations that held investments in Carbon growers put them to use as grunts in their labor force.
-
->
 
 
-
-> Life as a Carbon is harsh. 
-> 
-
-> Fresh bodies emerged from warm chambers, thoughts engraved with muscle memory without any experience you remember. You have no childhood but infodump dreams. No family except your comrades-those you will work, live, and die with. Yet, you were made to withstand 
-
-You were made for this.
+-> Artifical humans
+-> Grown in exo-wombs, adapted 
 
 
 **LIFESPAN**
 Carbons live on average up to 60 years.
 
-**VOID-BORN**
+**GENE-TAILORED LUNGS**
 Use half oxygen compared to everyone else (one step for every two normal steps).
 
-**ENGINEERED TO ENGINEER**
+**GEARHEAD**
 Repair twice as fast.
 
 
 # II - CHROME
 > *Ancient AI placed in a body vessel of organic material. Part machine, but with an organic CPU and a distributed nervous system that requires oxygen.*
 
-> Spawned 
 
-
-> Records of the past may be gone but the conflict between man and machine is still remembered by some today.
->
 
 
 **LIFESPAN**
