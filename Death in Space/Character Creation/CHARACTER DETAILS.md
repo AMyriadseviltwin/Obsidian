@@ -60,7 +60,6 @@ Decide for yourself what you want to include, or roll a d20 to choose something 
 |   19    | True AIs                                                   |     |     |     | 19      | Decorated cape with asymmetrical pauldrons                                      |
 |   20    | Death                                                      |     |     |     | 20      | Suit with holographic patterns                                                  |
 
-
 ## PAST ALLEGIANCE
 Some still wear their war uniforms, while others do all they can to forget. Roll or decide your **allegiance** during the Gem War. Who are you today, and what happens when you are pushed about the past?
 
@@ -77,7 +76,6 @@ Some still wear their war uniforms, while others do all they can to forget. Roll
 | 5      | **THE CONTRACT.** As an opportunist, you swore allegiance to those who paid best.                                                                                                                                                                                                                                      |
 |        |                                                                                                                                                                                                                                                                                                                        |
 | 6      | **NONE.** You sided only with yourself and avoided the war as well as you could.                                                                                                                                                                                                                                       |
-
 
 ---
 ---

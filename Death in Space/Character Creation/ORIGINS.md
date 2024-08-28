@@ -5,50 +5,44 @@
 
 ---
 
-Your Origin is the core archetype of your character. It can be be anything from a bioengineered species to someone with opinions and a mohawk. Whatever your choice, it will have heavily affected your character's past up until this point - as it will their future.
-Feel free to be creative with how you interpret your Origin 
+Your Origin is the core of your character. It can be anything from a bioengineered human to someone with opinions and a mohawk. Whatever your choice, it will have heavily affected your character's past - as it will their future.
 
-Choose your origin or roll a d6 to choose one randomly. Then pick one benefit.
+Consider what lead to them becoming who they are today. Have they experienced something extraordinary? Were they shunned from their home? Did they find solace in another?
+Feel free to be creative with your character and their history! Space is a big place, where all sorts of things can happen.
 
+Choose your Origin, or roll a d6 to choose one randomly. Then pick one of the two benefits.
 
 
 # I - CARBON
 
-> *Grown in space-based exo-wombs. Short life spans. They live their lives offworld and are untroubled by the darkness of space. More comfortable in an EVA suit than out of one.*
-
-
-> "Carbon-based replicants" was the official term scientists of the Old Age gave them. Artificial humans grown in space-based exo-wombs, Carbons are genetically engineered for a purpose. Engineers, doctors, laborers, and eventually-soldiers, most corporations that held investments in Carbon growers put them to use as grunts in their labor force.
-
->
-
-
-
-> Life as a Carbon is harsh. 
 > 
 
-> Fresh bodies emerged from warm chambers, thoughts engraved with muscle memory without any experience you remember. You have no childhood but infodump dreams. No family except your comrades-those you will work, live, and die with. Yet, you were made to withstand 
 
-You were made for this.
+-> Artificial humans
+-> Grown in exo-wombs, adapted to live off-world
+-> Mass-produced for labor; miners, engineers, doctors, soldiers
+-> Short life spans
+-> More comfortable in an EVA suit than out of one
 
 
 **LIFESPAN**
-Carbons live on average up to 60 years.
+Carbons live on average 50 years.
 
-**VOID-BORN**
+**GENE-TAILORED LUNGS**
 Use half oxygen compared to everyone else (one step for every two normal steps).
 
-**ENGINEERED TO ENGINEER**
+**GEARHEAD**
 Repair twice as fast.
 
 
 # II - CHROME
 > *Ancient AI placed in a body vessel of organic material. Part machine, but with an organic CPU and a distributed nervous system that requires oxygen.*
 
-> Spawned 
+
+> Some still remember a time before the Gem Rush. Long before then, a short and brutal war waged between man and machine. It is believed the conflict sparked from 
 
 
-> Records of the past may be gone but the conflict between man and machine is still remembered by some today.
->
+-> 
 
 
 **LIFESPAN**
