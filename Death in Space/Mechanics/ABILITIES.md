@@ -1,11 +1,12 @@
 
 # Ability Checks
 
-In Death in Space there are four abilities: **BODY (BDY)**, **DEXTERITY (DEX)**, **SAVVY (SVY)**, and **TECH (TEC)**. Whenever a character tries to do something where the outcome isn't guaranteed, roll a d20 and add the relevant ability score to the roll. If the result is *equal to or greater* than the check's [[GLOSSARY#DC|DC]], the roll succeeds. Otherwise, the check is failed.
+In Death in Space there are four abilities:
+**BODY (BDY)**, **DEXTERITY (DEX)**, **MIND (MND)**, and **TECH (TEC)**.
 
-Unlike other games, the default DC in Death in Space is 12.
+Whenever a character tries to do something where the outcome isn't guaranteed, roll a d20 and add the relevant ability score to the roll. If the result is *equal to or greater* than  **12** (by default), the roll succeeds. Otherwise, the check fails.
 
-### Setting Ability Scores
+##### Setting Ability Scores
 To roll for a new character's ability scores, **roll 2d4, one at a time**. The result is the **first roll minus the second**. Rinse and repeat the process until you have a result for all four abilities. You may assign results to any ability you choose after you've finished rolling.
 
 Example
@@ -15,7 +16,7 @@ Example
 
 
 ### Advantage & Disadvantage
-**Advantage** and **Disadvantage** rules 
+**Advantage** and **Disadvantage** rules are in play.
 
 
 ### BODY (BDY)
@@ -24,7 +25,7 @@ Melee attacks, healing hit points, encumbrance, lifting dead friends, surviving 
 ### DEXTERITY (DEX)
 Defense rating, poise, speed and reflexes, dodging, climbing, sneaking, balancing, picking pockets.
 
-### SAVVY (SVY)
+### MIND (MND)
 Intelligence, intuition, your senses, streetsmarts, piloting spacecraft, resisting psychological effects, detecting holographic illusions, recalling lore and knowledge about the universe.
 
 ### TECH (TEC)
@@ -36,3 +37,4 @@ Intelligence, intuition, your senses, streetsmarts, piloting spacecraft, resisti
 
 
 
+ 

@@ -21,7 +21,7 @@ Use this button to start, then copy + paste in the template! (Delete this sectio
 | :------: | :----: |
 |   BODY   |   #    |
 | MOTORICS |   #    |
-|  SAVVY   |   #    |
+|   MIND   |   #    |
 |   TECH   |   #    |
 
 
@@ -38,7 +38,7 @@ Origin benefit   HP/Max HP
 
 BODY
 MOTORICS
-SAVVY
+MIND
 TEC
 
 

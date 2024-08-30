@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40121704dd451400",
+        "id": "1ebf6eca6567971e",
         "type": "tabs",
         "children": [
           {
-            "id": "498b1b9fc9407940",
+            "id": "c029f6a6bec7dde8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ability ch",
+                "query": "savvy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,20 +148,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae041b4f10ce3b26",
+  "active": "c029f6a6bec7dde8",
   "lastOpenFiles": [
-    "Character Creation/ORIGINS.md",
-    "Character Creation/ORIGINS III.md",
-    "Character Creation/CHARACTER DETAILS.md",
-    "Data Sheets/Templates/DATA SHEET.md",
-    "Data Sheets/Templates/DATA SHEET TEMPLATE.md",
-    "Home Page.md",
-    "Character Creation/CREATING A CHARACTER.md",
+    "Mechanics/LIFE AND DEATH.md",
+    "World Info/INTRODUCTION.md",
     "Mechanics/ABILITIES.md",
     "World Info/GLOSSARY.md",
+    "Data Sheets/Templates/DATA SHEET.md",
+    "Character Creation/STARTING GEAR.md",
+    "Character Creation/ORIGINS.md",
+    "Character Creation/CHARACTER DETAILS.md",
     "Mechanics/CONDITION AND PARTS.md",
-    "Mechanics/LIFE AND DEATH.md",
+    "Data Sheets/Templates/DATA SHEET TEMPLATE.md",
+    "Mechanics/HACKING.md",
+    "Images/Close Art/velocity_cursed.png",
+    "Images/Close Art/scav_rifleman.png",
+    "Images/Close Art/heart_failure.png",
+    "Shopping/ITEMS.md",
+    "Home Page.md",
+    "Character Creation/ORIGINS III.md",
     "Mechanics/COMBAT.md",
+    "Character Creation/Origins.md",
     "Mechanics/ACTIONS.canvas",
     "Images/travel_info.png",
     "Images/tenebris_official.png",
@@ -170,10 +178,7 @@
     "Images/Disks/milspec.png",
     "Images/Disks/prototype.png",
     "Images/Disks/printing.png",
-    "Images/Disks/hyper_burst.png",
-    "Images/Background Art/bg_offline.png",
-    "Images/Close Art/astronaut_shatter.png",
-    "Shopping/ITEMS.md",
+    "Character Creation/CREATING A CHARACTER.md",
     "Shopping/SERVICES.md",
     "World Info/Origins (WIP)/VELOCITY CURSED (WIP).md",
     "Shopping/CYBERNETICS.md",
@@ -182,11 +187,9 @@
     "World Info/Origins (WIP)/CHROME (WIP).md",
     "World Info/Origins (WIP)/CARBON (WIP).md",
     "World Info/Origins (WIP)/APOSTLE (WIP).md",
-    "Mechanics/HACKING.md",
     "Mechanics/WEAPONS.md",
     "Data Sheets/Templates/DATA SHEETS.canvas",
     "Data Sheets/Templates",
-    "Shopping/ADDICTIVE SUBSTANCES.md",
     "Untitled.canvas",
     "Images/Stellar Bodies",
     "World Info/Origins (WIP)",

@@ -41,7 +41,7 @@
 | Wrench         | Needed for mechanical repair/dismantling.                                                                                              |   **1**   |           |          |
 | Welding tool   | Needed for mechanical repair/dismantling.<br>Fueled by plasma gas canisters.                                                           |   **1**   |           |          |
 | Crowbar        | Allows prying open airlocks (BDY/STR),<br>among other things.                                                                          |   **1**   |           |          |
-| Multitool      | A yellow, pocket-sized device covered in<br>buttons. Allows "alternative" hacking by<br>manually pulsing exposed wires.                |   **2**   |           |          |
+| Multitool      | A yellow pocket-sized device. Allows<br>"alternative" hacking by manually<br>pulsing exposed wires.                                    |   **2**   |           |          |
 | Breach cutter  | A high-intensity plasma cutting tool.<br>Doubles the speed of mechanical<br>dismantling, but halves the speed of<br>mechanical repair. |   **3**   |           |          |
 | Hand drill     | A Golem Automatics signature power tool.<br>Able to switch between "SCREW" and "BOLT"<br>modes. Reduces use time by d2 hours.          |   **3**   |           |          |
 | Jaws of life   | A Golem Automatics signature power tool.<br>Able to switch between "PRY" and "CUT"<br>modes. Reduces use time by d2 hours.             |   **3**   |           |          |
@@ -57,14 +57,15 @@
 
 # Assemblies
 
-| **ASSEMBLIES**   | **INFO**                                  | **COND.** | **SLOTS** | **COST** |
-| ---------------- | ----------------------------------------- | :-------: | :-------: | -------: |
-| Timer            | Needed for electrical repair/dismantling. |   **1**   |           |          |
-| Infrared sensor  |                                           |           |           |          |
-| Proximity sensor |                                           |           |           |          |
-| Health scanner   |                                           |           |           |          |
-| Igniter          |                                           |           |           |          |
-|                  |                                           |           |           |          |
+| **ASSEMBLIES**   | **INFO** | **COND.** | **SLOTS** | **COST** |
+| ---------------- | -------- | :-------: | :-------: | -------: |
+| Timer            |          |   **1**   |           |          |
+| Infrared sensor  |          |           |           |          |
+| Proximity sensor |          |           |           |          |
+| Health sensor    |          |           |           |          |
+| Igniter          |          |           |           |          |
+| Light sensor     |          |           |           |          |
+| Pressure sensor  |          |           |           |          |
 
 
 

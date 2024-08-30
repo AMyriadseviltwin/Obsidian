@@ -15,7 +15,8 @@ Choose your Origin, or roll a d6 to choose one randomly. Then pick one of the tw
 
 # I - CARBON
 
-> 
+> A mastery over genetics since the Old Age wrought these Carbon Copies into the world. Artificial humans
+>
 
 
 -> Artificial humans
@@ -25,8 +26,8 @@ Choose your Origin, or roll a d6 to choose one randomly. Then pick one of the tw
 -> More comfortable in an EVA suit than out of one
 
 
-**LIFESPAN**
-Carbons live on average 50 years.
+>**LIFESPAN**
+ Carbons live on average 60 years.
 
 **GENE-TAILORED LUNGS**
 Use half oxygen compared to everyone else (one step for every two normal steps).
@@ -39,14 +40,18 @@ Repair twice as fast.
 > *Ancient AI placed in a body vessel of organic material. Part machine, but with an organic CPU and a distributed nervous system that requires oxygen.*
 
 
-> Some still remember a time before the Gem Rush. Long before then, a short and brutal war waged between man and machine. It is believed the conflict sparked from 
+> Decades before the Gem Rush, a short and brutal war was waged between man and machine. Archivists say the first strike w
+
+
+
+
 
 
 -> 
 
 
-**LIFESPAN**
-Chromes live on average up to  years.
+>**LIFESPAN**
+ Chromes live on average 300 years.
 
 **NATIVE MACHINE**
 You can converse with computers as if they were real people. Plug in and find a friend :)
@@ -62,9 +67,14 @@ You begin with one condition 2 cyberware of your choosing integrated into your b
 
 > *Rebellious and non-conformist with a long history. They have seen civilizations collapse, and others turn against each other.*
 
+HISTORY
 
-> 
+> They say the war spanned a hundred years. To you, it lasted your whole life.
+> Coined from Old Age sayings, Punks are children of war. Survivors, mercenaries, soldiers, 
 >
+
+>**LIFESPAN**
+ Punks live on average 120 years.
 
 **STUBBORN**
 You'd rather die than give up. Reroll any dice roll once per session.
@@ -81,6 +91,10 @@ You know everything about plants and what to use them for. You start with a pock
 
 > Since the invention of cryostasis technology and the creation of [[ADDICTIVE SUBSTANCES|pentamycetic milk]], there have always been those who sleep. 
 
+>**LIFESPAN**
+ Solpods live on average 140 years.
+
+
 **LONG-LIVED**
 You have an old and useful contact in every port.
 
@@ -95,7 +109,8 @@ You have a portable hibernation pod. It can regenerate lost limbs, prevents agin
 > 
 >
 
-
+>**LIFESPAN**
+ The Velocity Cursed live on average 110 years.
 
 **FUTURE MEMORY**
 You have already been here. Once per session, ask the GM for directions. Expect the answer to be as clear as your memory.
@@ -108,6 +123,8 @@ You start with a portable non-phys server, housing a virtual reality where you s
 > *Robed nihility shamans, hidden behind masks, speaking through synthetic voice scramblers. They have seen visions of the edge of the universe.*
 
 
+>**LIFESPAN**
+ Apostles live on average 130 years.
 
 **VOICE OF THE VOID**
 You can make nearby electronics emit static and crackling whispers. These voices may disorient, distract, or provide some otherwise useful effect. Be creative or confer with the GM to determine its effect.
