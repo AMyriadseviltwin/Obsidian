@@ -9,31 +9,35 @@
 
 To understand life you must first understand what gives you life.
 
-**Health Points (HP)** represent how much damage a body can physically take before dropping dead. All characters have a **Max HP** and **Current HP** value they must track while playing.
+**Health Points (HP)** represent how much damage a body can physically take before giving out. If your **HP** is reduced to zero, you will enter **critical state** (more on this later). All characters have a **Max HP** and **Current HP**, as well as a **Temporary Overall HP** bar for tracking non-permanent changes from effects like radiation damage.
+
+> New characters begin with 1d8 + BDY Max HP
 
 
+**Defense Rating (DR)** is a measure of how well a body can resist or otherwise avoid hits. Being quick and dextrous, or donning armor will increase your **DR**.
+
+> Characters have 12 + DEX DR by default without armor
 
 
-New characters begin with **1d8 + BDY** max HP
+**Morale (ML)** represents how much stress a mind can take before breaking down. If your **ML** is reduced to zero, you will suffer a heart attack (more on this later).
 
-
-1d8 + BDY max health
-12 + DEX defense rating
-
+> New characters begin with 1d4 + SVY ML
 
 
 
 
 Humans have 6 bodyparts: head, torso, left/right arms, and left/right legs
+Each bodypart has 1d4 + BDY HP
+
+d12
+1-2  - Left leg
+3-4  - Right leg
+5-6  - Left arm
+7-8  - Right arm
+9-11 - Torso
+12   - Head
 
 
-d10
-1-2 - Left leg
-3-4 - Right leg
-5 - Left arm
-6 - Right arm
-7-9 - Torso
-10 - Head
 
 
 
@@ -44,10 +48,22 @@ d10
 Human beings need 5 things to survive:
 
 >* Food (organ, 5 steps)
->* Water (vial, 5 steps)
+>* Water (vial, 4 steps)
 >* Sleep (battery, 3 steps)
 >* Heat (thermometer, 5 steps)
 >* Oxygen (air tank, 10 steps)
+
+
+
+Water
+Water is represented in 4 steps. E
+
+150
+100
+50
+0
+
+
 
 
 

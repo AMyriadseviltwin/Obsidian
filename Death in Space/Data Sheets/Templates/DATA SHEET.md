@@ -6,13 +6,10 @@ X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X--X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
 
 # I - PERSONA
 
-## ID - =={name}==
+## ID --- =={name}==
 
-### ORIGIN - =={origin}==
+#### ORIGIN --- =={origin}==
 
-| ORIGIN | BENEFIT(S) |
-| :----: | :--------: |
-|        |            |
 
 ### ABILITIES
 
@@ -81,7 +78,7 @@ THE BARS
 | :------: | :----: |
 |   BODY   |   #    |
 | MOTORICS |   #    |
-|  SAVVY   |   #    |
+|   MIND   |   #    |
 |   TECH   |   #    |
 
 
@@ -98,7 +95,7 @@ Origin benefit   HP/Max HP
 
 BODY
 MOTORICS
-SAVVY
+MIND
 TEC
 
 

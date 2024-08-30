@@ -81,6 +81,7 @@ A profession involving breaking apart spacecraft for parts and salvage. Workers 
 
 ---
 #### Supermatter
+An anomalous orange-yellow substance comprised of packets of dense matter and atoms. Coagulating around the event horizon surrounding black holes, the substance is dangerously harvested
 
 
 Term for often unhinged workers tasked with diving into the event horizon of black holes to collect "super-matter", a substance used to power gravity generators. (Cont.)

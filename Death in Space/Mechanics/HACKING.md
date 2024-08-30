@@ -19,13 +19,13 @@ All hackers need a **Hack Deck**. Beyond that, **Hacks** require either a *Cable
 
 > **Cable Assembly** — Tangled knot of cords and connectors to splice into control panels and system ports.
 
-> **Signal Broadcaster** — A brick of a device, the size of a table, and bristling with antennae. Able to send and receive signals strong enough to overcome the constant static.
+> **Signal Broadcaster** — An enormous brick of a device bristling with antennae. Able to send and receive signals strong enough to overcome the constant static.
 
 | **ITEM**           | **CONDITION (BASE / MAX)** | **SLOTS** | **PRICE** |
-| ------------------ | -------------------------- | --------- | --------: |
-| Hack Deck          | 2 / 5                      | 2         |       300 |
-| Cable Assembly     | 1 / 2                      | 1         |        15 |
-| Signal Broadcaster | 1 / 2                      | 5         |       500 |
+| ------------------ | -------------------------- | :-------: | --------: |
+| Hack Deck          | 2 / 5                      |     2     |       300 |
+| Cable Assembly     | 1 / 2                      |     1     |        15 |
+| Signal Broadcaster | 1 / 2                      |    20     |       500 |
 
 **REDUCING CONDITION**
 If a **Hack** fails, roll to reduce condition. On a failed check, roll 1d6. On a 1, reduce condition by one tier.
