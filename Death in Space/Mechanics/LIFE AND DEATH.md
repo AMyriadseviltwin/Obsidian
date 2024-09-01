@@ -7,7 +7,7 @@
 
 # Life
 
-To understand life you must first understand what gives you life.
+First, the basics:
 
 **Health Points (HP)** represent how much damage a body can physically take before giving out. If your **HP** is reduced to zero, you will enter **critical state** (more on this later). All characters have a **Max HP** and **Current HP**, as well as a **Temporary Overall HP** bar for tracking non-permanent changes from effects like radiation damage.
 
@@ -19,15 +19,42 @@ To understand life you must first understand what gives you life.
 > Characters have 12 + DEX DR by default without armor
 
 
-**Morale (ML)** represents how much stress a mind can take before breaking down. If your **ML** is reduced to zero, you will suffer a heart attack (more on this later).
+**Morale (ML)** represents how much stress a mind can take before breaking down. If your **ML** is reduced to zero, you will suffer a **Morale Break** (more on this later).
 
 > New characters begin with 1d4 + SVY ML
+
+
+### Bodyparts
+
+A body has 6 **Bodyparts**: **left leg**, **right leg**, **left arm**, **right arm**, **torso**, and the **head**. Sometimes you will be asked to make a **Bodypart Check**, in which case your roll a **d12** and consult the following table for what **Bodypart** is affected:
+
+
+| Roll d12 | Result    |
+| :------: | --------- |
+|   1-2    | Left leg  |
+|   3-4    | Right leg |
+|   5-7    | Left arm  |
+|   7-8    | Right arm |
+|   9-11   | Torso     |
+|    12    | Head      |
+
+
+
+
+Occassionally bodyparts may suffer a debilitating injury or effect, and become **Wounded**. 
+
+bodypart rolls
+bodypart checks
+
+
+wounded
+bodypart check
 
 
 
 
 Humans have 6 bodyparts: head, torso, left/right arms, and left/right legs
-Each bodypart has 1d4 + BDY HP
+
 
 d12
 1-2  - Left leg

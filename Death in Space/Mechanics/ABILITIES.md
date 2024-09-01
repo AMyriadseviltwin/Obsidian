@@ -1,4 +1,10 @@
 
+---
+
+![[chrome_sensei.png]]
+
+---
+
 # Ability Checks
 
 In Death in Space there are four abilities:
