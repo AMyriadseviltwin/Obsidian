@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "Mechanics/ABILITIES.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "savvy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Mechanics/ABILITIES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Mechanics/ABILITIES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Mechanics/ABILITIES.md"
               }
             }
           }
@@ -150,25 +150,35 @@
   },
   "active": "e5c1f33e02b9c82c",
   "lastOpenFiles": [
+    "World Info/GLOSSARY.md",
+    "Character Creation/STARTING GEAR.md",
+    "Home Page.md",
+    "Mechanics/HACKING.md",
     "World Info/INTRODUCTION.md",
     "Mechanics/LIFE AND DEATH.md",
-    "Home Page.md",
-    "Character Creation/CREATING A CHARACTER.md",
-    "Shopping/CYBERNETICS.md",
-    "Mechanics/COMBAT.md",
-    "Mechanics/ACTIONS.canvas",
-    "Mechanics/ABILITIES.md",
-    "Images/Close Art/heart_failure.png",
-    "Images/Close Art/astronaut_shatter.png",
-    "Images/Close Art/bg_crew.png",
-    "Images/Close Art/bg_offline.png",
-    "Images/Close Art/chrome_sensei.png",
-    "Images/Close Art/cyber_optics.png",
-    "Images/Close Art/dna_banner.png",
-    "Images/Close Art/vitruvian.png",
-    "Images/Close Art/velocity_cursed.png",
-    "Images/Background Art/bg_116trillionyears.png",
+    "Shopping/ITEMS.md",
     "World Info/THE TENEBRIS SYSTEM/THE TENEBRIS SYSTEM.md",
+    "Images/Close Art/chrome_sensei.png",
+    "Images/Close Art/scav_rifleman.png",
+    "Images/Close Art/bg_crew.png",
+    "Images/Close Art/dna_banner.png",
+    "Data Sheets/Templates/DATA SHEET.md",
+    "Character Creation/CREATING A CHARACTER.md",
+    "Mechanics/ABILITIES.md",
+    "Mechanics/WEAPONS.md",
+    "Mechanics/COMBAT.md",
+    "Pasted image 20240902162226.png",
+    "Pasted image 20240902162828.png",
+    "Pasted image 20240902165859.png",
+    "Images/Close Art/scav_rifleman - Copy.png",
+    "Character Creation/ORIGINS.md",
+    "Mechanics/CONDITION AND PARTS.md",
+    "Pasted image 20240902162135.png",
+    "Character Creation/CHARACTER DETAILS.md",
+    "Images/Close Art/velocity_cursed.png",
+    "Untitled.md",
+    "Shopping/CYBERNETICS.md",
+    "Mechanics/ACTIONS.canvas",
     "World Info/THE TENEBRIS SYSTEM/CON-PM28.md",
     "World Info/THE TENEBRIS SYSTEM/LLIAD.md",
     "World Info/THE TENEBRIS SYSTEM/WENDEL.md",
@@ -177,17 +187,7 @@
     "World Info/THE TENEBRIS SYSTEM/DIGAMMA.md",
     "World Info/THE TENEBRIS SYSTEM/MEZCANCRI.md",
     "World Info/THE TENEBRIS SYSTEM/INAURO.md",
-    "World Info/THE TENEBRIS SYSTEM/CHRYSALIS.md",
-    "World Info/THE TENEBRIS SYSTEM/LEPIDOPTERA.md",
-    "World Info/THE TENEBRIS SYSTEM/GLIESS GALLO.md",
-    "World Info/THE TENEBRIS SYSTEM/MESSIER .51.md",
-    "World Info/CORPORATIONS.md",
-    "World Info/THE TENEBRIS SYSTEM/LACRIMOSA.md",
-    "World Info/THE TENEBRIS SYSTEM/AMISSA.md",
-    "World Info/Origins (WIP)/APOSTLE (WIP).md",
     "World Info/THE TENEBRIS SYSTEM",
-    "Mechanics/WEAPONS.md",
-    "World Info/GLOSSARY.md",
     "Images/body_example.canvas",
     "Data Sheets/Templates/DATA SHEETS.canvas",
     "Data Sheets/Templates",

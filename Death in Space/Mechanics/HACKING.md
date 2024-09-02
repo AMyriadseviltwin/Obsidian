@@ -1,3 +1,4 @@
+
 # Mechanics
 
 Hacking has three prerequisites: **Hack Points**, **Hardware**, and **Hacks**.

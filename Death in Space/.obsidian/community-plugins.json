@@ -2,5 +2,6 @@
   "homepage",
   "editor-width-slider",
   "open-in-new-tab",
-  "optimize-canvas-connections"
+  "optimize-canvas-connections",
+  "automatic-table-of-contents"
 ]

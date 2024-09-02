@@ -84,7 +84,7 @@ Human civilization is old. In this time, most lives are lived in outer space; on
 
 ## THE GEM WAR
 
-Just over a century ago, navigators discovered a new form of crystal in the desolate Tenebris system. The dark yellow stones grew like cysts on roots that extended deep into the soil of barren moons and planets. Named for their extraordinary refracting qualities, **fractal gems** soon became invaluable to the development of advanced technologies, such as energy weapons and shielding, and the revolutionary **bridger engines** fitted onto buoys and spacecraft that rip through the fabric of spacetime.
+Just over a century ago, prospectors discovered a new form of crystal in the desolate Tenebris system. The dark yellow stones grew like cysts on roots that extended deep into the soil of barren moons and planets. Named for their extraordinary refracting qualities, **fractal gems** soon became invaluable to the development of advanced technologies, such as energy weapons and shielding, and the revolutionary **bridger engines** fitted onto buoys and spacecraft that rip through the fabric of spacetime.
 
 Although the potential of the gems was far from understood, their value soared. The sector's biggest megacorporations 
 

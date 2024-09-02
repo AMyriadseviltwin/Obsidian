@@ -5,24 +5,69 @@
 
 ---
 
-# Ability Checks
+### Ability Checks
 
-In Death in Space there are four abilities:
-**BODY (BDY)**, **DEXTERITY (DEX)**, **MIND (MND)**, and **TECH (TEC)**.
-
-Whenever a character tries to do something where the outcome isn't guaranteed, roll a d20 and add the relevant ability score to the roll. If the result is *equal to or greater* than  **12** (by default), the roll succeeds. Otherwise, the check fails.
-
-##### Setting Ability Scores
-To roll for a new character's ability scores, **roll 2d4, one at a time**. The result is the **first roll minus the second**. Rinse and repeat the process until you have a result for all four abilities. You may assign results to any ability you choose after you've finished rolling.
-
-Example
-> Roll #1 = **3**
-> Roll #2 = **2**
-> Result = **1**
+In Death in Space there are four abilities.
 
 
-### Advantage & Disadvantage
-**Advantage** and **Disadvantage** rules are in play.
+> **BODY (BDY)**
+> Represents your raw muscle power, physical endurance, strength, instinct, and stamina.
+>
+> *Used for:*
+> Melee attacks, health, carry capacity, grabbing things, withstanding exposure.
+>
+
+
+> **MOTORICS (MOT)**
+> Represents your speed, maneuverability, steadiness, awareness, and reaction speed.
+>
+> *Used for:*
+> Defense Rating, non-firearm ranged attacks, dodging, perception, interfacing, stealth.
+>
+
+
+> **SAVVY (SVY)**
+> Represents your mental ability, memory, willpower, insight, charisma, and piloting skills.
+>
+> *Used for:*
+> Morale, piloting spacecraft, recalling knowledge, conversing, psychological resistance.
+>
+
+
+> **TECH (TEC)**
+> Represents your skills with tech, identifying parts, using firearms, tinkering, salvaging.
+>
+> *Used for:*
+> Hacking, ranged attacks, repairing and dismantling, technical knowledge, crafting.
+>
+
+
+Each character has an **Ability Score** for every ability, the value representing how good or bad they are in that specific ability. When a character has to resolve a situation where the outcome is uncertain (e.g. forcing open an airlock, holding onto a friend, spotting traps, etc.) the player rolls a **d20**.
+
+Add the relevant **Ability Score** to the roll, and you will have the character's result.
+If the result is *equal to or greater* than **12** (by default) the check succeeds, otherwise you fail the check.
+
+
+**SETTING ABILITY SCORES**
+New characters generate their Ability Scores by rolling 2d4, one at a time.
+The result is the first roll minus the second. Rinse and repeat until all four abilities have a value.
+
+You may assign any result to any ability after you've finished rolling.
+
+> *Example*
+> First roll = 1
+> Second roll = 4
+> Result = -3
+>
+
+
+### Advantage and Disadvantage
+
+Some situations or conditions may better or worsen your 
+
+
+
+### Opposed Rolls
 
 
 ### BODY (BDY)
@@ -43,4 +88,6 @@ Intelligence, intuition, your senses, streetsmarts, piloting spacecraft, resisti
 
 
 
- 
+
+
+
