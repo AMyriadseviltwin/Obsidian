@@ -5,41 +5,63 @@
 
 ---
 
-# Life
-
-To understand life you must first understand what gives you life.
-
 **Health Points (HP)** represent how much damage a body can physically take before giving out. If your **HP** is reduced to zero, you will enter **critical state** (more on this later). All characters have a **Max HP** and **Current HP**, as well as a **Temporary Overall HP** bar for tracking non-permanent changes from effects like radiation damage.
 
 > New characters begin with 1d8 + BDY Max HP
+>
 
+**Defense Rating (DR)** is a measure of how well a body can resist or otherwise avoid hits. Increasing your MOT Ability Score or donning armor will increase your **DR**.
 
-**Defense Rating (DR)** is a measure of how well a body can resist or otherwise avoid hits. Being quick and dextrous, or donning armor will increase your **DR**.
+> Characters have 12 + MOT DR by default without armor
+>
 
-> Characters have 12 + DEX DR by default without armor
-
-
-**Morale (ML)** represents how much stress a mind can take before breaking down. If your **ML** is reduced to zero, you will suffer a heart attack (more on this later).
+**Morale (ML)** represents how much stress a mind can take before breaking down. If your **ML** is reduced to zero, you will suffer a **Morale Break** (more on this later).
 
 > New characters begin with 1d4 + SVY ML
+>
+
+### Bodyparts
+
+A body has 6 **Bodyparts**: **left leg**, **right leg**, **left arm**, **right arm**, **torso**, and the **head**. Sometimes you will be asked to make a **Bodypart Check**, in which case your roll a **d12** and consult the following table for what **Bodypart** is affected:
+
+| d12  |  Result   |
+| :--: | :-------: |
+| 1-2  | Left leg  |
+| 3-4  | Right leg |
+| 5-7  | Left arm  |
+| 7-8  | Right arm |
+| 9-11 |   Torso   |
+|  12  |   Head    |
+
+Occassionally bodyparts may suffer a debilitating injury or effect, and become **Wounded**. 
+
+
+
+### Critical State
+
+If your **HP** is reduced to zero or less, you're immediately put into a **Critical State (Crit)**. While in **Crit** you are completely unconscious, meaning you cannot spend **Action Points** or respond to any outside stimuli.
 
 
 
 
-Humans have 6 bodyparts: head, torso, left/right arms, and left/right legs
-Each bodypart has 1d4 + BDY HP
 
-d12
-1-2  - Left leg
-3-4  - Right leg
-5-6  - Left arm
-7-8  - Right arm
-9-11 - Torso
-12   - Head
+Dropping to **zero** or less health instantly puts you into **critical state (crit)**.
+While in **crit** you are unconscious, and cannot act or respond. You only see your life flashing before your eyes. 
 
 
+For all subsequent turns, make a BDY check **(** DC 12 **)**.
+Failing the BDY check will lower your **crit level** by 1, while succeeding will raise it by 1.
+
+When you first fall into **critical state**, you will be at **crit level 0**.
+If you succeed the BDY check at **crit level +1**, your character will be stabilized, resting unconsciously at **1HP**.
+If you fail the BDY check at **crit level -1**, your character will have finally met their end, being given one last moment of fleeting consciousness before experiencing **[[#DEATH]]**.
+
+| {XXX} | DEAD | <-----> |  -1   | <-----> |    0     | <-----> |     +1      | <-----> | STABLE | {XXX} |
+| :---: | :--: | :-----: | :---: | :-----: | :------: | :-----: | :---------: | :-----: | :----: | :---: |
+| {XXX} | DEAD | <-----> | DYING | <-----> | CRITICAL | <-----> | STABILIZING | <-----> | STABLE | {XXX} |
 
 
+When damage reduces you to O h and there is damage remaining, you die if the remaining damage equals or exceeds your hit point maximum.
 
 
 
@@ -137,9 +159,9 @@ When damage reduces you to O h and there is damage remaining, you die if the r
 
 
 
-
-
-
+---
+---
+---
 
 
 
@@ -220,7 +242,7 @@ Humans have 5 **basic needs** they require to survive:
 Creating a temperature system for "Death in Space" to simulate temperature and its effects on player characters can add a compelling layer of survival mechanics to the game. Here’s a detailed system you can integrate into your TTRPG:
 
 
-### Temperature System for Death in Space
+
 
 #### 1. Temperature Tiers
 Divide temperatures into five tiers, each representing a range of temperatures and associated effects:
@@ -294,10 +316,6 @@ The players land on a frozen moon with temperatures at -50°C. They need to find
 - **Failure:** They take 1d6 cold damage.
 - **Lingering Effect:** Their movement speed is halved.
 - **Long-Term Effect:** After 24 hours, they gain a level of exhaustion.
-
-If they find a cave (shelter), the temperature tier reduces to Cold, making survival easier.
-
-This system provides a structured way to incorporate temperature into your game, adding depth and challenging the players to manage environmental hazards effectively.
 
 
 

@@ -1,4 +1,10 @@
 
+---
+
+![[velocity_cursed.png]]
+
+---
+
 In addition to your Origin, you have a set of **Character Details** to help 
 
 

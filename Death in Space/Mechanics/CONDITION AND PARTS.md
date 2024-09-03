@@ -1,4 +1,7 @@
 
+!
+
+
 # Condition
 
 Nearly everything is patched up, fixed, or repurposed beyond recognition. The current state of objects are represented by their **Condition**. An object's **Maximum Condition** is mainly a measure of how technically sophisticated the object is; the more complex it is, the higher its condition can be.

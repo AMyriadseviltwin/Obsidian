@@ -1,31 +1,14 @@
 
-### Quick Reference
-- [[#Baroxuldium]]
-- [[#BDY]]
-- [[#DR]]
-- [[#DC]]
-- [[#Equip/Equipped]]
-- [[#Fractal gems]]
-- [[#Hauler]]
-- [[#Holos]]
-- [[#HP]]
-- [[#Keelhauling]]
-- [[#LSS]]
-- [[#Navvy/Navvies]]
-- [[#Oxygen candle]]
-- [[#Shipbreaker]]
-- [[#SVY]]
-- [[#TEC]]
-- [[#Tenebris]]
-- [[#Voiding]]
-- [[#Whale]]
 
----
----
+```table-of-contents
+title: # Quick Reference
+style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 0 # Include headings up to the specified level
+includeLinks: true # Make headings clickable
+debugInConsole: false # Print debug info in Obsidian console
+```
 
----
-#### Baroxuldium
-Element 146, commonly known as plasma. The substance notably has a deep-purple hue, is highly toxic to breathe, and in gaseous form has a high chance of igniting upon contact with oxygen. Despite being the most hazardous thing one could have on a space craft, Plasma gas is the most commonly used fuel source in space. Engines, welding tools, and some power generators depend on the gas to run - making it one of the most valuable resources in space.
 
 ---
 #### BDY
@@ -37,7 +20,7 @@ Defense rating. Represents how good a thing can prevent hits, whether by dodging
 
 ---
 #### DC
-Difficulty class. Represents how difficult something your character must roll to succeed in is. A roll equal to or higher than the ability check's DC is a success.
+Difficulty class. Represents how difficult an ability check is. A roll equal to or higher than the ability check's DC is a success.
 
 ---
 #### Equipping/Equipped
@@ -61,11 +44,16 @@ Health points. Represents how much damage a thing can take before breaking or dy
 
 ---
 #### Keelhauling
-A popular torture or execution method used by brutal crews, and prisons. Involves tying a person to a heavy tow-cable, looped through the ship, and pushing them out an airlock without protection. The person would then be dragged through space at a high speed from bow to stern, forced to feel the oxygen in their body expand and escape, the blood in their veins and the spit on their tongue bubble and boil in the vacuum, until they reach the airlock at the other side of the ship. [Inspired by a practice of old world sailors.](https://en.wikipedia.org/wiki/Keelhauling)
+A popular torture or execution method used by brutal crews and prison complexes. Involves tying a person to a heavy tow-cable, looped through the ship, and pushing them out an airlock without protection. The person would then be dragged through space at a high speed from bow to stern, forced to feel the oxygen in their body expand and escape, the blood in their veins and the spit on their tongue bubble and boil in the vacuum, until they reach an airlock at the other side of the ship. [Similar to a practice used by Old Age sailors.](https://en.wikipedia.org/wiki/Keelhauling)
 
 ---
 #### LSS
 Life Support System. Large, convoluted bundles of machinery that supply air, regulate temperature, and slowly attempt to scrub harmful gases from the area. Every functioning ship should have one installed and connected to its atmospheric pipenet. Sometimes comes in bulky and less effective portable versions.
+
+
+---
+#### MOT
+Motorics.
 
 ---
 #### Navvy
@@ -74,6 +62,10 @@ Short for navigators. Explorers who venture out to chart the furthest reaches of
 ---
 #### Oxygen candle
 Bulky, canister-like object, (Cont.)
+
+---
+#### Plasma
+Element 146, also known as Baroxuldium. The substance has a deep-purple hue, is highly toxic to breathe, and in gaseous form is highly flammable when exposed to oxygen. Despite being the most hazardous thing one could have on a space craft, plasma gas is the most commonly used fuel source in space. Engines, welding tools, and some power generators depend on the gas to run - making it one of the most valuable resources in space.
 
 ---
 #### Shipbreaking
@@ -108,4 +100,3 @@ Code name for emergency response teams working under [[CORPORATIONS#AMBERCOVE|Am
 
 ---
 ---
-

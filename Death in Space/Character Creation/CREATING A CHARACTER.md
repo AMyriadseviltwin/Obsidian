@@ -19,8 +19,8 @@ Follow these steps in order, filling out the corresponding sections on your data
 
 #### III - Establish your [[CHARACTER DETAILS]]
 
-#### IV - Determine your [[LIFE AND DEATH#Health Points and Defense Rating|MAX HP AND DR]]
+#### IV - Determine your [[LIFE AND DEATH|MAX HP AND DR]]
 
-#### V - Starting 
+#### V - Choose your [[STARTING GEAR]]
 
 
