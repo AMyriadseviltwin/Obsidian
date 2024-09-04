@@ -16,7 +16,10 @@ Choose your Origin, or roll a d6 to choose one randomly. Then pick one of the tw
 # I - CARBON
 
 > A mastery over genetics since the Old Age wrought these Carbon Copies into the world. Artificial humans
->
+
+
+
+
 
 
 -> Artificial humans
@@ -40,7 +43,7 @@ Repair twice as fast.
 > *Ancient AI placed in a body vessel of organic material. Part machine, but with an organic CPU and a distributed nervous system that requires oxygen.*
 
 
-> Decades before the Gem Rush, a short and brutal war was waged between man and machine. Archivists say the first strike w
+> Decades before the Gem Rush, a short and brutal war was waged between man and machine. Archivists say the peace was first broken by a malfunctioning AI governing the colony Echelon IX
 
 
 
@@ -106,8 +109,12 @@ You have a portable hibernation pod. It can regenerate lost limbs, prevents agin
 > *Ill-fated ones that have started to lose their connection to reality. They shift and flicker in and out of spacetime with glitching faces.*
 
 
-> 
+> Reality Disassociation Syndrome (RDS) 
 >
+>
+
+
+
 
 >**LIFESPAN**
  The Velocity Cursed live on average 110 years.

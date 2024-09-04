@@ -5,6 +5,9 @@
 
 ---
 
+### Living
+
+
 **Health Points (HP)** represent how much damage a body can physically take before giving out. If your **HP** is reduced to zero, you will enter **critical state** (more on this later). All characters have a **Max HP** and **Current HP**, as well as a **Temporary Overall HP** bar for tracking non-permanent changes from effects like radiation damage.
 
 > New characters begin with 1d8 + BDY Max HP
@@ -24,7 +27,7 @@
 
 A body has 6 **Bodyparts**: **left leg**, **right leg**, **left arm**, **right arm**, **torso**, and the **head**. Sometimes you will be asked to make a **Bodypart Check**, in which case your roll a **d12** and consult the following table for what **Bodypart** is affected:
 
-| d12  |  Result   |
+| D12  |  Result   |
 | :--: | :-------: |
 | 1-2  | Left leg  |
 | 3-4  | Right leg |
@@ -149,7 +152,13 @@ When damage reduces you to O h and there is damage remaining, you die if the r
 
 
 
+### Wounds
 
+|     | Dismembered | Bone Fracture | Mangled | Flayed |     |
+| --- | ----------- | ------------- | ------- | ------ | --- |
+|     |             |               |         |        |     |
+|     |             |               |         |        |     |
+|     |             |               |         |        |     |
 
 
 
