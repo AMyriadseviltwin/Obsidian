@@ -63,7 +63,7 @@ debugInConsole: false # Print debug info in Obsidian console
 | Fake grenade                                                                                      |          |           |     -     |         5 |
 | Flashlight, Golem brand model P78C                                                                |          |           |     1     |        20 |
 | Magnetic boots                                                                                    |          |           |     2     |        80 |
-| Medical grade epoxy (first aid, instantly glues wounds, 5 uses)                                   |          |           |     -     |        50 |
+| Medical grade epoxy (SVY check +1d8HP, +1d4HP on fail, 5 uses)                                    |          |           |     -     |        50 |
 | Military grade glow flares (5 sticks)                                                             |          |           |     -     |        10 |
 | Pack of incense sticks                                                                            |          |           |     -     |         4 |
 | Synthetic pheremone spray (customizable, most creatures)                                          |          |           |     1     |        20 |
