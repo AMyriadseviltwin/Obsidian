@@ -1,5 +1,35 @@
 
-# 
+
+```table-of-contents
+title: # Quick Reference
+style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 0 # Include headings up to the specified level
+includeLinks: true # Make headings clickable
+debugInConsole: false # Print debug info in Obsidian console
+```
+
+
+---
+
+# Assemblies
+
+| **ASSEMBLIES**   | **INFO** | **COND.** | **SLOTS** | **COST** |
+| ---------------- | -------- | :-------: | :-------: | -------: |
+| Timer            |          |   **1**   |           |          |
+| Infrared sensor  |          |           |           |          |
+| Proximity sensor |          |           |           |          |
+| Health sensor    |          |           |           |          |
+| Igniter          |          |           |           |          |
+| Light sensor     |          |           |           |          |
+| Pressure sensor  |          |           |           |          |
+| Recorder         |          |           |           |          |
+| Speaker          |          |           |           |          |
+|                  |          |           |           |          |
+|                  |          |           |           |          |
+
+
+# Equipment
 
 | **EQUIPMENT**                                                                                     | **SLOTS** | **COST** |     |
 | ------------------------------------------------------------------------------------------------- | :-------: | -------: | --- |
@@ -32,6 +62,7 @@
 | Vial (15u)                                                                                        |           |          |     |
 |                                                                                                   |           |          |     |
 
+
 # Tools
 
 | **TOOLS**      | **INFO**                                                                                                                               | **COND.** | **SLOTS** | **COST** |
@@ -54,18 +85,6 @@
 | Weaving kit    |                                                                                                                                        |           |           |          |
 | Archeology kit |                                                                                                                                        |           |           |          |
 | Painting kit   |                                                                                                                                        |           |           |          |
-
-# Assemblies
-
-| **ASSEMBLIES**   | **INFO** | **COND.** | **SLOTS** | **COST** |
-| ---------------- | -------- | :-------: | :-------: | -------: |
-| Timer            |          |   **1**   |           |          |
-| Infrared sensor  |          |           |           |          |
-| Proximity sensor |          |           |           |          |
-| Health sensor    |          |           |           |          |
-| Igniter          |          |           |           |          |
-| Light sensor     |          |           |           |          |
-| Pressure sensor  |          |           |           |          |
 
 
 
