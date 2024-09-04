@@ -1,47 +1,60 @@
 
-# Inventory
+### Item Slots
+Each and every character has an inventory with a limited amount of **Item Slots**. Items typically take up one **Item Slot**, but items that are especially large or heavy - such as armor, heavy weapons, and Vehicle Parts - may take up more slots.
+
+However, small items (no larger than your hand) that are easy to stack or bundle together - such as bullets, magazines, and Components - may be grouped together in a single **Item Slot**. Items stacked in this way can hold no more than **12** of itself.
+
+> Characters have 12 + BDY Item Slots by default
+>
 
 
-A player character has 12 + BDY Item Slots. Items typically take up one time slot, but items that are especially heavy or unwieldy, such as armor or heavy weapons, can take up more slots. many smaller items can be grouped together in one or several slots. As a general rule, one slot holds about one to two kilograms ofweight.
+**CARRYING TOO MUCH**
+Carrying more than 12 + BDY items imposes **Disadvantage** on all actions.
+Carrying more than double that amount reduces speed to zero.
 
-CARRYING TOO MUCH
-A person carrying more than 12 + BDY items has disadvantage on all actions.
+### Holocredits
+**Holocredits**, or Holos, are the most common form of currency widely used throughout Space. They are stored digitally in a single, secure account held in the tiny pill-shaped **Datachip** implanted somewhere in your body (you may choose where, most are implanted in the wrist).
+
+> New characters begin with 3d10 spare Holos.
+>
 
 
-SAVINGS
-Holos are the most common form of currency. you start with 3d10 spare holos.
-
-
-STARTING GEAR
-For Starting Gear, roll or choose one of the starting kits and a personal trinket.
-
+### Equipment Packs
+New characters begin with some useful things they either found, bought, stole, or built from scrap in the past. Choose one of the six options below, or roll a **d6** to pick randomly.
 
 | D6  | PACK TYPE  | CONTENT                                                                                                                                     |
 | :-: | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 |  1  | PROSPECTOR | Handheld material analyzer, magnetic boots, disposable breathing mask (1d6 minutes air per use), container with engine grease               |
 |  2  | RING THUG  | Distillery kit, lockpicks, holographic playing cards, 1d4 doses of unknown substances mixed in a bag                                        |
-|  3  | MERCENARY  | Uniform, planetary parachute, proximity alarm (needs batteries), Golem-brand flashlight model P78C                                          |
+|  3  | CONTRACTOR | Uniform, orbital parachute, proximity alarm (needs batteries), Golem-brand flashlight model P78C                                            |
 |  4  | NOMAD      | Liquid purifier (removes contaminants), hover hammock, box of spices, pack of incense sticks, rechargeable battery with compact solar panel |
-|  5  | ENGINEER   | Multitool, duct tape, hack deck, welding tool, workwear                                                                                     |
+|  5  | TECHNICIAN | Multitool, duct tape, hack deck, welding tool, workwear                                                                                     |
 |  6  | EXPLORER   | Emergency food rations (1 week), light EVA suit, 5 military grade light sticks, extreme weather tent                                        |
+|     |            |                                                                                                                                             |
+|     |            |                                                                                                                                             |
+|     | EXPLORER   | Handheld ore scanner,                                                                                                                       |
+|     | CONTRACTOR |                                                                                                                                             |
+|     | NOMAD      | Pack of incense sticks,                                                                                                                     |
+|     | RESEARCHER | Chemical analyzer,                                                                                                                          |
+|     | CORPO      |                                                                                                                                             |
+|     | SALVAGER   |                                                                                                                                             |
 
 
-STARTING BONUS
-If the sum of your ability scores is negative, roll 1d6 for a starting bonus:
+### Starting Bonus
+For the unlucky ones, fate has a boon in store for you.
+If the sum of your ability scores are negative, roll 1d6 for a starting bonus.
 
-| D6  | STARTING BONUS                                 |
-| :-: | ---------------------------------------------- |
-|  1  | A random cosmic mutation                       |
-|  2  | +3 starting HP                                 |
-|  3  | A pistol                                       |
-|  4  | A hack deck                                    |
-|  5  | An AI guard animal (DR 13, 1d4 HP, bite (1d6)) |
-|  6  | A heavy EVA suit                               |
+| D6  | STARTING BONUS                                           |
+| :-: | -------------------------------------------------------- |
+|  1  | A random cosmic mutation                                 |
+|  2  | +3 starting HP                                           |
+|  3  | A pistol                                                 |
+|  4  | A hack deck                                              |
+|  5  | An AI guard animal<br>(DR 13, 1d4 HP, bite (1d6 damage)) |
+|  6  | A heavy EVA suit                                         |
 
 
-
-
-PERSONAL TRINKET
+### Personal Trinket
 
 
 | D20 | PERSONAL TRINKET                                                                                 |
